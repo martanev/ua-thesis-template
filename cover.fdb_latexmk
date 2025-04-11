@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1737729322.37678 "c:/Users/Geral/Documents/GitHub/ua-thesis-template/cover.tex" "cover.pdf" "cover" 1737729332.58502 0
+["pdflatex"] 1737734853.24948 "c:/Users/Geral/Documents/GitHub/ua-thesis-template/cover.tex" "cover.pdf" "cover" 1737734854.49632 0
   "C:/Users/Geral/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1730229782 82705 9cc9f144eacd499bc23a611703921467 ""
   "C:/Users/Geral/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1000.pk" 1737729332 20028 aa8692fe762ef9bbbb3315a395e35eb2 ""
   "C:/Users/Geral/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1730229523 11948316 6d66bd07215049ca975d9f504cf32f03 ""
@@ -49,9 +49,9 @@
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/t1phv.fd" 1585253778 1536 47067fbe7c3ffed1ede7aaa7b8549d7a ""
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ts1phv.fd" 1585253778 1221 ec0c641cd2e0fb69a449534a0279b5ca ""
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/tex/latex/tools/xspace.sty" 1718356376 4545 e3f4de576c914e2000f07f69a891c071 ""
-  "c:/Users/Geral/Documents/GitHub/ua-thesis-template/cover.tex" 1737729315 11500 a3ecabe3043438da5bfaed44880bfa37 ""
-  "cover.aux" 1737729325 464 ddab2a01dcdf230264fc9909418accae "pdflatex"
-  "cover.tex" 1737729315 11500 a3ecabe3043438da5bfaed44880bfa37 ""
+  "c:/Users/Geral/Documents/GitHub/ua-thesis-template/cover.tex" 1737734851 11492 ed32e0832399d0ff4d607117777f4f58 ""
+  "cover.aux" 1737734854 468 25f856bda801a44eba83b3d9858fa2d5 "pdflatex"
+  "cover.tex" 1737734851 11492 ed32e0832399d0ff4d607117777f4f58 ""
   "figs/uaLogoNew.pdf" 1730226112 2911 e3fb8f77330f913af87495e8c6b0dc02 ""
   "uaThesisTemplate.sty" 1737728942 20142 09f8eec40c24278e34496560bcef945a ""
   (generated)
