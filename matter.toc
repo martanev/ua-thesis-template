@@ -14,6 +14,6 @@
 \contentsline {chapter}{\chapternumberline {2}Methods and Results}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Database Acquisition}{3}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Feature Extraction}{4}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Data Exploration}{4}{section.2.3}%
+\contentsline {section}{\numberline {2.3}Data Analysis}{4}{section.2.3}%
 \contentsline {chapter}{References}{5}{chapter*.11}%
 \contentsline {appendix}{\chapternumberline {A}Additional content}{5}{appendix.A}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  17 MAY 2025 20:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  17 MAY 2025 23:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -727,4 +727,1686 @@ Package zref Info: New property: posy on input line 82.
  (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/marginnote\marginnote.sty
 Package: marginnote 2018/08/09 1.4b non floating margin notes for LaTeX
 \c@mn@abspage=\count357
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/soulpos\soulpos.sty
+Package: soulpos 2021/10/15 v1.2 Fancy underlining
+\ulp@subcnt=\count358
+\ulp@cnt=\count359
+\ulp@out=\write130
+\ulp@in=\read5
+\ulwidth=\dimen267
 )
+
+Package hyperref Warning: Option `pdftex' has already been used,
+(hyperref)                setting the option has no effect on input line 1369.
+
+Package zref Info: New property list: pdfcomment on input line 2735.
+Package zref Info: New property: PCPDFOBJID on input line 2736.
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
+\BKM@id=\count360
+)) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2024/05/23 v1.9h multicolumn formatting (FMi)
+\c@tracingmulticols=\count361
+\mult@box=\box64
+\multicol@leftmargin=\dimen268
+\c@unbalance=\count362
+\c@collectmore=\count363
+\doublecol@number=\count364
+\multicoltolerance=\count365
+\multicolpretolerance=\count366
+\full@width=\dimen269
+\page@free=\dimen270
+\premulticols=\dimen271
+\postmulticols=\dimen272
+\multicolsep=\skip262
+\multicolbaselineskip=\skip263
+\partial@page=\box65
+\last@line=\box66
+\mc@boxedresult=\box67
+\maxbalancingoverflow=\dimen273
+\mult@rightbox=\box68
+\mult@grightbox=\box69
+\mult@firstbox=\box70
+\mult@gfirstbox=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\c@minrows=\count367
+\c@columnbadness=\count368
+\c@finalcolumnbadness=\count369
+\last@try=\dimen274
+\multicolovershoot=\dimen275
+\multicolundershoot=\dimen276
+\mult@nat@firstbox=\box108
+\colbreak@box=\box109
+\mc@col@check@num=\count370
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2024/05/23 v2.17q AMS math features
+\@mathmargin=\skip264
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks34
+\ex@=\dimen277
+)) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen278
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count371
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count372
+\leftroot@=\count373
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count374
+\DOTSCASE@=\count375
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box110
+\strutbox@=\box111
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen279
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count376
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count377
+\dotsspace@=\muskip18
+\c@parentequation=\count378
+\dspbrk@lvl=\count379
+\tag@help=\toks35
+\row@=\count380
+\column@=\count381
+\maxfields@=\count382
+\andhelp@=\toks36
+\eqnshift@=\dimen280
+\alignsep@=\dimen281
+\tagshift@=\dimen282
+\tagwidth@=\dimen283
+\totwidth@=\dimen284
+\lineht@=\dimen285
+\@envbody=\toks37
+\multlinegap=\skip265
+\multlinetaggap=\skip266
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/eurosym\eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box112
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.sty
+Package: todonotes 2024/01/05 v1.1.7 Todonotes source and documentation.
+Package: todonotes 2024/01/05
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks39
+\pgfutil@tempdima=\dimen286
+\pgfutil@tempdimb=\dimen287
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box113
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks40
+\pgfkeys@temptoks=\toks41
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks42
+))
+\pgf@x=\dimen288
+\pgf@y=\dimen289
+\pgf@xa=\dimen290
+\pgf@ya=\dimen291
+\pgf@xb=\dimen292
+\pgf@yb=\dimen293
+\pgf@xc=\dimen294
+\pgf@yc=\dimen295
+\pgf@xd=\dimen296
+\pgf@yd=\dimen297
+\w@pgf@writea=\write131
+\r@pgf@reada=\read6
+\c@pgf@counta=\count383
+\c@pgf@countb=\count384
+\c@pgf@countc=\count385
+\c@pgf@countd=\count386
+\t@pgf@toka=\toks43
+\t@pgf@tokb=\toks44
+\t@pgf@tokc=\toks45
+\pgf@sys@id@count=\count387
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count388
+\pgfsyssoftpath@bigbuffer@items=\count389
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen298
+\pgfmath@count=\count390
+\pgfmath@box=\box114
+\pgfmath@toks=\toks46
+\pgfmath@stack@operand=\toks47
+\pgfmath@stack@operation=\toks48
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count391
+)) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen299
+\pgf@picmaxx=\dimen300
+\pgf@picminy=\dimen301
+\pgf@picmaxy=\dimen302
+\pgf@pathminx=\dimen303
+\pgf@pathmaxx=\dimen304
+\pgf@pathminy=\dimen305
+\pgf@pathmaxy=\dimen306
+\pgf@xx=\dimen307
+\pgf@xy=\dimen308
+\pgf@yx=\dimen309
+\pgf@yy=\dimen310
+\pgf@zx=\dimen311
+\pgf@zy=\dimen312
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen313
+\pgf@path@lasty=\dimen314
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen315
+\pgf@shorten@start@additional=\dimen316
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box115
+\pgf@hbox=\box116
+\pgf@layerbox@main=\box117
+\pgf@picture@serial@count=\count392
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen317
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen318
+\pgf@pt@y=\dimen319
+\pgf@pt@temp=\dimen320
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen321
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen322
+\pgf@sys@shading@range@num=\count393
+\pgf@shadingcount=\count394
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box118
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box119
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen323
+\pgf@nodesepend=\dimen324
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen325
+\pgffor@skip=\dimen326
+\pgffor@stack=\toks49
+\pgffor@toks=\toks50
+)) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count395
+\pgfplotmarksize=\dimen327
+)
+\tikz@lastx=\dimen328
+\tikz@lasty=\dimen329
+\tikz@lastxsaved=\dimen330
+\tikz@lastysaved=\dimen331
+\tikz@lastmovetox=\dimen332
+\tikz@lastmovetoy=\dimen333
+\tikzleveldistance=\dimen334
+\tikzsiblingdistance=\dimen335
+\tikz@figbox=\box120
+\tikz@figbox@bg=\box121
+\tikz@tempbox=\box122
+\tikz@tempbox@bg=\box123
+\tikztreelevel=\count396
+\tikznumberofchildren=\count397
+\tikznumberofcurrentchild=\count398
+\tikz@fig@count=\count399
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count400
+\pgfmatrixcurrentcolumn=\count401
+\pgf@matrix@numberofcolumns=\count402
+)
+\tikz@expandcount=\count403
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+\c@@todonotes@numberoftodonotes=\count404
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count405
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count406
+\c@listtotal=\count407
+\c@listcount=\count408
+\c@liststart=\count409
+\c@liststop=\count410
+\c@citecount=\count411
+\c@citetotal=\count412
+\c@multicitecount=\count413
+\c@multicitetotal=\count414
+\c@instcount=\count415
+\c@maxnames=\count416
+\c@minnames=\count417
+\c@maxitems=\count418
+\c@minitems=\count419
+\c@citecounter=\count420
+\c@maxcitecounter=\count421
+\c@savedcitecounter=\count422
+\c@uniquelist=\count423
+\c@uniquename=\count424
+\c@refsection=\count425
+\c@refsegment=\count426
+\c@maxextratitle=\count427
+\c@maxextratitleyear=\count428
+\c@maxextraname=\count429
+\c@maxextradate=\count430
+\c@maxextraalpha=\count431
+\c@abbrvpenalty=\count432
+\c@highnamepenalty=\count433
+\c@lownamepenalty=\count434
+\c@maxparens=\count435
+\c@parenlevel=\count436
+\blx@tempcnta=\count437
+\blx@tempcntb=\count438
+\blx@tempcntc=\count439
+\c@blx@maxsection=\count440
+\blx@maxsegment@0=\count441
+\blx@notetype=\count442
+\blx@parenlevel@text=\count443
+\blx@parenlevel@foot=\count444
+\blx@sectionciteorder@0=\count445
+\blx@sectionciteorderinternal@0=\count446
+\blx@entrysetcounter=\count447
+\blx@biblioinstance=\count448
+\labelnumberwidth=\skip267
+\labelalphawidth=\skip268
+\biblabelsep=\skip269
+\bibnamesep=\skip270
+\bibinitsep=\skip271
+\bibparsep=\skip272
+\bibhang=\skip273
+\blx@bcfin=\read7
+\blx@bcfout=\write132
+\blx@langwohyphens=\language80
+\c@mincomprange=\count449
+\c@maxcomprange=\count450
+\c@mincompwidth=\count451
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count452
+\c@savedafterword=\count453
+\c@annotator=\count454
+\c@savedannotator=\count455
+\c@author=\count456
+\c@savedauthor=\count457
+\c@bookauthor=\count458
+\c@savedbookauthor=\count459
+\c@commentator=\count460
+\c@savedcommentator=\count461
+\c@editor=\count462
+\c@savededitor=\count463
+\c@editora=\count464
+\c@savededitora=\count465
+\c@editorb=\count466
+\c@savededitorb=\count467
+\c@editorc=\count468
+\c@savededitorc=\count469
+\c@foreword=\count470
+\c@savedforeword=\count471
+\c@holder=\count472
+\c@savedholder=\count473
+\c@introduction=\count474
+\c@savedintroduction=\count475
+\c@namea=\count476
+\c@savednamea=\count477
+\c@nameb=\count478
+\c@savednameb=\count479
+\c@namec=\count480
+\c@savednamec=\count481
+\c@translator=\count482
+\c@savedtranslator=\count483
+\c@shortauthor=\count484
+\c@savedshortauthor=\count485
+\c@shorteditor=\count486
+\c@savedshorteditor=\count487
+\c@labelname=\count488
+\c@savedlabelname=\count489
+\c@institution=\count490
+\c@savedinstitution=\count491
+\c@lista=\count492
+\c@savedlista=\count493
+\c@listb=\count494
+\c@savedlistb=\count495
+\c@listc=\count496
+\c@savedlistc=\count497
+\c@listd=\count498
+\c@savedlistd=\count499
+\c@liste=\count500
+\c@savedliste=\count501
+\c@listf=\count502
+\c@savedlistf=\count503
+\c@location=\count504
+\c@savedlocation=\count505
+\c@organization=\count506
+\c@savedorganization=\count507
+\c@origlocation=\count508
+\c@savedoriglocation=\count509
+\c@origpublisher=\count510
+\c@savedorigpublisher=\count511
+\c@publisher=\count512
+\c@savedpublisher=\count513
+\c@language=\count514
+\c@savedlanguage=\count515
+\c@origlanguage=\count516
+\c@savedoriglanguage=\count517
+\c@pageref=\count518
+\c@savedpageref=\count519
+\shorthandwidth=\skip274
+\shortjournalwidth=\skip275
+\shortserieswidth=\skip276
+\shorttitlewidth=\skip277
+\shortauthorwidth=\skip278
+\shorteditorwidth=\skip279
+\locallabelnumberwidth=\skip280
+\locallabelalphawidth=\skip281
+\localshorthandwidth=\skip282
+\localshortjournalwidth=\skip283
+\localshortserieswidth=\skip284
+\localshorttitlewidth=\skip285
+\localshortauthorwidth=\skip286
+\localshorteditorwidth=\skip287
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+\c@textcitecount=\count520
+\c@textcitetotal=\count521
+\c@textcitemaxnames=\count522
+\c@biburlbigbreakpenalty=\count523
+\c@biburlbreakpenalty=\count524
+\c@biburlnumpenalty=\count525
+\c@biburlucpenalty=\count526
+\c@biburllcpenalty=\count527
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count528
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-natbib.def
+File: blx-natbib.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'ieee'...
+Package biblatex Info: ... file 'ieee.bbx' found.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.bbx
+File: ieee.bbx 2024/08/14 v1.3g biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric-comp.bbx
+File: numeric-comp.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count529
+\c@bbx:relatedtotal=\count530
+))))
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.cbx
+File: ieee.cbx 2024/08/14 v1.3g biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-comp.cbx
+File: numeric-comp.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count531
+\c@cbx@tempcntb=\count532
+\c@cbx@tempcntc=\count533
+\c@cbx@tempcntd=\count534
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\cites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2024-10-09 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
+Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
+)) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/acronym\acronym.sty
+Package: acronym 2024/03/30 v1.49 Support for acronyms (Tobias Oetiker)
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/bigfoot\suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count535
+\xs_countb=\count536
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+)
+\AC@clearlist=\toks51
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2024-09-30 v3.3.22 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count537
+\l__siunitx_number_exponent_fixed_int=\count538
+\l__siunitx_number_min_decimal_int=\count539
+\l__siunitx_number_min_integer_int=\count540
+\l__siunitx_number_round_precision_int=\count541
+\l__siunitx_number_lower_threshold_int=\count542
+\l__siunitx_number_upper_threshold_int=\count543
+\l__siunitx_number_group_first_int=\count544
+\l__siunitx_number_group_size_int=\count545
+\l__siunitx_number_group_minimum_int=\count546
+\l__siunitx_angle_tmp_dim=\dimen336
+\l__siunitx_angle_marker_box=\box124
+\l__siunitx_angle_unit_box=\box125
+\l__siunitx_compound_count_int=\count547
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/translations\translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+)
+\l__siunitx_table_tmp_box=\box126
+\l__siunitx_table_tmp_dim=\dimen337
+\l__siunitx_table_column_width_dim=\dimen338
+\l__siunitx_table_integer_box=\box127
+\l__siunitx_table_decimal_box=\box128
+\l__siunitx_table_uncert_box=\box129
+\l__siunitx_table_before_box=\box130
+\l__siunitx_table_after_box=\box131
+\l__siunitx_table_before_dim=\dimen339
+\l__siunitx_table_carry_dim=\dimen340
+\l__siunitx_unit_tmp_int=\count548
+\l__siunitx_unit_position_int=\count549
+\l__siunitx_unit_total_int=\count550
+
+Package siunitx Info: Option "detect-weight" has been deprecated in this
+(siunitx)             release.
+(siunitx)             
+(siunitx)             Use "reset-text-series = false, text-series-to-math =
+(siunitx)             true" as a replacement.
+
+
+
+Package siunitx Warning: Option "binary-units" has been removed in this
+(siunitx)                release.
+
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count551
+\float@exts=\toks52
+\float@box=\box132
+\@float@everytoks=\toks53
+\@floatcapt=\box133
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count552
+\l__lipsum_a_int=\count553
+\l__lipsum_b_int=\count554
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+\lines@idxfile=\write133
+\openout4 = `lines.idx'.
+
+
+Writing index file lines.idx 
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 677.4003pt by 441pt
+Spine and edge margins: 85.35826pt and 71.13188pt
+Upper and lower margins: 85.35826pt and 82.28828pt
+Headheight and headsep: 13.6pt and 19.8738pt
+Footskip: 27.46295pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 57.13188pt
+Sidecapsep and sidecapwidth: 7pt and 49pt
+Sidebarhsep and sidebarwidth: 7pt and 49pt
+Sidebarvsep and sidebartopsep: 13.6pt and 0pt
+Sidebarheight: 594.32022pt
+Sidefoothsep and sidefootwidth: 7pt and 49pt
+Sidefootvsep and sidefootheight: 13.6pt and 594.32022pt
+******************************************************
+
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count555
+\@quotereset=\count556
+(matter.aux (glossary.aux) (chapters/chapter1.aux) (chapters/chapter2.aux) (chapters/appendix-more.aux))
+\openout1 = `matter.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 238.
+LaTeX Font Info:    ... okay on input line 238.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count557
+\scratchdimen=\dimen341
+\scratchbox=\box134
+\nofMPsegments=\count558
+\nofMParguments=\count559
+\everyMPshowfont=\toks54
+\MPscratchCnt=\count560
+\MPscratchDim=\dimen342
+\MPnumerator=\count561
+\makeMPintoPDFobject=\count562
+\everyMPtoPDFconversion=\toks55
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+LaTeX Info: Redefining \microtypecontext on input line 238.
+Package microtype Info: Applying patch `item' on input line 238.
+Package microtype Info: Applying patch `toc' on input line 238.
+Package microtype Info: Applying patch `eqnum' on input line 238.
+Package microtype Info: Applying patch `footnote' on input line 238.
+Package microtype Info: Applying patch `verbatim' on input line 238.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 238.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 238.
+Package soulpos Info: Loading soulutf8 on input line 238.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/soul\soulutf8.sty
+Package: soulutf8 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+
+Package soulutf8 Warning: This package is obsolete,
+(soulutf8)                use the soul package directly. 
+(soulutf8)                 on input line 29.
+
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks56
+\SOUL@lasttoken=\toks57
+\SOUL@syllable=\toks58
+\SOUL@cmds=\toks59
+\SOUL@buffer=\toks60
+\SOUL@token=\toks61
+\SOUL@syllgoal=\dimen343
+\SOUL@syllwidth=\dimen344
+\SOUL@charkern=\dimen345
+\SOUL@hyphkern=\dimen346
+\SOUL@dimen=\dimen347
+\SOUL@dimeni=\dimen348
+\SOUL@minus=\count563
+\SOUL@comma=\count564
+\SOUL@apo=\count565
+\SOUL@grave=\count566
+\SOUL@spaceskip=\skip288
+\SOUL@ttwidth=\dimen349
+\SOUL@uldp=\dimen350
+\SOUL@ulht=\dimen351
+))
+Package biblatex Info: Trying to load language 'portuguese'...
+Package biblatex Info: ... file 'portuguese.lbx' found.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\portuguese.lbx
+File: portuguese.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `matter.bcf'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'matter.bbl' found.
+ (matter.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                rfc44
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
+Package biblatex Info: Reference section=0 on input line 238.
+Package biblatex Info: Reference segment=0 on input line 238.
+Package translations Info: no dictionary file `translations-basic-dictionary-portuges.trsl' found. on input line 238.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 238.
+<cover.pdf, id=6, 597.50829pt x 845.0471pt>
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf>
+Package pdftex.def Info: cover.pdf  used on input line 244.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf>
+Package pdftex.def Info: cover.pdf  used on input line 244.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<cover.pdf, id=9, page=1, 597.50829pt x 845.0471pt>
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 1>
+Package pdftex.def Info: cover.pdf , page1 used on input line 244.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 1>
+Package pdftex.def Info: cover.pdf , page1 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 1>
+Package pdftex.def Info: cover.pdf , page1 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 1>
+Package pdftex.def Info: cover.pdf , page1 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 1>
+Package pdftex.def Info: cover.pdf , page1 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+\openout4 = `matter.mw'.
+
+[0
+
+
+ <./cover.pdf{C:/Users/Geral/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}>] (matter.mw)
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.upa'.
+
+Package marginnote Info: Using workaround for absolute page number on input line 244.
+<cover.pdf, id=25, page=2, 597.50829pt x 845.0471pt>
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 2>
+Package pdftex.def Info: cover.pdf , page2 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 2>
+Package pdftex.def Info: cover.pdf , page2 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 2>
+Package pdftex.def Info: cover.pdf , page2 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+\openout4 = `matter.mw'.
+
+[1
+
+ <./cover.pdf>] (matter.mw)
+\openout4 = `matter.mw'.
+
+<cover.pdf, id=36, page=3, 597.50829pt x 845.0471pt>
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 3>
+Package pdftex.def Info: cover.pdf , page3 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 3>
+Package pdftex.def Info: cover.pdf , page3 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 3>
+Package pdftex.def Info: cover.pdf , page3 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+\openout4 = `matter.mw'.
+
+[2
+
+ <./cover.pdf>] (matter.mw)
+\openout4 = `matter.mw'.
+
+<cover.pdf, id=41, page=4, 597.50829pt x 845.0471pt>
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 4>
+Package pdftex.def Info: cover.pdf , page4 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 4>
+Package pdftex.def Info: cover.pdf , page4 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 4>
+Package pdftex.def Info: cover.pdf , page4 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+\openout4 = `matter.mw'.
+
+[3
+
+ <./cover.pdf>] (matter.mw)
+\openout4 = `matter.mw'.
+
+<cover.pdf, id=46, page=5, 597.50829pt x 845.0471pt>
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 5>
+Package pdftex.def Info: cover.pdf , page5 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 5>
+Package pdftex.def Info: cover.pdf , page5 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 5>
+Package pdftex.def Info: cover.pdf , page5 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+\openout4 = `matter.mw'.
+
+[4
+
+ <./cover.pdf>] (matter.mw)
+\openout4 = `matter.mw'.
+
+<cover.pdf, id=73, page=6, 597.50829pt x 845.0471pt>
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 6>
+Package pdftex.def Info: cover.pdf , page6 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 6>
+Package pdftex.def Info: cover.pdf , page6 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 6>
+Package pdftex.def Info: cover.pdf , page6 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+\openout4 = `matter.mw'.
+
+[5
+
+ <./cover.pdf>] (matter.mw)
+\openout4 = `matter.mw'.
+
+<cover.pdf, id=78, page=7, 597.50829pt x 845.0471pt>
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 7>
+Package pdftex.def Info: cover.pdf , page7 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 7>
+Package pdftex.def Info: cover.pdf , page7 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 7>
+Package pdftex.def Info: cover.pdf , page7 used on input line 244.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+\openout4 = `matter.mw'.
+
+[6
+
+ <./cover.pdf>] (matter.mw)
+\openout4 = `matter.mw'.
+
+ (matter.toc
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 4.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 4.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+))
+
+\openout4 = `matter.mw'.
+
+[1
+
+{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}] (matter.mw)
+\openout4 = `matter.mw'.
+
+ (matter.lof)
+
+\openout4 = `matter.mw'.
+
+[2
+
+] (matter.mw)
+\openout4 = `matter.mw'.
+
+ (matter.lot)
+
+\openout4 = `matter.mw'.
+
+[3
+
+] (matter.mw)
+\openout4 = `matter.mw'.
+
+\openout2 = `glossary.aux'.
+
+ (glossary.tex)
+
+\openout4 = `matter.mw'.
+
+[4
+
+
+
+] (matter.mw)
+\openout4 = `matter.mw'.
+
+\openout2 = `chapters/chapter1.aux'.
+
+ (chapters/chapter1.tex
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 8.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 8.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 4--8
+[]$[]$ 
+ []
+
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package acronym Info: Label `acro:ecg' newly defined as it shall be overridden
+although it is yet undefined on input line 14.
+Package acronym Info: Label `acro:cpt' newly defined as it shall be overridden
+although it is yet undefined on input line 14.
+Package acronym Info: Label `acro:nps' newly defined as it shall be overridden
+although it is yet undefined on input line 14.
+Package acronym Info: Label `acro:h2o' newly defined as it shall be overridden
+although it is yet undefined on input line 16.
+
+Package acronym Warning: Acronym `h2o' is not defined on input line 16.
+
+
+Package acronym Warning: Acronym `h2o' is not defined on input line 16.
+
+
+Package acronym Warning: Acronym `h2o' is not defined on input line 16.
+
+
+Package acronym Warning: Acronym `h2o' is not defined on input line 16.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 18.
+Package acronym Info: Label `acro:adsl' newly defined as it shall be overridden
+although it is yet undefined on input line 18.
+
+Package acronym Warning: Acronym `adsl' is not defined on input line 18.
+
+
+Package acronym Warning: Acronym `adsl' is not defined on input line 18.
+
+
+Package acronym Warning: Acronym `adsl' is not defined on input line 18.
+
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 24.
+(C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 38.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+\openout4 = `matter.mw'.
+
+[1
+
+
+
+
+
+{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}] (matter.mw)
+\openout4 = `matter.mw'.
+
+
+
+LaTeX Warning: Reference `lbl:snippet-test' on page 2 undefined on input line 44.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'rfc44' on page 2 undefined on input line 80.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'rfc44' on page 2 undefined on input line 81.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'rfc44' on page 2 undefined on input line 82.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'rfc44' on page 2 undefined on input line 83.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'rfc44' on page 2 undefined on input line 84.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'rfc44' on page 2 undefined on input line 85.
+
+)
+
+\openout4 = `matter.mw'.
+
+[2] (matter.mw)
+\openout4 = `matter.mw'.
+
+\openout2 = `chapters/chapter2.aux'.
+
+ (chapters/chapter2.tex
+<./figs/image.png, id=181, 1257.69875pt x 799.98875pt>
+File: ./figs/image.png Graphic file (type png)
+<use ./figs/image.png>
+Package pdftex.def Info: ./figs/image.png  used on input line 8.
+(pdftex.def)             Requested size: 441.0pt x 280.50073pt.
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+
+
+\openout4 = `matter.mw'.
+
+[3
+
+
+
+
+ <./figs/image.png>] (matter.mw)
+\openout4 = `matter.mw'.
+
+)
+
+\openout4 = `matter.mw'.
+
+[4] (matter.mw)
+\openout4 = `matter.mw'.
+
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/9'.
+(microtype)             Ignoring protrusion settings for this character.
+
+
+\openout4 = `matter.mw'.
+
+[5
+
+
+
+
+] (matter.mw)
+\openout4 = `matter.mw'.
+
+\openout2 = `chapters/appendix-more.aux'.
+
+ (chapters/appendix-more.tex)
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.403 \include{chapters/appendix-more}
+                                      
+\openout4 = `matter.mw'.
+
+ [5
+
+
+
+] (matter.mw)
+\openout4 = `matter.mw'.
+
+Package marginnote Info: Using workaround for absolute page number on input line 403.
+\tf@toc=\write134
+\openout4 = `matter.toc'.
+
+\tf@lof=\write135
+\openout4 = `matter.lof'.
+
+\tf@lot=\write136
+\openout4 = `matter.lot'.
+
+ (matter.aux
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+ (glossary.aux
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+) (chapters/chapter1.aux
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+) (chapters/chapter2.aux
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+)
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+ (chapters/appendix-more.aux
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+))
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2020/03/25>
+ ***********
+
+
+ *File List*
+  memoir.cls    2024/01/26 v3.8.2 configurable book, report, article document class
+  xpatch.sty    2020/03/25 v0.3a Extending etoolbox patching commands
+   expl3.sty    2024-10-09 L3 programming layer (loader) 
+l3backend-pdftex.def    2024-05-08 L3 backend support: PDF output (pdfTeX)
+  xparse.sty    2024-08-16 L3 Experimental document command parser
+etoolbox.sty    2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+   iftex.sty    2022/02/03 v1.0f TeX engine tests
+   mem11.clo    2022/07/29 v0.5 memoir class 11pt size option
+   array.sty    2024/06/14 v2.6d Tabular extension package (FMi)
+ dcolumn.sty    2023/07/08 v1.06 decimal alignment package (DPC)
+delarray.sty    2014/10/28 v1.01 array delimiter package (DPC)
+tabularx.sty    2023/12/11 v2.12a `tabularx' package (DPC)
+booktabs.sty    2020/01/12 v1.61803398 Publication quality tables
+ nameref.sty    2023-11-26 v2.56 Cross-referencing by name of section
+refcount.sty    2019/12/15 v3.6 Data extraction from label references (HO)
+ ltxcmds.sty    2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+infwarerr.sty    2019/12/03 v1.5 Providing info/warning/error messages (HO)
+gettitlestring.sty    2019/12/15 v1.6 Cleanup title references (HO)
+kvoptions.sty    2022-06-15 v3.15 Key value format for package options (HO)
+  keyval.sty    2022/05/29 v1.15 key=value parser (DPC)
+kvsetkeys.sty    2022-10-05 v1.19 Key value parser (HO)
+verbatim.sty    2008/07/23
+shortvrb.sty    2008/07/23
+textcase.sty    2023/07/27 v1.04 Text only upper/lower case changing (DPC)
+inputenc.sty    2024/02/08 v1.3d Input encoding file
+ lmodern.sty    2015/05/01 v1.6.1 Latin Modern Fonts
+ fontenc.sty    2021/04/29 v2.0v Standard LaTeX package
+   t1lmr.fd    2015/05/01 v1.6.1 Font defs for Latin Modern
+  ifthen.sty    2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+pdfpages.sty    2024/08/20 v0.6b Insert pages of external PDF documents (AM)
+    calc.sty    2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+ eso-pic.sty    2023/05/03 v3.0c eso-pic (RN)
+  xcolor.sty    2024/09/29 v3.02 LaTeX color extensions (UK)
+   color.cfg    2016/01/02 v1.6 sample color configuration
+  pdftex.def    2024/04/13 v1.2c Graphics/color driver for pdftex
+mathcolor.ltx
+graphicx.sty    2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+graphics.sty    2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    2023/12/02 v1.11 sin cos tan (DPC)
+graphics.cfg    2016/06/04 v1.11 sample graphics configuration
+pppdftex.def    2024/08/20 v0.6b Pdfpages driver for pdfTeX (AM)
+morewrites.sty    2024/02/02 Always room for a new write
+primargs.sty    2024/02/02 Parsing arguments of primitives
+   babel.sty    2024/10/20 v24.12 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
+ bblopts.cfg    2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+ english.ldf    2017/06/06 v3.3r English support from the babel system
+portuguese.ldf
+babel-portuguese.tex
+babel-english.tex
+microtype.sty    2024/03/29 v3.1b Micro-typographical refinements (RS)
+microtype-pdftex.def    2024/03/29 v3.1b Definitions specific to pdftex (RS)
+microtype.cfg    2024/03/29 v3.1b microtype main configuration file (RS)
+ caption.sty    2023/08/05 v3.6o Customizing captions (AR)
+caption3.sty    2023/07/31 v2.4d caption3 kernel (AR)
+caption-memoir.sto    2023/09/08 v2.2c Adaption of the caption package to the memoir document class (AR)
+subcaption.sty    2023/07/28 v1.6b Sub-captions (AR)
+hyperref.sty    2024-07-10 v7.01j Hypertext links for LaTeX
+kvdefinekeys.sty    2019-12-19 v1.6 Define keys (HO)
+pdfescape.sty    2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+pdftexcmds.sty    2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ hycolor.sty    2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+stringenc.sty    2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+  pd1enc.def    2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
+ intcalc.sty    2019/12/15 v1.3 Expandable calculations with integers (HO)
+   puenc.def    2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
+     url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
+  bitset.sty    2019/12/09 v1.3 Handle bit-vector datatype (HO)
+bigintcalc.sty    2019/12/15 v1.5 Expandable calculations on big integers (HO)
+atbegshi-ltx.sty    2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+ hpdftex.def    2024-07-10 v7.01j Hyperref driver for pdfTeX
+atveryend-ltx.sty    2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+rerunfilecheck.sty    2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+uniquecounter.sty    2019/12/15 v1.4 Provide unlimited unique counter (HO)
+memhfixc.sty    2023/09/10 v1.22 hyperref package fixes for memoir class
+ comment.sty    
+pdfcomment.sty    2018/11/01 pdfcomment.sty v2.4a - Josef Kleber (C) 2008-2012, 2015-2016, 2018
+ xkeyval.sty    2022/06/16 v2.9 package option processing (HA)
+ xkeyval.tex    2014/12/03 v2.7a key=value parser (HA)
+datetime2.sty    2021/03/21 v1.5.7 (NLCT) date and time formats
+tracklang.sty    2022/12/13 v1.6.1 (NLCT) Track Languages
+tracklang.tex    2022/12/13 v1.6.1 (NLCT) Track Languages Generic Code
+datetime2-portuges.ldf    2018/08/21 v1.1
+ ifxetex.sty    2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+ifluatex.sty    2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+datetime2-portuges-ascii.ldf    2018/08/21 v1.1
+datetime2-english.ldf    2019/10/21 v1.05 (NLCT)
+datetime2-english-base.ldf    2019/10/21 v1.05 (NLCT)
+zref-savepos.sty    2023-09-14 v2.35 Module savepos for zref (HO)
+zref-base.sty    2023-09-14 v2.35 Module base for zref (HO)
+etexcmds.sty    2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+ auxhook.sty    2019-12-17 v1.6 Hooks for auxiliary files (HO)
+marginnote.sty    2018/08/09 1.4b non floating margin notes for LaTeX
+   ifpdf.sty    2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+ soulpos.sty    2021/10/15 v1.2 Fancy underlining
+bookmark.sty    2023-12-10 v1.31 PDF bookmarks (HO)
+bkm-pdftex.def    2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
+multicol.sty    2024/05/23 v1.9h multicolumn formatting (FMi)
+ amsmath.sty    2024/05/23 v2.17q AMS math features
+ amstext.sty    2021/08/26 v2.01 AMS text
+  amsgen.sty    1999/11/30 v2.0 generic functions
+  amsbsy.sty    1999/11/29 v1.2d Bold Symbols
+  amsopn.sty    2022/04/08 v2.04 operator names
+ amssymb.sty    2013/01/14 v3.01 AMS font symbols
+amsfonts.sty    2013/01/14 v3.01 Basic AMSFonts support
+ eurosym.sty    1998/08/06 v1.1 European currency symbol ``Euro''
+todonotes.sty    2024/01/05
+    tikz.sty    2023-01-15 v3.1.10 (3.1.10)
+     pgf.sty    2023-01-15 v3.1.10 (3.1.10)
+  pgfrcs.sty    2023-01-15 v3.1.10 (3.1.10)
+pgfrcs.code.tex
+ pgfcore.sty    2023-01-15 v3.1.10 (3.1.10)
+  pgfsys.sty    2023-01-15 v3.1.10 (3.1.10)
+pgfsys.code.tex
+pgfsyssoftpath.code.tex    2023-01-15 v3.1.10 (3.1.10)
+pgfsysprotocol.code.tex    2023-01-15 v3.1.10 (3.1.10)
+pgfcore.code.tex
+pgfcomp-version-0-65.sty    2023-01-15 v3.1.10 (3.1.10)
+pgfcomp-version-1-18.sty    2023-01-15 v3.1.10 (3.1.10)
+  pgffor.sty    2023-01-15 v3.1.10 (3.1.10)
+ pgfkeys.sty    
+pgfkeys.code.tex
+ pgfmath.sty    
+pgfmath.code.tex
+pgffor.code.tex
+tikz.code.tex
+biblatex.sty    2024/03/21 v3.20 programmable bibliographies (PK/MW)
+  logreq.sty    2010/08/04 v1.0 xml request logger
+  logreq.def    2010/08/04 v1.0 logreq spec v1.0
+  blx-dm.def    2024/03/21 v3.20 biblatex datamodel (PK/MW)
+blx-compat.def    2024/03/21 v3.20 biblatex compatibility (PK/MW)
+biblatex.def    2024/03/21 v3.20 biblatex compatibility (PK/MW)
+blx-natbib.def    2024/03/21 v3.20 biblatex compatibility (PK/MW)
+standard.bbx    2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+ numeric.bbx    2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+numeric-comp.bbx    2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+    ieee.bbx    2024/08/14 v1.3g biblatex bibliography style
+numeric-comp.cbx    2024/03/21 v3.20 biblatex citation style (PK/MW)
+    ieee.cbx    2024/08/14 v1.3g biblatex citation style
+biblatex.cfg    
+blx-case-expl3.sty    2024/03/21 v3.20 expl3 case changing code for biblatex
+ acronym.sty    2024/03/30 v1.49 Support for acronyms (Tobias Oetiker)
+  suffix.sty    2006/07/15 1.5a Variant command support
+ xstring.sty    2023/08/22 v1.86 String manipulations (CT)
+indentfirst.sty    2023/07/02 v1.03 Indent first paragraph (DPC)
+ siunitx.sty    2024-09-30 v3.3.22 A comprehensive (SI) units package
+translations.sty    2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+   float.sty    2001/11/08 v1.3d Float enhancements (AL)
+  lipsum.sty    2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+l3keys2e.sty    2024-08-16 LaTeX2e option processing using LaTeX3 keys
+  lipsum.ltd
+placeins.sty    2005/04/18  v 2.2
+supp-pdf.mkii
+epstopdf-base.sty    2020-01-24 v2.11 Base part for package epstopdf
+  grfext.sty    2019/12/03 v1.3 Manage graphics extensions (HO)
+epstopdf-sys.cfg    2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+pdflscape.sty    2022-10-27 v0.13 Display of landscape pages in PDF
+pdflscape-nometadata.sty    2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+  lscape.sty    2020/05/28 v3.02 Landscape Pages (DPC)
+  mt-cmr.cfg    2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+soulutf8.sty    2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+    soul.sty    2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+soul-ori.sty    2023-06-14 v3.1 letterspacing/underlining (mf)
+portuguese.lbx    2024/03/21 v3.20 biblatex localization (PK/MW)
+ english.lbx    2024/03/21 v3.20 biblatex localization (PK/MW)
+  matter.bbl
+translations-basic-dictionary-english.trsl    (english translation file `translations-basic-dictionary')
+   cover.pdf    Graphic file (type pdf)
+   cover.pdf    Graphic file (type pdf)
+   cover.pdf    Graphic file (type pdf)
+   cover.pdf    Graphic file (type pdf)
+   cover.pdf    Graphic file (type pdf)
+   cover.pdf    Graphic file (type pdf)
+   cover.pdf    Graphic file (type pdf)
+   cover.pdf    Graphic file (type pdf)
+   cover.pdf    Graphic file (type pdf)
+   cover.pdf    Graphic file (type pdf)
+  ot1lmr.fd    2015/05/01 v1.6.1 Font defs for Latin Modern
+  omllmm.fd    2015/05/01 v1.6.1 Font defs for Latin Modern
+ omslmsy.fd    2015/05/01 v1.6.1 Font defs for Latin Modern
+ omxlmex.fd    2015/05/01 v1.6.1 Font defs for Latin Modern
+    umsa.fd    2013/01/14 v3.01 AMS symbols A
+  mt-msa.cfg    2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+    umsb.fd    2013/01/14 v3.01 AMS symbols B
+  mt-msb.cfg    2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+glossary.tex
+chapters/chapter1.tex
+  ts1lmr.fd    2015/05/01 v1.6.1 Font defs for Latin Modern
+  t1lmtt.fd    2015/05/01 v1.6.1 Font defs for Latin Modern
+chapters/chapter2.tex
+./figs/image.png
+chapters/appendix-more.tex
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.bcf'.
+
+Package logreq Info: Writing requests to 'matter.run.xml'.
+\openout1 = `matter.run.xml'.
+
+\openout4 = `lines.idx'.
+
+\openout4 = `matter.upa'.
+
+\openout4 = `matter.toc'.
+
+\openout4 = `matter.lof'.
+
+\openout4 = `matter.lot'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 48102 strings out of 473897
+ 971597 string characters out of 5726461
+ 2107477 words of memory out of 5000000
+ 69799 multiletter control sequences out of 15000+600000
+ 653510 words of font info for 166 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,17n,101p,1866b,2096s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on matter.pdf (17 pages, 504743 bytes).
+PDF statistics:
+ 350 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
+ 56516 words of extra memory for PDF output out of 61914 (max. 10000000)
+
