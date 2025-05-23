@@ -711,6 +711,45 @@ OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
+INPUT .\figs\database.png
+INPUT .\figs\database.png
+INPUT .\figs\database.png
+INPUT .\figs\database.png
+INPUT .\figs\database.png
+INPUT .\figs\database.png
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+INPUT .\figs\ecg.jpg
+INPUT .\figs\ecg.jpg
+INPUT .\figs\ecg.jpg
+INPUT .\figs\ecg.jpg
+INPUT .\figs\ecg.jpg
+INPUT .\figs\ecg.jpg
+INPUT .\figs\normalized ecg.jpg
+INPUT .\figs\normalized ecg.jpg
+INPUT .\figs\normalized ecg.jpg
+INPUT .\figs\normalized ecg.jpg
+INPUT .\figs\normalized ecg.jpg
+INPUT .\figs\normalized ecg.jpg
+INPUT .\figs\wavelets 2.jpg
+INPUT .\figs\wavelets 2.jpg
+INPUT .\figs\wavelets 2.jpg
+INPUT .\figs\wavelets 2.jpg
+INPUT .\figs\wavelets 2.jpg
+INPUT .\figs\wavelets 2.jpg
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
@@ -835,6 +874,24 @@ OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
 INPUT .\chapters\appendix-more.aux
 INPUT .\chapters\appendix-more.aux
 INPUT chapters\appendix-more.aux
@@ -886,6 +943,8 @@ INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri10.
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri10.pfb
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri9.pfb
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri9.pfb
+INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy10.pfb
+INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy10.pfb
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy8.pfb
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy8.pfb
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmtt10.pfb

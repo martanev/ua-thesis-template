@@ -11,9 +11,11 @@
 \contentsline {section}{\numberline {1.3}Unidades}{1}{section.1.3}%
 \contentsline {section}{\numberline {1.4}Code Blocks}{2}{section.1.4}%
 \contentsline {section}{\numberline {1.5}Citações}{2}{section.1.5}%
-\contentsline {chapter}{\chapternumberline {2}Methods and Results}{3}{chapter.2}%
+\contentsline {chapter}{\chapternumberline {2}Methods and Procedure}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Database Acquisition}{3}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Feature Extraction}{4}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Data Analysis}{4}{section.2.3}%
-\contentsline {chapter}{References}{5}{chapter*.11}%
-\contentsline {appendix}{\chapternumberline {A}Additional content}{5}{appendix.A}%
+\contentsline {subsection}{\numberline {2.2.1}ECG Data Exploration}{4}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Entropy Calculation}{6}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Data Analysis}{6}{section.2.3}%
+\contentsline {chapter}{References}{8}{chapter*.14}%
+\contentsline {appendix}{\chapternumberline {A}Additional content}{8}{appendix.A}%

@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1747501942.15233 "c:/Users/Geral/Documents/GitHub/ua-thesis-template/cover.tex" "cover.pdf" "cover" 1747501943.85081 0
-  "C:/Users/Geral/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1730229782 82705 9cc9f144eacd499bc23a611703921467 ""
+["pdflatex"] 1747992781.86826 "c:/Users/Geral/Documents/GitHub/ua-thesis-template/cover.tex" "cover.pdf" "cover" 1747992785.37766 0
+  "C:/Users/Geral/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1747763141 82705 9cc9f144eacd499bc23a611703921467 ""
   "C:/Users/Geral/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1000.pk" 1737729332 20028 aa8692fe762ef9bbbb3315a395e35eb2 ""
   "C:/Users/Geral/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1730229523 11948316 6d66bd07215049ca975d9f504cf32f03 ""
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -49,11 +49,11 @@
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/t1phv.fd" 1585253778 1536 47067fbe7c3ffed1ede7aaa7b8549d7a ""
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ts1phv.fd" 1585253778 1221 ec0c641cd2e0fb69a449534a0279b5ca ""
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/tex/latex/tools/xspace.sty" 1718356376 4545 e3f4de576c914e2000f07f69a891c071 ""
-  "c:/Users/Geral/Documents/GitHub/ua-thesis-template/cover.tex" 1747501941 11504 ba29e6b5a0c2d2764439acf54ab22ded ""
-  "cover.aux" 1747501943 468 25f856bda801a44eba83b3d9858fa2d5 "pdflatex"
-  "cover.tex" 1747501941 11504 ba29e6b5a0c2d2764439acf54ab22ded ""
+  "c:/Users/Geral/Documents/GitHub/ua-thesis-template/cover.tex" 1747992775 11505 c491ec155431df70d2b56207bcf71921 ""
+  "cover.aux" 1747992784 468 25f856bda801a44eba83b3d9858fa2d5 "pdflatex"
+  "cover.tex" 1747992775 11505 c491ec155431df70d2b56207bcf71921 ""
   "figs/uaLogoNew.pdf" 1730226112 2911 e3fb8f77330f913af87495e8c6b0dc02 ""
-  "uaThesisTemplate.sty" 1737728942 20142 09f8eec40c24278e34496560bcef945a ""
+  "uaThesisTemplate.sty" 1747992758 20383 135c86831216be3ea6f495fda5958d94 ""
   (generated)
   "cover.aux"
   "cover.log"
