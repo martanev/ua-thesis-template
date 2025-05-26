@@ -11,7 +11,7 @@ In figure \ref{fig:image}, the processing pipeline for this project is shown.
 \end{figure}
 
 \section{Database Acquisition}
-In this project, two databases were used: one has data from an \ac{ecg} signal while the other contains features extracted from that \ac{ecg}, as described in the article by Bruna et al \cite{Alves2024}.
+In this project, two databases were used: one has data from an \ac{ecg} signal while the other contains features extracted from that \ac{ecg}, as described in the article by Alves et al \cite{Alves2024}.
 
 The protocol that was carried out to create the databases began with a 5-minute baseline period, during which only physiological signals were collected while participants sat in a relaxed position without any stimuli. 
 Next, participants viewed a 10-minute video composed of segments from comedy, horror or documentary films to elicit positive, negative or neutral emotional states, respectively. 
@@ -81,11 +81,11 @@ By removing high frequencies from the signal, by filtering for example, these wo
 However, there could be information related to pain associated to those frequencies.
 %The solution to solve both of these problems was to decompose the signal in wavelets. 
 
-(Falar das famílias de wavelets para análise de ECGs)
+(Falar das famílias de wavelets para análise de ECGs?)
 
 To choose the best type of wavelet, two criteria were established: one's format should be similar to that of the ECG wave and the other should have a higher frequency, while still maintaining its smoothness.
 Accordingly, Daubechies-4 ('db4') and Daubechies-9 ('db9') were chosen.
-Regarding the number of levels of decomposition, as can be seen in figure \ref{fig:wavelets2}, when there are two levels the R peak is noticeable in the detail, which is not something we want to highlight.
+Regarding the number of levels of decomposition, as can be seen in figure \ref{fig:wavelets2}, when there are two levels the R peak is noticeable in the first detail, which is not something we want to highlight.
 Therefore, only one level of decomposition was applied.
 
 \begin{figure}[h!]
@@ -97,8 +97,11 @@ Therefore, only one level of decomposition was applied.
 
 
 \subsection{Entropy Calculation}
-Since the features associated with the ECG waves had already been extracted and analysed, it was decided that the entropy of the decomposed signal would be calculated.
-Using the same window as the other features, that is, 10 seconds with 50\% superposition, 
+Entropy quantifies the order or disorder of information that a signal presents.
+Since this quantity might be affected in the ECG when someone feels pain, it was extracted from the resulting wavelets, functioning as a new feature.
+In order to keep consistency with the other features, a same sized window was used, that is, 10 seconds with 50\% superposition.
+Since there are a few types of entropy, .
+
 
 
 
