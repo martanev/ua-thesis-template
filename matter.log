@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  23 MAY 2025 17:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  30 MAY 2025 11:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1426,7 +1426,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count555
 \@quotereset=\count556
-(matter.aux (glossary.aux) (chapters/chapter1.aux) (chapters/chapter2.aux) (chapters/appendix-more.aux))
+(matter.aux (glossary.aux) (chapters/chapter1.aux) (chapters/chapter2.aux) (chapters/chapter3.aux) (chapters/appendix-more.aux))
 \openout1 = `matter.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 238.
@@ -1618,7 +1618,7 @@ Package pdftex.def Info: cover.pdf , page1 used on input line 244.
 \openout4 = `matter.upa'.
 
 Package marginnote Info: Using workaround for absolute page number on input line 244.
-<cover.pdf, id=31, page=2, 597.50829pt x 845.0471pt>
+<cover.pdf, id=25, page=2, 597.50829pt x 845.0471pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 2>
 Package pdftex.def Info: cover.pdf , page2 used on input line 244.
@@ -1954,8 +1954,22 @@ LaTeX Warning: Citation 'rfc44' on page 2 undefined on input line 85.
 
 \openout2 = `chapters/chapter2.aux'.
 
- (chapters/chapter2.tex
-<./figs/image.png, id=194, 1257.69875pt x 799.98875pt>
+ (chapters/chapter2.tex)
+
+\openout4 = `matter.mw'.
+
+[3
+
+
+
+
+] (matter.mw)
+\openout4 = `matter.mw'.
+
+\openout2 = `chapters/chapter3.aux'.
+
+ (chapters/chapter3.tex
+<./figs/image.png, id=206, 1257.69875pt x 799.98875pt>
 File: ./figs/image.png Graphic file (type png)
 <use ./figs/image.png>
 Package pdftex.def Info: ./figs/image.png  used on input line 8.
@@ -1968,7 +1982,7 @@ Package pdftex.def Info: ./figs/image.png  used on input line 8.
 
 \openout4 = `matter.mw'.
 
-[3
+[4
 
 
 
@@ -1976,10 +1990,10 @@ Package pdftex.def Info: ./figs/image.png  used on input line 8.
  <./figs/image.png>] (matter.mw)
 \openout4 = `matter.mw'.
 
-<./figs/database.png, id=205, 383.9946pt x 88.1694pt>
+<./figs/database.png, id=217, 383.9946pt x 88.1694pt>
 File: ./figs/database.png Graphic file (type png)
 <use ./figs/database.png>
-Package pdftex.def Info: ./figs/database.png  used on input line 26.
+Package pdftex.def Info: ./figs/database.png  used on input line 28.
 (pdftex.def)             Requested size: 441.0pt x 101.26485pt.
 \openout4 = `matter.mw'.
 
@@ -1993,24 +2007,24 @@ Package pdftex.def Info: ./figs/database.png  used on input line 26.
 
 \openout4 = `matter.mw'.
 
-[4 <./figs/database.png (PNG copy)>] (matter.mw)
+[5 <./figs/database.png (PNG copy)>] (matter.mw)
 \openout4 = `matter.mw'.
 
-<./figs/ecg.jpg, id=214, 562.1pt x 421.575pt>
+<./figs/ecg.jpg, id=226, 562.1pt x 421.575pt>
 File: ./figs/ecg.jpg Graphic file (type jpg)
 <use ./figs/ecg.jpg>
-Package pdftex.def Info: ./figs/ecg.jpg  used on input line 66.
+Package pdftex.def Info: ./figs/ecg.jpg  used on input line 67.
 (pdftex.def)             Requested size: 184.9429pt x 138.70204pt.
-<./figs/normalized ecg.jpg, id=215, 562.1pt x 421.575pt>
+<./figs/normalized ecg.jpg, id=227, 562.1pt x 421.575pt>
 File: ./figs/normalized ecg.jpg Graphic file (type jpg)
 <use ./figs/normalized ecg.jpg>
-Package pdftex.def Info: ./figs/normalized ecg.jpg  used on input line 73.
+Package pdftex.def Info: ./figs/normalized ecg.jpg  used on input line 74.
 (pdftex.def)             Requested size: 184.9429pt x 138.70204pt.
-<./figs/wavelets 2.jpg, id=217, 562.1pt x 421.575pt>
+<./figs/wavelets 2.jpg, id=229, 562.1pt x 421.575pt>
 File: ./figs/wavelets 2.jpg Graphic file (type jpg)
 <use ./figs/wavelets 2.jpg>
-Package pdftex.def Info: ./figs/wavelets 2.jpg  used on input line 93.
-(pdftex.def)             Requested size: 441.0pt x 330.75055pt.
+Package pdftex.def Info: ./figs/wavelets 2.jpg  used on input line 94.
+(pdftex.def)             Requested size: 352.80135pt x 264.60301pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2019,21 +2033,45 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout4 = `matter.mw'.
 
-[5 <./figs/ecg.jpg> <./figs/normalized ecg.jpg>] (matter.mw)
+[6 <./figs/ecg.jpg> <./figs/normalized ecg.jpg>] (matter.mw)
 \openout4 = `matter.mw'.
 
+<./figs/orig_part5.jpg, id=237, 878.28125pt x 658.46pt>
+File: ./figs/orig_part5.jpg Graphic file (type jpg)
+<use ./figs/orig_part5.jpg>
+Package pdftex.def Info: ./figs/orig_part5.jpg  used on input line 117.
+(pdftex.def)             Requested size: 211.67812pt x 158.69675pt.
+<./figs/entropy_part5.jpg, id=238, 878.28125pt x 658.46pt>
+File: ./figs/entropy_part5.jpg Graphic file (type jpg)
+<use ./figs/entropy_part5.jpg>
+Package pdftex.def Info: ./figs/entropy_part5.jpg  used on input line 122.
+(pdftex.def)             Requested size: 211.67812pt x 158.69675pt.
+<./figs/histogram.jpg, id=240, 1371.1225pt x 645.41125pt>
+File: ./figs/histogram.jpg Graphic file (type jpg)
+<use ./figs/histogram.jpg>
+Package pdftex.def Info: ./figs/histogram.jpg  used on input line 132.
+(pdftex.def)             Requested size: 352.80135pt x 166.06969pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 
 \openout4 = `matter.mw'.
 
-[6 <./figs/wavelets 2.jpg>] (matter.mw)
+[7 <./figs/wavelets 2.jpg>] (matter.mw)
 \openout4 = `matter.mw'.
 
+<./figs/normalized features.jpg, id=246, 1371.1225pt x 645.41125pt>
+File: ./figs/normalized features.jpg Graphic file (type jpg)
+<use ./figs/normalized features.jpg>
+Package pdftex.def Info: ./figs/normalized features.jpg  used on input line 141.
+(pdftex.def)             Requested size: 441.0pt x 207.58957pt.
 )
 
 \openout4 = `matter.mw'.
 
-[7] (matter.mw)
+[8 <./figs/orig_part5.jpg> <./figs/entropy_part5.jpg> <./figs/histogram.jpg> <./figs/normalized features.jpg>] (matter.mw)
 \openout4 = `matter.mw'.
 
 Package microtype Info: Character `029' is missing
@@ -2043,7 +2081,7 @@ Package microtype Info: Character `029' is missing
 
 \openout4 = `matter.mw'.
 
-[8
+[9
 
 
 
@@ -2056,14 +2094,14 @@ Package microtype Info: Character `029' is missing
  (chapters/appendix-more.tex)
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.403 \include{chapters/appendix-more}
                                       
 \openout4 = `matter.mw'.
 
- [8
+ [9
 
 
 
@@ -2168,6 +2206,31 @@ Package marginnote Info: Using workaround for absolute page number on input line
 \openout4 = `matter.mw'.
 
 ) (chapters/chapter2.aux
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+) (chapters/chapter3.aux
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
@@ -2445,11 +2508,16 @@ chapters/chapter1.tex
   ts1lmr.fd    2015/05/01 v1.6.1 Font defs for Latin Modern
   t1lmtt.fd    2015/05/01 v1.6.1 Font defs for Latin Modern
 chapters/chapter2.tex
+chapters/chapter3.tex
 ./figs/image.png
 ./figs/database.png
 ./figs/ecg.jpg
 ./figs/normalized ecg.jpg
 ./figs/wavelets 2.jpg
+./figs/orig_part5.jpg
+./figs/entropy_part5.jpg
+./figs/histogram.jpg
+./figs/normalized features.jpg
 chapters/appendix-more.tex
  ***********
 
@@ -2477,17 +2545,17 @@ Package logreq Info: Writing requests to 'matter.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48228 strings out of 473897
- 973729 string characters out of 5726461
- 2107886 words of memory out of 5000000
- 69863 multiletter control sequences out of 15000+600000
- 654091 words of font info for 173 fonts, out of 8000000 for 9000
+ 48326 strings out of 473897
+ 976258 string characters out of 5726461
+ 2111493 words of memory out of 5000000
+ 69931 multiletter control sequences out of 15000+600000
+ 653842 words of font info for 170 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,17n,101p,1866b,2802s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on matter.pdf (20 pages, 805134 bytes).
+Output written on matter.pdf (21 pages, 1317847 bytes).
 PDF statistics:
- 398 PDF objects out of 1000 (max. 8388607)
- 53 named destinations out of 1000 (max. 500000)
- 56552 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 421 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
+ 56580 words of extra memory for PDF output out of 61914 (max. 10000000)
 

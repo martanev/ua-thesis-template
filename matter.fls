@@ -429,6 +429,9 @@ INPUT chapters\chapter1.aux
 INPUT .\chapters\chapter2.aux
 INPUT .\chapters\chapter2.aux
 INPUT chapters\chapter2.aux
+INPUT .\chapters\chapter3.aux
+INPUT .\chapters\chapter3.aux
+INPUT chapters\chapter3.aux
 INPUT .\chapters\appendix-more.aux
 INPUT .\chapters\appendix-more.aux
 INPUT chapters\appendix-more.aux
@@ -699,6 +702,15 @@ OUTPUT chapters\chapter2.aux
 INPUT .\chapters\chapter2.tex
 INPUT .\chapters\chapter2.tex
 INPUT chapters\chapter2.tex
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+INPUT .\chapters\chapter3.tex
+INPUT .\chapters\chapter3.tex
+OUTPUT chapters\chapter3.aux
+INPUT .\chapters\chapter3.tex
+INPUT .\chapters\chapter3.tex
+INPUT chapters\chapter3.tex
 INPUT .\figs\image.png
 INPUT .\figs\image.png
 INPUT .\figs\image.png
@@ -747,9 +759,33 @@ INPUT .\figs\wavelets 2.jpg
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
+INPUT .\figs\orig_part5.jpg
+INPUT .\figs\orig_part5.jpg
+INPUT .\figs\orig_part5.jpg
+INPUT .\figs\orig_part5.jpg
+INPUT .\figs\orig_part5.jpg
+INPUT .\figs\orig_part5.jpg
+INPUT .\figs\entropy_part5.jpg
+INPUT .\figs\entropy_part5.jpg
+INPUT .\figs\entropy_part5.jpg
+INPUT .\figs\entropy_part5.jpg
+INPUT .\figs\entropy_part5.jpg
+INPUT .\figs\entropy_part5.jpg
+INPUT .\figs\histogram.jpg
+INPUT .\figs\histogram.jpg
+INPUT .\figs\histogram.jpg
+INPUT .\figs\histogram.jpg
+INPUT .\figs\histogram.jpg
+INPUT .\figs\histogram.jpg
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
+INPUT .\figs\normalized features.jpg
+INPUT .\figs\normalized features.jpg
+INPUT .\figs\normalized features.jpg
+INPUT .\figs\normalized features.jpg
+INPUT .\figs\normalized features.jpg
+INPUT .\figs\normalized features.jpg
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
@@ -844,6 +880,27 @@ OUTPUT matter.mw
 INPUT .\chapters\chapter2.aux
 INPUT .\chapters\chapter2.aux
 INPUT chapters\chapter2.aux
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+INPUT .\chapters\chapter3.aux
+INPUT .\chapters\chapter3.aux
+INPUT chapters\chapter3.aux
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
