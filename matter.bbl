@@ -59,6 +59,59 @@
       \verb 10.1007/s41060-024-00649-z
       \endverb
     \endentry
+    \entry{Ferreira2017}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=850191e1fb9d27c9ad39161c9c1656a8}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Jacqueline},
+           giveni={J\bibinitperiod}}}%
+        {{hash=889707a8d59ad2c643dd2a9779b84f9f}{%
+           family={Brás},
+           familyi={B\bibinitperiod},
+           given={Susana},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8dac04a3a58420dfae280265283fc5c7}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Carlos\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=541bb1864aa707f7d7fbe885107e63e4}{%
+           family={Soares},
+           familyi={S\bibinitperiod},
+           given={Sandra\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Publishing Inc.}%
+      }
+      \strng{namehash}{8d83099722e3a300d52e21a877960263}
+      \strng{fullhash}{5271f9f4038a23ecae0f33a0cc793ea4}
+      \strng{fullhashraw}{5271f9f4038a23ecae0f33a0cc793ea4}
+      \strng{bibnamehash}{5271f9f4038a23ecae0f33a0cc793ea4}
+      \strng{authorbibnamehash}{5271f9f4038a23ecae0f33a0cc793ea4}
+      \strng{authornamehash}{8d83099722e3a300d52e21a877960263}
+      \strng{authorfullhash}{5271f9f4038a23ecae0f33a0cc793ea4}
+      \strng{authorfullhashraw}{5271f9f4038a23ecae0f33a0cc793ea4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The electrocardiogram (ECG) signal has been widely used to study the physiological substrates of emotion. However, searching for better filtering techniques in order to obtain a signal with better quality and with the maximum relevant information remains an important issue for researchers in this field. Signal processing is largely performed for ECG analysis and interpretation, but this process can be susceptible to error in the delineation phase. In addition, it can lead to the loss of important information that is usually considered as noise and, consequently, discarded from the analysis. The goal of this study was to evaluate if the ECG noise allows for the classification of emotions, while using its entropy as an input in a decision tree classifier. We collected the ECG signal from 25 healthy participants while they were presented with videos eliciting negative (fear and disgust) and neutral emotions. The results indicated that the neutral condition showed a perfect identification (100%), whereas the classification of negative emotions indicated good identification performances (60% of sensitivity and 80% of specificity). These results suggest that the entropy of noise contains relevant information that can be useful to improve the analysis of the physiological correlates of emotion.}
+      \field{issn}{14698986}
+      \field{issue}{4}
+      \field{journaltitle}{Psychophysiology}
+      \field{month}{4}
+      \field{title}{An automatic classifier of emotions built from entropy of noise}
+      \field{volume}{54}
+      \field{year}{2017}
+      \field{pages}{620\bibrangedash 627}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1111/psyp.12808
+      \endverb
+      \keyw{Automatic classifier,Electrocardiogram,Entropy of noise,Physiology of emotions}
+    \endentry
   \enddatalist
   \missing{rfc44}
 \endrefsection
