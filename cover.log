@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  26 MAY 2025 17:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  3 JUN 2025 18:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -160,11 +160,6 @@ File: figs/uaLogoNew.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/uaLogoNew.pdf  used on input line 251.
 (pdftex.def)             Requested size: 36.14813pt x 45.18298pt.
 
-Underfull \hbox (badness 1533) in paragraph at lines 251--251
-[]\T1/phv/m/n/10 Dissertação ap-re-sen-tada à Uni-ver-si-dade de Aveiro para cumpri-
- []
-
-
 Overfull \vbox (9.73215pt too high) has occurred while \output is active []
 
 
@@ -197,15 +192,15 @@ L3 programming layer <2024-10-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3426 strings out of 473897
- 57325 string characters out of 5726461
- 457694 words of memory out of 5000000
- 26267 multiletter control sequences out of 15000+600000
+ 3425 strings out of 473897
+ 57317 string characters out of 5726461
+ 457707 words of memory out of 5000000
+ 26266 multiletter control sequences out of 15000+600000
  584562 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,7n,79p,833b,398s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Geral\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on cover.pdf (7 pages, 42585 bytes).
+Output written on cover.pdf (7 pages, 42594 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -240,12 +240,7 @@
   \def\ua@textC{}%
   \def\ua@textD{}%
 }
-\DeclareOption{ieeta}{%
-  \def\ua@textA{Instituto de Engenharia Eletr\'{o}nica e Inform\'{a}tica de Aveiro (IEETA),}%
-  \def\ua@textB{Departamento de Telecomunica\c{c}\~{o}es e Inform\'{a}tica}%
-  \def\ua@textC{}%
-  \def\ua@textD{}%
-}
+
 
 %
 % Process options
@@ -544,11 +539,11 @@ Proposta de Tese%
 Tese%
  \else
     \ifdefined \ciDocumentTypeDissertation%
-Disserta\c c\~ao%
+Projeto%
     \fi %
   \fi%
 \fi%
-~apresentada \`a Universidade de Aveiro para cumprimento dos requisitos necess\'arios \`a
+~apresentado \`a Universidade de Aveiro para cumprimento dos requisitos necess\'arios \`a
 \ifdefined \ciDocumentTypeThesisProposal%
 conclusão da unidade curricular Proposta de Tese, condi\c c\~ao necess\'aria para
 \fi%
@@ -560,13 +555,13 @@ em {\ciDegreeName}%
 \ifdefined \ciMAPProgram%
 \ das Universidades do Minho, Aveiro e Porto (MAP-\ciMAPProgram)%
 \fi%
-, realizada sob a orienta\c c\~ao cient\'ifica 
+, realizado sob a orienta\c c\~ao cient\'ifica 
 \ifdefined \ciSupervisoraName%
 da Doutora {\ciSupervisoraName}, Professora {\ciSupervisoraTitle}
 \else
 do Doutor {\ciSupervisorName}, Professor {\ciSupervisorTitle}
 \fi%
-do {\ua@textA} {\ua@textB} da Universidade de Aveiro\dolistloop{\ciSupervisorMember}.}
+do {\ua@textA} {\ua@textB} da Universidade de Aveiro, e investigadora do Instituto de Engenharia Eletrónica e Informática de Aveiro (IEETA)\dolistloop{\ciSupervisorMember}.}
     \vspace{75mm}
 \ifdefined \ciGrantFirst
     \SPONSOR{}
