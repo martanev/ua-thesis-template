@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber matter"] 0 "matter.bcf" "matter.bbl" "matter" 1749221065.69506 -1
-  "matter.bcf" 0 -1 0 "pdflatex"
+["biber matter"] 0 "matter.bcf" "matter.bbl" "matter" 1749221322.07737 -1
+  "matter.bcf" 1749221320 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "matter.bbl"
   "matter.blg"
   (rewritten before read)
-["makeindex lines.idx"] 1749221065.23097 "lines.idx" "lines.ind" "lines" 1749221065.71863 2
-  "lines.idx" 0 -1 0 "pdflatex"
+["makeindex lines.idx"] 1749221065.23097 "lines.idx" "lines.ind" "lines" 1749221322.15858 2
+  "lines.idx" 1749221320 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "lines.ilg"
   "lines.ind"
   (rewritten before read)
-["pdflatex"] 1749221057.96981 "c:/Users/Geral/Documents/GitHub/ua-thesis-template/matter.tex" "matter.pdf" "matter" 1749221065.69552 2
+["pdflatex"] 1749221317.0475 "c:/Users/Geral/Documents/GitHub/ua-thesis-template/matter.tex" "matter.pdf" "matter" 1749221322.11569 2
   "C:/Users/Geral/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1747763141 82705 9cc9f144eacd499bc23a611703921467 ""
   "C:/Users/Geral/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1730229523 11948316 6d66bd07215049ca975d9f504cf32f03 ""
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -264,17 +264,15 @@
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1695383086 20785 f7d1133a287929598a897c93f8f4c44b ""
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-savepos.sty" 1695383086 3611 780ba3c0645b9c6ffca0e5cd73ef2bfd ""
   "c:/Users/Geral/Documents/GitHub/ua-thesis-template/matter.tex" 1749221040 11197 420a9ea063c552131f6e5eb78813d9e6 ""
-  "chapters/chapter1.aux" 1749221062 83 83a88d079c2eba82887b8d9c09309a2e "pdflatex"
   "chapters/chapter1.tex" 1749220942 1817 6193eaa09aaa7a8643b802ef82f68fd5 ""
   "cover.pdf" 1748970493 42594 9387230f7b4caddd1a7f44ee0df216d7 ""
-  "glossary.aux" 1749221062 5764 25129f9dfd811902c1749f075484269d "pdflatex"
   "glossary.tex" 1747490721 256 0c6beb5e5c68a67e22dbe1d7bfbe4a77 ""
   "lines.ind" 0 -1 0 "makeindex lines.idx"
-  "matter.aux" 0 -1 0 "pdflatex"
+  "matter.aux" 1749221321 2500 42811f961296a42d7756762e0f9fdcb8 "pdflatex"
   "matter.bbl" 1749211686 7516 bff919fa439ad7db5863f4b337fac488 "biber matter"
   "matter.lof" 0 -1 0 ""
   "matter.lot" 0 -1 0 ""
-  "matter.mw" 1749221062 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "matter.mw" 1749221321 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "matter.tex" 1749221040 11197 420a9ea063c552131f6e5eb78813d9e6 ""
   "matter.toc" 0 -1 0 ""
   (generated)
