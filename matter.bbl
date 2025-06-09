@@ -19,6 +19,52 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
+    \entry{Dirk2021}{misc}{}{}
+      \name{author}{3}{}{%
+        {{hash=630d733478b9afc9e285eb4a22b0c065}{%
+           family={Ridder},
+           familyi={R\bibinitperiod},
+           given={Dirk\bibnamedelima De},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=bc104ff2d77e7fbf5ff12fd5f727c483}{%
+           family={Adhia},
+           familyi={A\bibinitperiod},
+           given={Divya},
+           giveni={D\bibinitperiod}}}%
+        {{hash=73ef0b1c84bd9087cc23531846a05f64}{%
+           family={Vanneste},
+           familyi={V\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{f5ce85199d2955041c96ea906870ded2}
+      \strng{fullhash}{7abd6ec898925569ebc2baee44629a5b}
+      \strng{fullhashraw}{7abd6ec898925569ebc2baee44629a5b}
+      \strng{bibnamehash}{7abd6ec898925569ebc2baee44629a5b}
+      \strng{authorbibnamehash}{7abd6ec898925569ebc2baee44629a5b}
+      \strng{authornamehash}{f5ce85199d2955041c96ea906870ded2}
+      \strng{authorfullhash}{7abd6ec898925569ebc2baee44629a5b}
+      \strng{authorfullhashraw}{7abd6ec898925569ebc2baee44629a5b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{18737528}
+      \field{journaltitle}{Neuroscience and Biobehavioral Reviews}
+      \field{month}{11}
+      \field{title}{The anatomy of pain and suffering in the brain and its clinical implications}
+      \field{volume}{130}
+      \field{year}{2021}
+      \field{pages}{125\bibrangedash 146}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1016/j.neubiorev.2021.08.013
+      \endverb
+      \keyw{Acute,Anterior cingulate cortex,Autonomic,Chronic,Cognitive,Emotional,Pain,suffering,anatomy,brain}
+    \endentry
     \entry{Alves2024}{article}{}{}
       \name{author}{3}{}{%
         {{hash=d5872e5cbd6d482ad1474ff6c7853bd9}{%
@@ -45,11 +91,10 @@
       \strng{authornamehash}{d87b10fc5e48533a64b431957d1f1924}
       \strng{authorfullhash}{680c5dca17d8ede1aa941300dd610c9a}
       \strng{authorfullhashraw}{680c5dca17d8ede1aa941300dd610c9a}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Pain recognition is a challenging yet crucial problem. Common methods used to measure pain are based on self-reported tools; however, not every person can communicate it. Therefore, automatic pain detection methods have emerged. Since pain is related to the emotional state of an individual, this variable must be considered. Thus, this work proposes pain prediction under different emotional contexts. For this purpose, data were collected during a protocol designed for pain induction with previous emotional elicitation. Emotions were elicited through videos composed of excerpts of documentaries, horror and comedy films, while the pain was induced through a Cold Pressor Test. Physiological signals, such as electrocardiogram, electrodermal activity and surface electromyogram, were collected during the protocol. Furthermore, several questionnaires were answered and pain reports were also registered. Two problems were addressed: pain classification and estimation of the Pain Tolerance score. The algorithm with the best performance for each problem was found using only data from the neutral session and nested cross-validation strategy. Using only physiological data from the neutral session, a F1-score of 99.32\% was obtained for pain recognition and a mean absolute error (MAE) of 0.29 was obtained for Pain Tolerance estimation. When considering all the emotional sessions, the physiological data were merged with scores of the Visual Analogue Scale questionnaire, achieving a F1-score of 98.60\% and a MAE of 0.41, for the first and second problems, respectively. These results are promising and stress out the key role that the emotional context of the individuals plays in pain prediction.}
       \field{issn}{2364-415X}
       \field{journaltitle}{International Journal of Data Science and Analytics}
       \field{month}{10}
@@ -93,11 +138,10 @@
       \strng{authornamehash}{8d83099722e3a300d52e21a877960263}
       \strng{authorfullhash}{5271f9f4038a23ecae0f33a0cc793ea4}
       \strng{authorfullhashraw}{5271f9f4038a23ecae0f33a0cc793ea4}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{The electrocardiogram (ECG) signal has been widely used to study the physiological substrates of emotion. However, searching for better filtering techniques in order to obtain a signal with better quality and with the maximum relevant information remains an important issue for researchers in this field. Signal processing is largely performed for ECG analysis and interpretation, but this process can be susceptible to error in the delineation phase. In addition, it can lead to the loss of important information that is usually considered as noise and, consequently, discarded from the analysis. The goal of this study was to evaluate if the ECG noise allows for the classification of emotions, while using its entropy as an input in a decision tree classifier. We collected the ECG signal from 25 healthy participants while they were presented with videos eliciting negative (fear and disgust) and neutral emotions. The results indicated that the neutral condition showed a perfect identification (100%), whereas the classification of negative emotions indicated good identification performances (60% of sensitivity and 80% of specificity). These results suggest that the entropy of noise contains relevant information that can be useful to improve the analysis of the physiological correlates of emotion.}
       \field{issn}{14698986}
       \field{issue}{4}
       \field{journaltitle}{Psychophysiology}
@@ -113,7 +157,6 @@
       \keyw{Automatic classifier,Electrocardiogram,Entropy of noise,Physiology of emotions}
     \endentry
   \enddatalist
-  \missing{rfc44}
 \endrefsection
 \endinput
 

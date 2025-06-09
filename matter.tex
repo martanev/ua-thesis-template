@@ -9,7 +9,7 @@
 \documentclass[11pt,a4paper,oneside,onecolumn]{memoir}
 
 \listfiles
-\fixpdflayout
+%\fixpdflayout
 
 \usepackage[utf8]{inputenc}
 
@@ -33,6 +33,8 @@
 
 % For PDF merging
 \usepackage{pdfpages}
+%\usepackage{setspace}
+
 
 % Set DPI to 300
 \pdfpxdimen=\dimexpr 1in/300\relax
@@ -106,7 +108,7 @@
 
 % Add support for graphics
 \usepackage{graphicx}
-\graphicspath{ {./figs/} }
+\graphicspath{{./figs/}}
 
 % Add support for Colors
 \usepackage{xcolor}
@@ -237,6 +239,8 @@
 
 \begin{document}
 
+%Hi, I deleted the .aux and .toc .tof .lot .bbl and bcf and it seems working. - for next time
+
 % Fix the numbering scheme by having a ghost style for page numbering
 \pagenumbering{Alph}
 
@@ -282,8 +286,6 @@
 \chapterstyle{veelo}
 \makeoddfoot{plain}{}{\thepage}{} % Added by André Zúquete to fix a page numbering issue on the veelo chapter style
 
-% Select Page style
-\pagestyle{plain}
 
 % If you feel adventurous you can also define all aspects of your theme
 % Use either this input or the chapterstyle before
@@ -303,6 +305,9 @@
   \par\addvspace{2\baselineskip plus 0.2\baselineskip minus 0.2\baselineskip}%
 }
 
+% Select Page style
+\pagestyle{plain}
+
 \frontmatter
 
 \tightlists
@@ -314,14 +319,15 @@
 
 % Initial document tables start here: TOC, LOF, LOT, Glossary
 % Table of contents with slightly smaller font
+\cleardoublepage
 {\small\tableofcontents}
 
 % List of figures with slightly smaller font
-\clearpage
+\cleardoublepage
 {\small\listoffigures}
 
 % List of tables with slightly smaller font
-\clearpage
+\cleardoublepage
 {\small\listoftables}
 
 % List of code snippets
