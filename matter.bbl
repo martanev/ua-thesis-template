@@ -65,6 +65,103 @@
       \endverb
       \keyw{Acute,Anterior cingulate cortex,Autonomic,Chronic,Cognitive,Emotional,Pain,suffering,anatomy,brain}
     \endentry
+    \entry{Jayakar2021}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=adb0b00389ea577be04ca75b1ca050b8}{%
+           family={Jayakar},
+           familyi={J\bibinitperiod},
+           given={Selwyn},
+           giveni={S\bibinitperiod}}}%
+        {{hash=af6c50aef70c2fba0af8bb2034ae33e7}{%
+           family={Shim},
+           familyi={S\bibinitperiod},
+           given={Jaehoon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=da1b7e56fdc6d12ff90bd92572575cc2}{%
+           family={Jo},
+           familyi={J\bibinitperiod},
+           given={Sooyeon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9854b0e1ccf703d1f43f80ff97743377}{%
+           family={Bean},
+           familyi={B\bibinitperiod},
+           given={Bruce\bibnamedelima P.},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=d904920de4afdcd35ebc542db9a6c44b}{%
+           family={Singeç},
+           familyi={S\bibinitperiod},
+           given={Ilyas},
+           giveni={I\bibinitperiod}}}%
+        {{hash=5dde3f44109b679846b1a42af87c7cb2}{%
+           family={Woolf},
+           familyi={W\bibinitperiod},
+           given={Clifford\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{03b0a7a213b006c15515106ccb199012}
+      \strng{fullhash}{740f11ffde72277f6ba7dffb98cedc47}
+      \strng{fullhashraw}{740f11ffde72277f6ba7dffb98cedc47}
+      \strng{bibnamehash}{740f11ffde72277f6ba7dffb98cedc47}
+      \strng{authorbibnamehash}{740f11ffde72277f6ba7dffb98cedc47}
+      \strng{authornamehash}{03b0a7a213b006c15515106ccb199012}
+      \strng{authorfullhash}{740f11ffde72277f6ba7dffb98cedc47}
+      \strng{authorfullhashraw}{740f11ffde72277f6ba7dffb98cedc47}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Phenotypic screens using human induced pluripotent stem cell–derived nociceptors hold promise for the development of better analgesics.}
+      \field{issn}{1946-6234}
+      \field{issue}{619}
+      \field{journaltitle}{Science Translational Medicine}
+      \field{month}{11}
+      \field{title}{Developing nociceptor-selective treatments for acute and chronic pain}
+      \field{volume}{13}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1126/scitranslmed.abj9837
+      \endverb
+    \endentry
+    \entry{Raman2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2ba038bac92e216cdaae90c06f697a79}{%
+           family={Raman},
+           familyi={R\bibinitperiod},
+           given={Saikripa},
+           giveni={S\bibinitperiod}}}%
+        {{hash=99be4c557d2aeff361ca922a8e080453}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Priyanshu},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{5e03616fa895d3106794706f9823a982}
+      \strng{fullhash}{5e03616fa895d3106794706f9823a982}
+      \strng{fullhashraw}{5e03616fa895d3106794706f9823a982}
+      \strng{bibnamehash}{5e03616fa895d3106794706f9823a982}
+      \strng{authorbibnamehash}{5e03616fa895d3106794706f9823a982}
+      \strng{authornamehash}{5e03616fa895d3106794706f9823a982}
+      \strng{authorfullhash}{5e03616fa895d3106794706f9823a982}
+      \strng{authorfullhashraw}{5e03616fa895d3106794706f9823a982}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1110-6611}
+      \field{issue}{1}
+      \field{journaltitle}{Bulletin of Faculty of Physical Therapy}
+      \field{month}{12}
+      \field{title}{Self-efficacy as a mediator of the relationship between pain and disability in chronic pain patients: a narrative review}
+      \field{volume}{27}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1186/s43161-022-00101-y
+      \endverb
+    \endentry
     \entry{Alves2024}{article}{}{}
       \name{author}{3}{}{%
         {{hash=d5872e5cbd6d482ad1474ff6c7853bd9}{%
@@ -91,8 +188,8 @@
       \strng{authornamehash}{d87b10fc5e48533a64b431957d1f1924}
       \strng{authorfullhash}{680c5dca17d8ede1aa941300dd610c9a}
       \strng{authorfullhashraw}{680c5dca17d8ede1aa941300dd610c9a}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2364-415X}
@@ -138,8 +235,8 @@
       \strng{authornamehash}{8d83099722e3a300d52e21a877960263}
       \strng{authorfullhash}{5271f9f4038a23ecae0f33a0cc793ea4}
       \strng{authorfullhashraw}{5271f9f4038a23ecae0f33a0cc793ea4}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{14698986}
