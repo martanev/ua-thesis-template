@@ -162,6 +162,67 @@
       \verb 10.1186/s43161-022-00101-y
       \endverb
     \endentry
+    \entry{Fitzcharles2021}{misc}{}{}
+      \name{author}{6}{}{%
+        {{hash=559ef8cf9f6032ee2be3a5363e9536c9}{%
+           family={Fitzcharles},
+           familyi={F\bibinitperiod},
+           given={Mary\bibnamedelima Ann},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a128d11dec43c6395788f6a6678d9c3f}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Steven\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=150beeb25d96db95d7ff9248a72140c1}{%
+           family={Clauw},
+           familyi={C\bibinitperiod},
+           given={Daniel\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=854ed076de9a123a5fdc50431cc262bf}{%
+           family={Littlejohn},
+           familyi={L\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=0839b123193d6235a0c6a90884f8b0c1}{%
+           family={Usui},
+           familyi={U\bibinitperiod},
+           given={Chie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7d8b8de4bcaa64610ec82e3cb578dcbc}{%
+           family={Häuser},
+           familyi={H\bibinitperiod},
+           given={Winfried},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier B.V.}%
+      }
+      \strng{namehash}{deab354fa34c651c4a68de087433a390}
+      \strng{fullhash}{bc828d4341ea71dc7cb6c8328c2686ce}
+      \strng{fullhashraw}{bc828d4341ea71dc7cb6c8328c2686ce}
+      \strng{bibnamehash}{bc828d4341ea71dc7cb6c8328c2686ce}
+      \strng{authorbibnamehash}{bc828d4341ea71dc7cb6c8328c2686ce}
+      \strng{authornamehash}{deab354fa34c651c4a68de087433a390}
+      \strng{authorfullhash}{bc828d4341ea71dc7cb6c8328c2686ce}
+      \strng{authorfullhashraw}{bc828d4341ea71dc7cb6c8328c2686ce}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1474547X}
+      \field{issue}{10289}
+      \field{journaltitle}{The Lancet}
+      \field{month}{5}
+      \field{title}{Nociplastic pain: towards an understanding of prevalent pain conditions}
+      \field{volume}{397}
+      \field{year}{2021}
+      \field{pages}{2098\bibrangedash 2110}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(21)00392-5
+      \endverb
+    \endentry
     \entry{Alves2024}{article}{}{}
       \name{author}{3}{}{%
         {{hash=d5872e5cbd6d482ad1474ff6c7853bd9}{%
@@ -188,8 +249,8 @@
       \strng{authornamehash}{d87b10fc5e48533a64b431957d1f1924}
       \strng{authorfullhash}{680c5dca17d8ede1aa941300dd610c9a}
       \strng{authorfullhashraw}{680c5dca17d8ede1aa941300dd610c9a}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2364-415X}
@@ -235,8 +296,8 @@
       \strng{authornamehash}{8d83099722e3a300d52e21a877960263}
       \strng{authorfullhash}{5271f9f4038a23ecae0f33a0cc793ea4}
       \strng{authorfullhashraw}{5271f9f4038a23ecae0f33a0cc793ea4}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{14698986}

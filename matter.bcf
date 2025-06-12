@@ -2379,10 +2379,11 @@
     <bcf:citekey order="2" intorder="1">Dirk2021</bcf:citekey>
     <bcf:citekey order="3" intorder="1">Jayakar2021</bcf:citekey>
     <bcf:citekey order="4" intorder="1">Raman2022</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">Alves2024</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Fitzcharles2021</bcf:citekey>
     <bcf:citekey order="6" intorder="1">Alves2024</bcf:citekey>
     <bcf:citekey order="7" intorder="1">Alves2024</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">Ferreira2017</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Alves2024</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Ferreira2017</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
