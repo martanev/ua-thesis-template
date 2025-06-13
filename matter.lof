@@ -3,13 +3,13 @@
 \addvspace {10pt}
 \addvspace {10pt}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Processing pipeline.}}{3}{figure.caption.6}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Scheme of the protocol applied to obtain the database. (Adapted from \blx@tocontentsinit {0}\cite {Alves2024})}}{4}{figure.caption.8}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Section of the ECG signal of a participant.}}{5}{figure.caption.9}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Section of the standardized ECG signal of a participant.}}{5}{figure.caption.9}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Daubechies-4 Wavelet Decomposition - level 2.}}{6}{figure.caption.10}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Standardized features' time series.}}{7}{figure.caption.11}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Histograms of the features.}}{7}{figure.caption.12}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Features normalized in time after interpolation.}}{7}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Processing pipeline.}}{3}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Scheme of the protocol applied to obtain the database. (Adapted from \blx@tocontentsinit {0}\cite {Alves2024})}}{4}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Section of the ECG signal of a participant.}}{5}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Section of the standardized ECG signal of a participant.}}{5}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Daubechies-4 Wavelet Decomposition - level 2.}}{6}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Standardized features' time series.}}{7}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Histograms of the features.}}{7}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Features normalized in time after interpolation.}}{7}{figure.caption.14}%
 \addvspace {10pt}
 \addvspace {10pt}
