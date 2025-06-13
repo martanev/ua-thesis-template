@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber matter"] 1749680384.54267 "matter.bcf" "matter.bbl" "matter" 1749682395.3823 0
-  "bib/references.bib" 1749680361 4105 e32934366d674cb811fa0a0779ff9940 ""
-  "matter.bcf" 1749682394 108455 20459e4c5108725235f13a177218fd09 "pdflatex"
+["biber matter"] 1749740101.90744 "matter.bcf" "matter.bbl" "matter" 1749740111.54608 0
+  "bib/references.bib" 1749739923 5749 5f18b32ff518afe2ee390098021baaac ""
+  "matter.bcf" 1749740110 108719 92b045fd4afbef390da7609fee899c5f "pdflatex"
   (generated)
   "matter.bbl"
   "matter.blg"
   (rewritten before read)
-["makeindex lines.idx"] 1749417363.42704 "lines.idx" "lines.ind" "lines" 1749682395.38329 0
-  "lines.idx" 1749682394 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex lines.idx"] 1749417363.42704 "lines.idx" "lines.ind" "lines" 1749740111.54765 0
+  "lines.idx" 1749740110 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "lines.ilg"
   "lines.ind"
   (rewritten before read)
-["pdflatex"] 1749682390.458 "c:/Users/Geral/Documents/GitHub/ua-thesis-template/matter.tex" "matter.pdf" "matter" 1749682395.3838 0
+["pdflatex"] 1749740105.78085 "c:/Users/Geral/Documents/GitHub/ua-thesis-template/matter.tex" "matter.pdf" "matter" 1749740111.54835 0
   "C:/Users/Geral/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1747763141 82705 9cc9f144eacd499bc23a611703921467 ""
   "C:/Users/Geral/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1730229523 11948316 6d66bd07215049ca975d9f504cf32f03 ""
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -301,11 +301,11 @@
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1695383086 20785 f7d1133a287929598a897c93f8f4c44b ""
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-savepos.sty" 1695383086 3611 780ba3c0645b9c6ffca0e5cd73ef2bfd ""
   "c:/Users/Geral/Documents/GitHub/ua-thesis-template/matter.tex" 1749681474 11350 22f122464fc914637c504a76b00fd09c ""
-  "chapters/appendix-more.aux" 1749682394 5634 214b8eb6fc4e6771c3a85f191d7c339b "pdflatex"
+  "chapters/appendix-more.aux" 1749740110 5634 275e4ce3d16555d5f20cbcfa9b909bca "pdflatex"
   "chapters/appendix-more.tex" 1730226112 30 60068b747f1dc8198a50d5d0177e5bed ""
-  "chapters/chapter1.aux" 1749682393 5903 628e197b84a6c125c9162949c4fd8bbe "pdflatex"
-  "chapters/chapter1.tex" 1749681474 3161 94fb213f595e3e863757495fbf55581a ""
-  "chapters/chapter2.aux" 1749682394 8754 21cfe78226714fed7490e928018c4ecd "pdflatex"
+  "chapters/chapter1.aux" 1749740109 5998 0608b21fbabcb899f89e51825e46eee7 "pdflatex"
+  "chapters/chapter1.tex" 1749740095 3952 76446d1b43094df5476ad0767b9439c8 ""
+  "chapters/chapter2.aux" 1749740110 8757 e9911c838045e72811592cd7a52b455e "pdflatex"
   "chapters/chapter2.tex" 1749416871 10062 6543a3e607ccb1bf6553dd4ae6fd1d1c ""
   "cover.pdf" 1748970493 42594 9387230f7b4caddd1a7f44ee0df216d7 ""
   "figs/database.png" 1747907409 167623 d2c0c581ed60c908f5c64c3c7c55a2f7 ""
@@ -317,17 +317,17 @@
   "figs/normalized features.jpg" 1748600138 147147 2c8a24db37e5cf63cfabfe7b94252984 ""
   "figs/orig_part5.jpg" 1748443082 115683 92d3a6fc731083e24aa134bd1bb171ad ""
   "figs/wavelets 2.jpg" 1748365837 46438 7da00d64253329af1ee422e4372bbf69 ""
-  "glossary.aux" 1749682393 5766 bf3b9cdc119bf10938fa6acb0e06c547 "pdflatex"
-  "glossary.tex" 1749682379 256 0c6beb5e5c68a67e22dbe1d7bfbe4a77 ""
+  "glossary.aux" 1749740109 5766 61aae2b40c657da01dc1703c0a2803b2 "pdflatex"
+  "glossary.tex" 1749738692 256 f5029ce197648039995a632503aeaefb ""
   "lines.ind" 1749417363 0 d41d8cd98f00b204e9800998ecf8427e "makeindex lines.idx"
-  "matter.aux" 1749682394 5570 fd44f50163068ffaa8195db9f01f52a6 "pdflatex"
-  "matter.bbl" 1749680387 13045 395534ac4b749eb8f72671bf190ac35c "biber matter"
-  "matter.lof" 1749682394 1178 40335eafb22e045a8b159940528f3b5b "pdflatex"
-  "matter.lot" 1749682394 151 4c4e97255f065e9f0ba443e4405fc0a7 "pdflatex"
-  "matter.mw" 1749682394 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "matter.run.xml" 1749682394 2488 f6ff606eef370f19564740771ef75824 "pdflatex"
+  "matter.aux" 1749740110 6032 1ec9540f3738c08b1ea197017802ecf7 "pdflatex"
+  "matter.bbl" 1749740105 19458 2ce76a1beaee9141e38b92f1b4f1e952 "biber matter"
+  "matter.lof" 1749740110 1179 9849fc67144a203af7b108e20171b178 "pdflatex"
+  "matter.lot" 1749740110 151 4c4e97255f065e9f0ba443e4405fc0a7 "pdflatex"
+  "matter.mw" 1749740110 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "matter.run.xml" 1749740110 2488 f6ff606eef370f19564740771ef75824 "pdflatex"
   "matter.tex" 1749681474 11350 22f122464fc914637c504a76b00fd09c ""
-  "matter.toc" 1749682394 1139 fa37f4460184f43c8b1736ffd1e14974 "pdflatex"
+  "matter.toc" 1749740110 1137 c3a5a0a97accccf9d23842a072c82c99 "pdflatex"
   (generated)
   "chapters/appendix-more.aux"
   "chapters/chapter1.aux"

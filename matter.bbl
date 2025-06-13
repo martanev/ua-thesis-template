@@ -19,6 +19,106 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
+    \entry{Coninx2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=77b043f4e5f12b9cf9d279bdca4f57ce}{%
+           family={Coninx},
+           familyi={C\bibinitperiod},
+           given={Sabrina},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4f7e82d5a03fb971c5d75ae08f3da001}{%
+           family={Stilwell},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media B.V.}%
+      }
+      \strng{namehash}{1fca099b72aabf1665fb3c1baddfa68c}
+      \strng{fullhash}{1fca099b72aabf1665fb3c1baddfa68c}
+      \strng{fullhashraw}{1fca099b72aabf1665fb3c1baddfa68c}
+      \strng{bibnamehash}{1fca099b72aabf1665fb3c1baddfa68c}
+      \strng{authorbibnamehash}{1fca099b72aabf1665fb3c1baddfa68c}
+      \strng{authornamehash}{1fca099b72aabf1665fb3c1baddfa68c}
+      \strng{authorfullhash}{1fca099b72aabf1665fb3c1baddfa68c}
+      \strng{authorfullhashraw}{1fca099b72aabf1665fb3c1baddfa68c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{15730964}
+      \field{issue}{3-4}
+      \field{journaltitle}{Synthese}
+      \field{month}{12}
+      \field{title}{Pain and the field of affordances: an enactive approach to acute and chronic pain}
+      \field{volume}{199}
+      \field{year}{2021}
+      \field{pages}{7835\bibrangedash 7863}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1007/s11229-021-03142-3
+      \endverb
+      \keyw{Affordances,Biopsychosocial,Ecological psychology,Existential feelings,Pain therapy,Phenomenology}
+    \endentry
+    \entry{Nugent2021}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=5407bb6a955e5d3de4882098ba02d9a6}{%
+           family={Nugent},
+           familyi={N\bibinitperiod},
+           given={Shannon\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9be27c1bdb10830cd3ec65ec7f8da900}{%
+           family={Lovejoy},
+           familyi={L\bibinitperiod},
+           given={Travis\bibnamedelima I.},
+           giveni={T\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=5abe2a1fafe026769e5b1cd4763694f6}{%
+           family={Shull},
+           familyi={S\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=713586a19c391cdd27e3d2f85f846f46}{%
+           family={Dobscha},
+           familyi={D\bibinitperiod},
+           given={Steven\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=226419cdb5218f1af243b063ce0f0da0}{%
+           family={Morasco},
+           familyi={M\bibinitperiod},
+           given={Benjamin\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{dd872f766df5edf8a7272063a9335be0}
+      \strng{fullhash}{467baf0473089a0750ff559e2962b792}
+      \strng{fullhashraw}{467baf0473089a0750ff559e2962b792}
+      \strng{bibnamehash}{467baf0473089a0750ff559e2962b792}
+      \strng{authorbibnamehash}{467baf0473089a0750ff559e2962b792}
+      \strng{authornamehash}{dd872f766df5edf8a7272063a9335be0}
+      \strng{authorfullhash}{467baf0473089a0750ff559e2962b792}
+      \strng{authorfullhashraw}{467baf0473089a0750ff559e2962b792}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{15264637}
+      \field{issue}{10}
+      \field{journaltitle}{Pain Medicine (United States)}
+      \field{month}{10}
+      \field{title}{Associations of Pain Numeric Rating Scale Scores Collected during Usual Care with Research Administered Patient Reported Pain Outcomes}
+      \field{volume}{22}
+      \field{year}{2021}
+      \field{pages}{2235\bibrangedash 2241}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1093/pm/pnab110
+      \endverb
+      \keyw{Electronic-Health Record Data,Numeric Pain Rating Scale,Pain Intensity,Pain-Related Outcomes}
+    \endentry
     \entry{Dirk2021}{misc}{}{}
       \name{author}{3}{}{%
         {{hash=630d733478b9afc9e285eb4a22b0c065}{%
@@ -48,8 +148,8 @@
       \strng{authornamehash}{f5ce85199d2955041c96ea906870ded2}
       \strng{authorfullhash}{7abd6ec898925569ebc2baee44629a5b}
       \strng{authorfullhashraw}{7abd6ec898925569ebc2baee44629a5b}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{18737528}
@@ -106,11 +206,10 @@
       \strng{authornamehash}{03b0a7a213b006c15515106ccb199012}
       \strng{authorfullhash}{740f11ffde72277f6ba7dffb98cedc47}
       \strng{authorfullhashraw}{740f11ffde72277f6ba7dffb98cedc47}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Phenotypic screens using human induced pluripotent stem cell–derived nociceptors hold promise for the development of better analgesics.}
       \field{issn}{1946-6234}
       \field{issue}{619}
       \field{journaltitle}{Science Translational Medicine}
@@ -147,8 +246,8 @@
       \strng{authornamehash}{5e03616fa895d3106794706f9823a982}
       \strng{authorfullhash}{5e03616fa895d3106794706f9823a982}
       \strng{authorfullhashraw}{5e03616fa895d3106794706f9823a982}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1110-6611}
@@ -206,8 +305,8 @@
       \strng{authornamehash}{deab354fa34c651c4a68de087433a390}
       \strng{authorfullhash}{bc828d4341ea71dc7cb6c8328c2686ce}
       \strng{authorfullhashraw}{bc828d4341ea71dc7cb6c8328c2686ce}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1474547X}
@@ -221,6 +320,60 @@
       \range{pages}{13}
       \verb{doi}
       \verb 10.1016/S0140-6736(21)00392-5
+      \endverb
+    \endentry
+    \entry{Adeboye2021}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=f0d8bc0f011d21cfa227a0a4e863cb7a}{%
+           family={Adeboye},
+           familyi={A\bibinitperiod},
+           given={Adeolu},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2f47e7bff7a913e9fc8d90f84b0f50d9}{%
+           family={Hart},
+           familyi={H\bibinitperiod},
+           given={Rachel},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e6a68c6f80a02930030ee475660c69a2}{%
+           family={Senapathi},
+           familyi={S\bibinitperiod},
+           given={Sri\bibnamedelima HarshaVardhan},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=b68bc16c1e3807e175ea96eccec37365}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Naaila},
+           giveni={N\bibinitperiod}}}%
+        {{hash=b1ebd05b484ea5c670ced8f679d88338}{%
+           family={Holman},
+           familyi={H\bibinitperiod},
+           given={Lee},
+           giveni={L\bibinitperiod}}}%
+        {{hash=31dd7bba0e6be270499766a8c6002a5c}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Harris\bibnamedelima W},
+           giveni={H\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc076aee9a8d7823f21cbb42538ec15d}
+      \strng{fullhash}{d190b01b8bfddef160fa97faa18422fc}
+      \strng{fullhashraw}{d190b01b8bfddef160fa97faa18422fc}
+      \strng{bibnamehash}{d190b01b8bfddef160fa97faa18422fc}
+      \strng{authorbibnamehash}{d190b01b8bfddef160fa97faa18422fc}
+      \strng{authornamehash}{cc076aee9a8d7823f21cbb42538ec15d}
+      \strng{authorfullhash}{d190b01b8bfddef160fa97faa18422fc}
+      \strng{authorfullhashraw}{d190b01b8bfddef160fa97faa18422fc}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2168-8184}
+      \field{journaltitle}{Cureus}
+      \field{month}{8}
+      \field{title}{Assessment of Functional Pain Score by Comparing to Traditional Pain Scores}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.7759/cureus.16847
       \endverb
     \endentry
     \entry{Alves2024}{article}{}{}
@@ -249,8 +402,8 @@
       \strng{authornamehash}{d87b10fc5e48533a64b431957d1f1924}
       \strng{authorfullhash}{680c5dca17d8ede1aa941300dd610c9a}
       \strng{authorfullhashraw}{680c5dca17d8ede1aa941300dd610c9a}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2364-415X}
@@ -296,8 +449,8 @@
       \strng{authornamehash}{8d83099722e3a300d52e21a877960263}
       \strng{authorfullhash}{5271f9f4038a23ecae0f33a0cc793ea4}
       \strng{authorfullhashraw}{5271f9f4038a23ecae0f33a0cc793ea4}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{14698986}
