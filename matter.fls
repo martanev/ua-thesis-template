@@ -681,6 +681,12 @@ OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
 INPUT .\chapters\chapter2.tex
 INPUT .\chapters\chapter2.tex
 OUTPUT chapters\chapter2.aux
@@ -849,6 +855,9 @@ OUTPUT matter.mw
 INPUT .\chapters\chapter1.aux
 INPUT .\chapters\chapter1.aux
 INPUT chapters\chapter1.aux
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
