@@ -533,6 +533,18 @@
       \endverb
       \keyw{Automatic classifier,Electrocardiogram,Entropy of noise,Physiology of emotions}
     \endentry
+    \entry{Cluster}{misc}{}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{k-Means Clustering}
+      \verb{urlraw}
+      \verb https://www.mathworks.com/help/stats/k-means-clustering.html
+      \endverb
+      \verb{url}
+      \verb https://www.mathworks.com/help/stats/k-means-clustering.html
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
