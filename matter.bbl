@@ -19,6 +19,52 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
+    \entry{Dirk2021}{misc}{}{}
+      \name{author}{3}{}{%
+        {{hash=630d733478b9afc9e285eb4a22b0c065}{%
+           family={Ridder},
+           familyi={R\bibinitperiod},
+           given={Dirk\bibnamedelima De},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=bc104ff2d77e7fbf5ff12fd5f727c483}{%
+           family={Adhia},
+           familyi={A\bibinitperiod},
+           given={Divya},
+           giveni={D\bibinitperiod}}}%
+        {{hash=73ef0b1c84bd9087cc23531846a05f64}{%
+           family={Vanneste},
+           familyi={V\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{f5ce85199d2955041c96ea906870ded2}
+      \strng{fullhash}{7abd6ec898925569ebc2baee44629a5b}
+      \strng{fullhashraw}{7abd6ec898925569ebc2baee44629a5b}
+      \strng{bibnamehash}{7abd6ec898925569ebc2baee44629a5b}
+      \strng{authorbibnamehash}{7abd6ec898925569ebc2baee44629a5b}
+      \strng{authornamehash}{f5ce85199d2955041c96ea906870ded2}
+      \strng{authorfullhash}{7abd6ec898925569ebc2baee44629a5b}
+      \strng{authorfullhashraw}{7abd6ec898925569ebc2baee44629a5b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{18737528}
+      \field{journaltitle}{Neuroscience and Biobehavioral Reviews}
+      \field{month}{11}
+      \field{title}{The anatomy of pain and suffering in the brain and its clinical implications}
+      \field{volume}{130}
+      \field{year}{2021}
+      \field{pages}{125\bibrangedash 146}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1016/j.neubiorev.2021.08.013
+      \endverb
+      \keyw{Acute,Anterior cingulate cortex,Autonomic,Chronic,Cognitive,Emotional,Pain,suffering,anatomy,brain}
+    \endentry
     \entry{Coninx2021}{article}{}{}
       \name{author}{2}{}{%
         {{hash=77b043f4e5f12b9cf9d279bdca4f57ce}{%
@@ -44,8 +90,8 @@
       \strng{authornamehash}{1fca099b72aabf1665fb3c1baddfa68c}
       \strng{authorfullhash}{1fca099b72aabf1665fb3c1baddfa68c}
       \strng{authorfullhashraw}{1fca099b72aabf1665fb3c1baddfa68c}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{15730964}
@@ -101,8 +147,8 @@
       \strng{authornamehash}{dd872f766df5edf8a7272063a9335be0}
       \strng{authorfullhash}{467baf0473089a0750ff559e2962b792}
       \strng{authorfullhashraw}{467baf0473089a0750ff559e2962b792}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{15264637}
@@ -148,8 +194,8 @@
       \strng{authornamehash}{3a8fa8ac1c2df18faaadefeedaadecf5}
       \strng{authorfullhash}{ddce7e7f04e8d4d9d648b7b53c2638d2}
       \strng{authorfullhashraw}{ddce7e7f04e8d4d9d648b7b53c2638d2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{12036765}
@@ -177,59 +223,13 @@
       \strng{authornamehash}{e07648b5f03c057043c6f8af9354a0dc}
       \strng{authorfullhash}{e07648b5f03c057043c6f8af9354a0dc}
       \strng{authorfullhashraw}{e07648b5f03c057043c6f8af9354a0dc}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Entropy-Based Feature Extraction Method from Wavelet Coefficient for Pain Intensity Assessment Task}
       \field{year}{2022}
       \keyw{Industrial engineering}
-    \endentry
-    \entry{Dirk2021}{misc}{}{}
-      \name{author}{3}{}{%
-        {{hash=630d733478b9afc9e285eb4a22b0c065}{%
-           family={Ridder},
-           familyi={R\bibinitperiod},
-           given={Dirk\bibnamedelima De},
-           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=bc104ff2d77e7fbf5ff12fd5f727c483}{%
-           family={Adhia},
-           familyi={A\bibinitperiod},
-           given={Divya},
-           giveni={D\bibinitperiod}}}%
-        {{hash=73ef0b1c84bd9087cc23531846a05f64}{%
-           family={Vanneste},
-           familyi={V\bibinitperiod},
-           given={Sven},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier Ltd}%
-      }
-      \strng{namehash}{f5ce85199d2955041c96ea906870ded2}
-      \strng{fullhash}{7abd6ec898925569ebc2baee44629a5b}
-      \strng{fullhashraw}{7abd6ec898925569ebc2baee44629a5b}
-      \strng{bibnamehash}{7abd6ec898925569ebc2baee44629a5b}
-      \strng{authorbibnamehash}{7abd6ec898925569ebc2baee44629a5b}
-      \strng{authornamehash}{f5ce85199d2955041c96ea906870ded2}
-      \strng{authorfullhash}{7abd6ec898925569ebc2baee44629a5b}
-      \strng{authorfullhashraw}{7abd6ec898925569ebc2baee44629a5b}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{18737528}
-      \field{journaltitle}{Neuroscience and Biobehavioral Reviews}
-      \field{month}{11}
-      \field{title}{The anatomy of pain and suffering in the brain and its clinical implications}
-      \field{volume}{130}
-      \field{year}{2021}
-      \field{pages}{125\bibrangedash 146}
-      \range{pages}{22}
-      \verb{doi}
-      \verb 10.1016/j.neubiorev.2021.08.013
-      \endverb
-      \keyw{Acute,Anterior cingulate cortex,Autonomic,Chronic,Cognitive,Emotional,Pain,suffering,anatomy,brain}
     \endentry
     \entry{Jayakar2021}{article}{}{}
       \name{author}{6}{}{%
@@ -481,6 +481,119 @@
       \verb 10.1007/s41060-024-00649-z
       \endverb
     \endentry
+    \entry{Robinson2024}{article}{}{}
+      \name{author}{17}{}{%
+        {{hash=5e8c58d0b87a60ee16403856e3e2fe08}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={Christopher\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=195f3d9e8f51b8283872995c1d45ccf6}{%
+           family={Phung},
+           familyi={P\bibinitperiod},
+           given={Anh},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a109cb417853afef748b933bb2342b22}{%
+           family={Dominguez},
+           familyi={D\bibinitperiod},
+           given={Moises},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3c51c2b4e3b1038c8077b96e4320e8bd}{%
+           family={Remotti},
+           familyi={R\bibinitperiod},
+           given={Edgar},
+           giveni={E\bibinitperiod}}}%
+        {{hash=37dae76072bf2a420244078bd851a3e5}{%
+           family={Ricciardelli},
+           familyi={R\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=04ce5e5b4c26ee028f11dbbb763e1e50}{%
+           family={Momah},
+           familyi={M\bibinitperiod},
+           given={D.\bibnamedelimi Uju},
+           giveni={D\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=9e564f223feedf444538a39ca400b5e0}{%
+           family={Wahab},
+           familyi={W\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cfa4c71027729dc2c9348c725601e5db}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Rosa\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=643f6cf5f6f3680093095b80ed4057fe}{%
+           family={Norman},
+           familyi={N\bibinitperiod},
+           given={Malcolm},
+           giveni={M\bibinitperiod}}}%
+        {{hash=66999416757be064e4abd6405bb3d54c}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7d5e1a93478be089933f9bbc75d2cddb}{%
+           family={Hasoon},
+           familyi={H\bibinitperiod},
+           given={Jamal},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c5910142c2f0f08f535cd07be11f8d34}{%
+           family={Orhurh},
+           familyi={O\bibinitperiod},
+           given={Vwaire},
+           giveni={V\bibinitperiod}}}%
+        {{hash=e8acffb5e251261d3f22f29d86fa3b12}{%
+           family={Viswanath},
+           familyi={V\bibinitperiod},
+           given={Omar},
+           giveni={O\bibinitperiod}}}%
+        {{hash=f7b7f1d384221a34df96fdc35eb94586}{%
+           family={Yazdi},
+           familyi={Y\bibinitperiod},
+           given={Cyrus},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e4ee83cc6e0efeb4c8879f71b96e3638}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Grant\bibnamedelima H.},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=1bd5e601713606efaf51ef3a1e4cd10d}{%
+           family={Simopoulos},
+           familyi={S\bibinitperiod},
+           given={Thomas\bibnamedelima T.},
+           giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=9dc54eafb51e98829f3f9e0f16b194e0}{%
+           family={Gill},
+           familyi={G\bibinitperiod},
+           given={Jatinder},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3ed14cefc4dd2c7b32ee5166316e2e9}
+      \strng{fullhash}{d19b715de3e77acc17aeb9d9b419d68e}
+      \strng{fullhashraw}{d19b715de3e77acc17aeb9d9b419d68e}
+      \strng{bibnamehash}{b3ed14cefc4dd2c7b32ee5166316e2e9}
+      \strng{authorbibnamehash}{b3ed14cefc4dd2c7b32ee5166316e2e9}
+      \strng{authornamehash}{b3ed14cefc4dd2c7b32ee5166316e2e9}
+      \strng{authorfullhash}{d19b715de3e77acc17aeb9d9b419d68e}
+      \strng{authorfullhashraw}{d19b715de3e77acc17aeb9d9b419d68e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1531-3433}
+      \field{issue}{1}
+      \field{journaltitle}{Current Pain and Headache Reports}
+      \field{month}{1}
+      \field{title}{Pain Scales: What Are They and What Do They Mean}
+      \field{volume}{28}
+      \field{year}{2024}
+      \field{pages}{11\bibrangedash 25}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s11916-023-01195-2
+      \endverb
+    \endentry
     \entry{Ferreira2017}{article}{}{}
       \name{author}{4}{}{%
         {{hash=850191e1fb9d27c9ad39161c9c1656a8}{%
@@ -515,8 +628,8 @@
       \strng{authornamehash}{8d83099722e3a300d52e21a877960263}
       \strng{authorfullhash}{5271f9f4038a23ecae0f33a0cc793ea4}
       \strng{authorfullhashraw}{5271f9f4038a23ecae0f33a0cc793ea4}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{14698986}
@@ -534,8 +647,8 @@
       \keyw{Automatic classifier,Electrocardiogram,Entropy of noise,Physiology of emotions}
     \endentry
     \entry{Cluster}{misc}{}{}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{title}{k-Means Clustering}
       \verb{urlraw}

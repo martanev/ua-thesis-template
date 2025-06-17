@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  15 JUN 2025 00:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  16 JUN 2025 17:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1425,24 +1425,24 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (matter.aux (glossary.aux) (chapters/chapter1.aux) (chapters/chapter2.aux) (chapters/chapter3.aux) (chapters/appendix-more.aux))
 \openout1 = `matter.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 240.
-LaTeX Font Info:    ... okay on input line 240.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 240.
-LaTeX Font Info:    ... okay on input line 240.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 240.
-LaTeX Font Info:    ... okay on input line 240.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 240.
-LaTeX Font Info:    ... okay on input line 240.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 240.
-LaTeX Font Info:    ... okay on input line 240.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 240.
-LaTeX Font Info:    ... okay on input line 240.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 240.
-LaTeX Font Info:    ... okay on input line 240.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 240.
-LaTeX Font Info:    ... okay on input line 240.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 240.
-LaTeX Font Info:    ... okay on input line 240.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 243.
+LaTeX Font Info:    ... okay on input line 243.
  (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count557
@@ -1476,19 +1476,19 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-LaTeX Info: Redefining \microtypecontext on input line 240.
-Package microtype Info: Applying patch `item' on input line 240.
-Package microtype Info: Applying patch `toc' on input line 240.
-Package microtype Info: Applying patch `eqnum' on input line 240.
-Package microtype Info: Applying patch `footnote' on input line 240.
-Package microtype Info: Applying patch `verbatim' on input line 240.
+LaTeX Info: Redefining \microtypecontext on input line 243.
+Package microtype Info: Applying patch `item' on input line 243.
+Package microtype Info: Applying patch `toc' on input line 243.
+Package microtype Info: Applying patch `eqnum' on input line 243.
+Package microtype Info: Applying patch `footnote' on input line 243.
+Package microtype Info: Applying patch `verbatim' on input line 243.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 240.
+LaTeX Info: Redefining \showhyphens on input line 243.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1499,8 +1499,8 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 240.
-Package soulpos Info: Loading soulutf8 on input line 240.
+Package hyperref Info: Link coloring OFF on input line 243.
+Package soulpos Info: Loading soulutf8 on input line 243.
  (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/generic/soul\soulutf8.sty
 Package: soulutf8 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
 
@@ -1556,44 +1556,44 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'matter.bbl' found.
  (matter.bbl)
-Package biblatex Info: Reference section=0 on input line 240.
-Package biblatex Info: Reference segment=0 on input line 240.
-Package translations Info: no dictionary file `translations-basic-dictionary-portuges.trsl' found. on input line 240.
+Package biblatex Info: Reference section=0 on input line 243.
+Package biblatex Info: Reference segment=0 on input line 243.
+Package translations Info: no dictionary file `translations-basic-dictionary-portuges.trsl' found. on input line 243.
  (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 240.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 243.
 <cover.pdf, id=6, 597.50829pt x 845.0471pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf>
-Package pdftex.def Info: cover.pdf  used on input line 248.
+Package pdftex.def Info: cover.pdf  used on input line 251.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf>
-Package pdftex.def Info: cover.pdf  used on input line 248.
+Package pdftex.def Info: cover.pdf  used on input line 251.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 <cover.pdf, id=9, page=1, 597.50829pt x 845.0471pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 248.
+Package pdftex.def Info: cover.pdf , page1 used on input line 251.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 248.
+Package pdftex.def Info: cover.pdf , page1 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 248.
+Package pdftex.def Info: cover.pdf , page1 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 248.
+Package pdftex.def Info: cover.pdf , page1 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 248.
+Package pdftex.def Info: cover.pdf , page1 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 \openout4 = `matter.mw'.
 
@@ -1605,21 +1605,21 @@ Package pdftex.def Info: cover.pdf , page1 used on input line 248.
 
 \openout4 = `matter.upa'.
 
-Package marginnote Info: Using workaround for absolute page number on input line 248.
+Package marginnote Info: Using workaround for absolute page number on input line 251.
 <cover.pdf, id=25, page=2, 597.50829pt x 845.0471pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 2>
-Package pdftex.def Info: cover.pdf , page2 used on input line 248.
+Package pdftex.def Info: cover.pdf , page2 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 2>
-Package pdftex.def Info: cover.pdf , page2 used on input line 248.
+Package pdftex.def Info: cover.pdf , page2 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 2>
-Package pdftex.def Info: cover.pdf , page2 used on input line 248.
+Package pdftex.def Info: cover.pdf , page2 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 \openout4 = `matter.mw'.
 
@@ -1631,17 +1631,17 @@ Package pdftex.def Info: cover.pdf , page2 used on input line 248.
 <cover.pdf, id=36, page=3, 597.50829pt x 845.0471pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 3>
-Package pdftex.def Info: cover.pdf , page3 used on input line 248.
+Package pdftex.def Info: cover.pdf , page3 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 3>
-Package pdftex.def Info: cover.pdf , page3 used on input line 248.
+Package pdftex.def Info: cover.pdf , page3 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 3>
-Package pdftex.def Info: cover.pdf , page3 used on input line 248.
+Package pdftex.def Info: cover.pdf , page3 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 \openout4 = `matter.mw'.
 
@@ -1653,17 +1653,17 @@ Package pdftex.def Info: cover.pdf , page3 used on input line 248.
 <cover.pdf, id=41, page=4, 597.50829pt x 845.0471pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 4>
-Package pdftex.def Info: cover.pdf , page4 used on input line 248.
+Package pdftex.def Info: cover.pdf , page4 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 4>
-Package pdftex.def Info: cover.pdf , page4 used on input line 248.
+Package pdftex.def Info: cover.pdf , page4 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 4>
-Package pdftex.def Info: cover.pdf , page4 used on input line 248.
+Package pdftex.def Info: cover.pdf , page4 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 \openout4 = `matter.mw'.
 
@@ -1675,17 +1675,17 @@ Package pdftex.def Info: cover.pdf , page4 used on input line 248.
 <cover.pdf, id=46, page=5, 597.50829pt x 845.0471pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 5>
-Package pdftex.def Info: cover.pdf , page5 used on input line 248.
+Package pdftex.def Info: cover.pdf , page5 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 5>
-Package pdftex.def Info: cover.pdf , page5 used on input line 248.
+Package pdftex.def Info: cover.pdf , page5 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 5>
-Package pdftex.def Info: cover.pdf , page5 used on input line 248.
+Package pdftex.def Info: cover.pdf , page5 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 \openout4 = `matter.mw'.
 
@@ -1697,17 +1697,17 @@ Package pdftex.def Info: cover.pdf , page5 used on input line 248.
 <cover.pdf, id=73, page=6, 597.50829pt x 845.0471pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 6>
-Package pdftex.def Info: cover.pdf , page6 used on input line 248.
+Package pdftex.def Info: cover.pdf , page6 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 6>
-Package pdftex.def Info: cover.pdf , page6 used on input line 248.
+Package pdftex.def Info: cover.pdf , page6 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 6>
-Package pdftex.def Info: cover.pdf , page6 used on input line 248.
+Package pdftex.def Info: cover.pdf , page6 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 \openout4 = `matter.mw'.
 
@@ -1719,17 +1719,17 @@ Package pdftex.def Info: cover.pdf , page6 used on input line 248.
 <cover.pdf, id=78, page=7, 597.50829pt x 845.0471pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 7>
-Package pdftex.def Info: cover.pdf , page7 used on input line 248.
+Package pdftex.def Info: cover.pdf , page7 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 7>
-Package pdftex.def Info: cover.pdf , page7 used on input line 248.
+Package pdftex.def Info: cover.pdf , page7 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 7>
-Package pdftex.def Info: cover.pdf , page7 used on input line 248.
+Package pdftex.def Info: cover.pdf , page7 used on input line 251.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 \openout4 = `matter.mw'.
 
@@ -1838,14 +1838,14 @@ Package microtype Info: Character `029' is missing
 
 \openout4 = `matter.mw'.
 
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
 Package acronym Info: Label `acro:nps' newly defined as it shall be overridden
 although it is yet undefined on input line 12.
 Package acronym Info: Label `acro:vas' newly defined as it shall be overridden
 although it is yet undefined on input line 12.
-\openout4 = `matter.mw'.
-
-\openout4 = `matter.mw'.
-
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
@@ -1895,6 +1895,14 @@ although it is yet undefined on input line 12.
 
 \openout4 = `matter.mw'.
 
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
 )
 
 \openout4 = `matter.mw'.
@@ -1905,7 +1913,7 @@ although it is yet undefined on input line 12.
 \openout2 = `chapters/chapter2.aux'.
 
  (chapters/chapter2.tex
-<./figs/image.png, id=204, 1257.69875pt x 799.98875pt>
+<./figs/image.png, id=207, 1257.69875pt x 799.98875pt>
 File: ./figs/image.png Graphic file (type png)
 <use ./figs/image.png>
 Package pdftex.def Info: ./figs/image.png  used on input line 8.
@@ -1931,7 +1939,7 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
  <./figs/image.png>] (matter.mw)
 \openout4 = `matter.mw'.
 
-<./figs/database.png, id=212, 383.9946pt x 88.1694pt>
+<./figs/database.png, id=215, 383.9946pt x 88.1694pt>
 File: ./figs/database.png Graphic file (type png)
 <use ./figs/database.png>
 Package pdftex.def Info: ./figs/database.png  used on input line 25.
@@ -1955,17 +1963,17 @@ Package pdftex.def Info: ./figs/database.png  used on input line 25.
 [4{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./figs/database.png (PNG copy)>] (matter.mw)
 \openout4 = `matter.mw'.
 
-<./figs/ecg.jpg, id=223, 562.1pt x 421.575pt>
+<./figs/ecg.jpg, id=226, 562.1pt x 421.575pt>
 File: ./figs/ecg.jpg Graphic file (type jpg)
 <use ./figs/ecg.jpg>
 Package pdftex.def Info: ./figs/ecg.jpg  used on input line 70.
 (pdftex.def)             Requested size: 184.9429pt x 138.70204pt.
-<./figs/normalized ecg.jpg, id=224, 562.1pt x 421.575pt>
+<./figs/normalized ecg.jpg, id=227, 562.1pt x 421.575pt>
 File: ./figs/normalized ecg.jpg Graphic file (type jpg)
 <use ./figs/normalized ecg.jpg>
 Package pdftex.def Info: ./figs/normalized ecg.jpg  used on input line 77.
 (pdftex.def)             Requested size: 184.9429pt x 138.70204pt.
-<./figs/wavelets 2.jpg, id=226, 562.1pt x 421.575pt>
+<./figs/wavelets 2.jpg, id=229, 562.1pt x 421.575pt>
 File: ./figs/wavelets 2.jpg Graphic file (type jpg)
 <use ./figs/wavelets 2.jpg>
 Package pdftex.def Info: ./figs/wavelets 2.jpg  used on input line 95.
@@ -1981,17 +1989,17 @@ Package pdftex.def Info: ./figs/wavelets 2.jpg  used on input line 95.
 
 \openout4 = `matter.mw'.
 
-<./figs/orig_part5.jpg, id=237, 1028.34187pt x 453.19313pt>
+<./figs/orig_part5.jpg, id=240, 1028.34187pt x 453.19313pt>
 File: ./figs/orig_part5.jpg Graphic file (type jpg)
 <use ./figs/orig_part5.jpg>
 Package pdftex.def Info: ./figs/orig_part5.jpg  used on input line 119.
 (pdftex.def)             Requested size: 441.0pt x 194.3506pt.
-<./figs/entropy_part5.jpg, id=238, 1028.34187pt x 447.92343pt>
+<./figs/entropy_part5.jpg, id=241, 1028.34187pt x 447.92343pt>
 File: ./figs/entropy_part5.jpg Graphic file (type jpg)
 <use ./figs/entropy_part5.jpg>
 Package pdftex.def Info: ./figs/entropy_part5.jpg  used on input line 126.
 (pdftex.def)             Requested size: 441.0pt x 192.09071pt.
-<./figs/histogram.jpg, id=240, 1371.1225pt x 645.41125pt>
+<./figs/histogram.jpg, id=243, 1371.1225pt x 645.41125pt>
 File: ./figs/histogram.jpg Graphic file (type jpg)
 <use ./figs/histogram.jpg>
 Package pdftex.def Info: ./figs/histogram.jpg  used on input line 139.
@@ -2018,7 +2026,7 @@ LaTeX Warning: Text page 7 contains only floats.
 [7 <./figs/orig_part5.jpg> <./figs/entropy_part5.jpg> <./figs/histogram.jpg>] (matter.mw)
 \openout4 = `matter.mw'.
 
-<./figs/normalized features.jpg, id=251, 1371.1225pt x 645.41125pt>
+<./figs/normalized features.jpg, id=254, 1371.1225pt x 645.41125pt>
 File: ./figs/normalized features.jpg Graphic file (type jpg)
 <use ./figs/normalized features.jpg>
 Package pdftex.def Info: ./figs/normalized features.jpg  used on input line 148.
@@ -2059,7 +2067,7 @@ Package pdftex.def Info: ./figs/normalized features.jpg  used on input line 148.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/9'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 398.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 401.
  (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -2068,7 +2076,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 398.
+(Font)              <9> on input line 401.
 
 
 \openout4 = `matter.mw'.
@@ -2089,7 +2097,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.409 \include{chapters/appendix-more}
+l.412 \include{chapters/appendix-more}
                                       
 \openout4 = `matter.mw'.
 
@@ -2100,7 +2108,7 @@ l.409 \include{chapters/appendix-more}
 ] (matter.mw)
 \openout4 = `matter.mw'.
 
-Package marginnote Info: Using workaround for absolute page number on input line 409.
+Package marginnote Info: Using workaround for absolute page number on input line 412.
 \tf@toc=\write134
 \openout4 = `matter.toc'.
 
@@ -2526,17 +2534,17 @@ Package logreq Info: Writing requests to 'matter.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48450 strings out of 473897
- 979189 string characters out of 5726461
- 2118097 words of memory out of 5000000
- 69977 multiletter control sequences out of 15000+600000
- 637684 words of font info for 185 fonts, out of 8000000 for 9000
+ 48456 strings out of 473897
+ 979359 string characters out of 5726461
+ 2119160 words of memory out of 5000000
+ 69980 multiletter control sequences out of 15000+600000
+ 637518 words of font info for 183 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,17n,101p,1261b,2802s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on matter.pdf (23 pages, 1239947 bytes).
+Output written on matter.pdf (23 pages, 1240941 bytes).
 PDF statistics:
- 418 PDF objects out of 1000 (max. 8388607)
- 66 named destinations out of 1000 (max. 500000)
+ 423 PDF objects out of 1000 (max. 8388607)
+ 67 named destinations out of 1000 (max. 500000)
  43764 words of extra memory for PDF output out of 51595 (max. 10000000)
 
