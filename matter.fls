@@ -696,6 +696,15 @@ OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
 INPUT .\chapters\chapter2.tex
 INPUT .\chapters\chapter2.tex
 OUTPUT chapters\chapter2.aux
@@ -824,6 +833,9 @@ INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi9.tfm
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy9.tfm
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw

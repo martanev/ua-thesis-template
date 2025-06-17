@@ -1,17 +1,17 @@
 [1] Config.pm:308> INFO - This is Biber 2.20
-[2] Config.pm:311> INFO - Logfile is 'matter.blg'
-[435] biber-MSWIN64:340> INFO - === 
-[537] Biber.pm:420> INFO - Reading 'matter.bcf'
-[942] Biber.pm:994> INFO - Found 13 citekeys in bib section 0
-[989] Biber.pm:4463> INFO - Processing section 0
-[1034] Biber.pm:4654> INFO - Looking for bibtex file 'bib/references.bib' for section 0
-[1185] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1312] bibtex.pm:1519> INFO - Found BibTeX data source 'bib/references.bib'
-[1639] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1639] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1639] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'pt-PT'
-[1639] Biber.pm:4289> INFO - No sort tailoring available for locale 'pt-PT'
-[1672] bbl.pm:676> INFO - Writing 'matter.bbl' with encoding 'UTF-8'
-[1699] bbl.pm:779> INFO - Output to matter.bbl
-[1699] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Geral\AppData\Local\Temp\biber_tmp_jQS1\33e59b5ca9ec342068223d604c3f8d55_19052.utf8, line 8, warning: undefined macro "sep."
-[1699] Biber.pm:133> INFO - WARNINGS: 1
+[4] Config.pm:311> INFO - Logfile is 'matter.blg'
+[312] biber-MSWIN64:340> INFO - === 
+[389] Biber.pm:420> INFO - Reading 'matter.bcf'
+[616] Biber.pm:994> INFO - Found 15 citekeys in bib section 0
+[649] Biber.pm:4463> INFO - Processing section 0
+[672] Biber.pm:4654> INFO - Looking for bibtex file 'bib/references.bib' for section 0
+[782] bibtex.pm:1713> INFO - LaTeX decoding ...
+[924] bibtex.pm:1519> INFO - Found BibTeX data source 'bib/references.bib'
+[1186] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1186] UCollate.pm:68> INFO - Overriding locale 'pt-PT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1186] Biber.pm:4283> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'pt-PT'
+[1186] Biber.pm:4289> INFO - No sort tailoring available for locale 'pt-PT'
+[1218] bbl.pm:676> INFO - Writing 'matter.bbl' with encoding 'UTF-8'
+[1239] bbl.pm:779> INFO - Output to matter.bbl
+[1240] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Geral\AppData\Local\Temp\biber_tmp_138c\33e59b5ca9ec342068223d604c3f8d55_18672.utf8, line 8, warning: undefined macro "sep."
+[1240] Biber.pm:133> INFO - WARNINGS: 1

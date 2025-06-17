@@ -231,6 +231,63 @@
       \field{year}{2022}
       \keyw{Industrial engineering}
     \endentry
+    \entry{Fang2025}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=1876138468532bbbcc69828cf5580124}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Ruijie},
+           giveni={R\bibinitperiod}}}%
+        {{hash=299c64e2bff021b5b704e2a44b23b5f2}{%
+           family={Hosseini},
+           familyi={H\bibinitperiod},
+           given={Elahe},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e2b49c18158617c0fd76406ee1a75a0c}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Ruoyu},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c24d8dabe04c6e765cf89ffb051183f8}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Chongzhou},
+           giveni={C\bibinitperiod}}}%
+        {{hash=80611f4916defdaa3f0731e63af3c34a}{%
+           family={Rafatirad},
+           familyi={R\bibinitperiod},
+           given={Setareh},
+           giveni={S\bibinitperiod}}}%
+        {{hash=838299823fd5edddb2ef02029b56ecdf}{%
+           family={Homayoun},
+           familyi={H\bibinitperiod},
+           given={Houman},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d84d4ada12559e84f88bba5c0508535}
+      \strng{fullhash}{3915812969fc1018cccefe1a18e43c77}
+      \strng{fullhashraw}{3915812969fc1018cccefe1a18e43c77}
+      \strng{bibnamehash}{3915812969fc1018cccefe1a18e43c77}
+      \strng{authorbibnamehash}{3915812969fc1018cccefe1a18e43c77}
+      \strng{authornamehash}{2d84d4ada12559e84f88bba5c0508535}
+      \strng{authorfullhash}{3915812969fc1018cccefe1a18e43c77}
+      \strng{authorfullhashraw}{3915812969fc1018cccefe1a18e43c77}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2817-1705}
+      \field{journaltitle}{JMIR AI}
+      \field{month}{2}
+      \field{title}{Survey on Pain Detection Using Machine Learning Models: Narrative Review}
+      \field{volume}{4}
+      \field{year}{2025}
+      \field{pages}{e53026}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.2196/53026
+      \endverb
+    \endentry
     \entry{Jayakar2021}{article}{}{}
       \name{author}{6}{}{%
         {{hash=adb0b00389ea577be04ca75b1ca050b8}{%
@@ -272,8 +329,8 @@
       \strng{authornamehash}{03b0a7a213b006c15515106ccb199012}
       \strng{authorfullhash}{740f11ffde72277f6ba7dffb98cedc47}
       \strng{authorfullhashraw}{740f11ffde72277f6ba7dffb98cedc47}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1946-6234}
@@ -312,8 +369,8 @@
       \strng{authornamehash}{5e03616fa895d3106794706f9823a982}
       \strng{authorfullhash}{5e03616fa895d3106794706f9823a982}
       \strng{authorfullhashraw}{5e03616fa895d3106794706f9823a982}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1110-6611}
@@ -371,8 +428,8 @@
       \strng{authornamehash}{deab354fa34c651c4a68de087433a390}
       \strng{authorfullhash}{bc828d4341ea71dc7cb6c8328c2686ce}
       \strng{authorfullhashraw}{bc828d4341ea71dc7cb6c8328c2686ce}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1474547X}
@@ -592,6 +649,55 @@
       \range{pages}{15}
       \verb{doi}
       \verb 10.1007/s11916-023-01195-2
+      \endverb
+    \endentry
+    \entry{Rojas2023}{misc}{}{}
+      \name{author}{4}{}{%
+        {{hash=bf5b90b7b14dfb34e13da3f3c11f6edb}{%
+           family={Rojas},
+           familyi={R\bibinitperiod},
+           given={Raul\bibnamedelima Fernandez},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=0c6f5cf0c0b78dbe0356df269444786d}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=9ce09370b24163fcd79b2dd211c79a2c}{%
+           family={Waddington},
+           familyi={W\bibinitperiod},
+           given={Gordon},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f9f2ac61f732f6857bcc1178326de967}{%
+           family={Goecke},
+           familyi={G\bibinitperiod},
+           given={Roland},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Research}%
+      }
+      \strng{namehash}{562257ce298aacb228c2366d5412c73e}
+      \strng{fullhash}{e43347a80deaeaafa5d5402c0a8d2eca}
+      \strng{fullhashraw}{e43347a80deaeaafa5d5402c0a8d2eca}
+      \strng{bibnamehash}{e43347a80deaeaafa5d5402c0a8d2eca}
+      \strng{authorbibnamehash}{e43347a80deaeaafa5d5402c0a8d2eca}
+      \strng{authornamehash}{562257ce298aacb228c2366d5412c73e}
+      \strng{authorfullhash}{e43347a80deaeaafa5d5402c0a8d2eca}
+      \strng{authorfullhashraw}{e43347a80deaeaafa5d5402c0a8d2eca}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{23986352}
+      \field{issue}{1}
+      \field{journaltitle}{npj Digital Medicine}
+      \field{month}{12}
+      \field{title}{A systematic review of neurophysiological sensing for the assessment of acute pain}
+      \field{volume}{6}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1038/s41746-023-00810-1
       \endverb
     \endentry
     \entry{Ferreira2017}{article}{}{}
