@@ -1,162 +1,66 @@
-\chapter{Methods and Procedure}
-\label{chapter:methods}
-
-In figure \ref{fig:image}, the processing pipeline for this project is shown.
-
-\begin{figure}[h!]
-    \centering
-    \includegraphics[width=1.0\textwidth]{image.png}
-    \caption{Processing pipeline.}
-    \label{fig:image}
-\end{figure}
-
-\section{Database Acquisition}
-In this project, two databases were used: one has data from an \ac{ecg} signal while the other contains features extracted from that ECG, as described in the article by Alves et al \cite{Alves2024}.
-
-The data collection protocol followed a structured sequence designed to elicit and record both emotional and pain-related responses. It began with a 5-minute baseline period, during which participants remained seated in a relaxed position without any external stimuli. During this time, only physiological signals were recorded to establish a baseline.
-Subsequently, participants watched a 10-minute video, composed of excerpts from comedy, horror, or documentary films, aimed at inducing positive, negative, or neutral emotional states, respectively. This was immediately followed by a second 5-minute stimulus-free period, allowing for recovery and stabilization of physiological responses.
-Next, participants underwent a Cold Pressor Test (CPT), in which they immersed their non-dominant hand in a tank of cold water maintained at 7 ± 1°C. This procedure aimed to induce pain, and participants reported their experience using the Numerical Pain Scale (NPS) at four key time points: (1) before immersing the hand, (2) at the moment pain was first perceived (Pain Threshold), (3) when the pain became unbearable (Pain Tolerance), and (4) three minutes after hand removal. The CPT phase concluded either when the participant reached their pain tolerance or after a maximum of 2 minutes, whichever occurred first.
-Finally, the protocol concluded with a third 5-minute period without stimuli, serving as a rest phase to observe post-task physiological responses. 
-This process is depicted in figure \ref{fig:database}. 
+\chapter{Theoretical Introduction}
 
 
-\begin{figure}[h!]
-    \centering
-    \includegraphics[width=1.0\textwidth]{database.png}
-    \caption{Scheme of the protocol applied to obtain the database. (Adapted from \cite{Alves2024})}
-    \label{fig:database}
-\end{figure}
+\section{Pain}
 
-During the study, three physiological signals were recorded: electrocardiogram (ECG), electrodermal activity (EDA), and electromyography (EMG), with EMG signals collected specifically from the trapezius and triceps muscles. Among these, the ECG data were stored in a dedicated database, which was subsequently used in the present project.
-From the ECG signals, several time series were extracted, including heart rate (HR), amplitude of wave peaks, amplitude of onsets and offsets, and the intervals between consecutive onsets, offsets, and peaks. These features were computed using 10-second sliding windows with a 50\% overlap.
-For each window, a set of statistical metrics—namely the mean, median, and variance—was calculated, resulting in a total of 237 features. These were compiled into a features database, which was also employed in the current project. 
+Pain is often defined as "an unpleasant experience which we primarily 
+associate with tissue damage, or describe in terms
+of such damage, or both" \cite{Fang2025}. According to its duration, pain can be classified as acute or chronic. Acute pain is induced by the activation of nociceptor sensory neurons, which occurs in the presence of actual or potential damaging stimuli, such as intense heat or cold and excessive mechanical force, or due to inflammation \cite{Jayakar2021}. On the other hand, chronic pain is defined as lasting more than three months \cite{Raman2022} and can be classified into nociceptive, neuropathic or nociplastic pain. Nociceptive pain results from continuous stimuli associated with tissue injury, while neuropathic pain results from damage to the peripheral or central nervous system. Lastly, nociplastic pain is a broader term, that is applied to chronic pain when it can't be described by the other two terms \cite{Fitzcharles2021}.
 
-(Não percebi a parte de colocar já aqui as features)
+The Numerical Pain Scale is one of the most widely used traditional methods for assessing pain. It typically involves asking patients to rate their pain on a scale from 0 to 10, where 0 represents no pain and 10 signifies the worst pain imaginable \cite{Nugent2021}. While simple and easy to administer, this method relies entirely on the individual’s subjective interpretation of their pain, which can be influenced by factors such as mood, stress and gender. Besides this, the difference between pain scores may not be comparable in scaling the intensity of pain \cite{Adeboye2021}. Finally, its verbal component is a limitation for non-verbal patients who may not be able to describe their pain using this method.
+
+Another traditional method for assessing pain is the Visual Analogue Scale. This scale represents a continuous range of values, and it mainly uses a horizontal line measuring exactly 100 mm (10 cm). The patient is asked to make a mark on the line according to their level of pain, then, the distance of the mark is measured and recorded in millimetres or centimetres \cite{Bielewicz2022}. However, even though it’s non-verbal, a minimum level of motor abilities is necessary to correctly use the VAS, which makes it inadequate for scaling pain in some patients with motor impairment, for example. This method, although it seems to be more detailed in values than the NPS, is still very subjective, not allowing for an accurate pain description and comparison. This method can also be used for assessing other symptoms, however. For example, in the dataset used in this project, it was used to assess the level of anxiety, happiness, fear and stress that the participants felt, on a scale of 0-100\%, and the arousal and valence states in a -5 to 5 scale \cite{Alves2024}.
+
+Other similar scales, that also depend on a patient's perception of their own pain, end up also being subjective \cite{Adeboye2021}\cite{Robinson2024}. Due to this, researchers have attempted to find objective ways to describe pain using physiological signals.
+
+
+\section{Pain Description}
+
+The premise that pain induces changes in the autonomous nervous system has led to the idea that physiological measures can be used to describe it \cite{Rojas2023}. For this reason, multiple physiological signals have been analysed in an attempt to distinguish pain from the lack of it, or even to classify it as more or less severe. 
 
 
 
 
-\section{Feature Extraction}
-Four of all the extrated features revealed to be more related to pain assessment, by the use of a Random Forest classifier as the estimator and
-the median as the threshold \cite{Alves2024}. So, under the scope of this project, the median of the R wave offset amplitude, the median of the T wave onset amplitude, and the mean and median of the S wave peak amplitude were used as a base for subsequent analysis.
-Considering that the previously described features are examples of the state of the art features in ECG analysis, and knowing that the pain quantification or identification is still an open area, this work wants to understand and find out other possible features that may describe the pain process. So, to accomplish such goal, an exploratory analysis to the collected ECG was performed.
-
-% In the aforementioned article, the features of the ECG that can be used to best describe pain are defined.
-% Hence, the top four features were selected for analysis, namely, the median of the R wave offset amplitude, the median of the T wave onset amplitude, and the mean and median of the S wave peak amplitude.
-
-% To enhance this research, new features were sought out. For this reason, analysis of the ECG database itself was deemed necessary. 
 
 
-\subsection{ECG Data Exploration}
-When looking at the time series of the signal, in figure \ref{fig:ecg}, it's noticeable that the range of amplitudes of the QRS complex is way bigger than that of the P and T waves.
-To tackle this, the ECG signal was standardized according to equation \ref{eq:1}, where X is the original ECG, $\mu$ is the mean, $\sigma$ is the standard deviation and Z is the standardized signal, which has mean zero and standard deviation one. 
-This means the range of values is the same for all participants, reducing the intervariability that is induced by the initial state of the participant, since it is an uncontrolled variable.
+\subsection{Electrocardiogram}
 
-\begin{equation} \label{eq:1}
-Z = \frac{X-\mu}{\sigma}
-\end{equation}
+In this project, the chosen physiological signal was the \ac{ecg}.
 
-% \begin{figure}[h!]
-%     \centering
-%     \includegraphics[width=0.9\textwidth]{ecg.jpg}
-%     \caption{Section of the ECG signal of a participant.}
-%     \label{fig:ecg}
-% \end{figure}
+The heart functions as a pump, its activity determined by the sinus node, that transmits excitation to the atrium and ventricule successively. An \ac{ecg} provides a recording of this electrical activity. Alterations in the typical conduction of electrical impulses through the heart can be detected on an \ac{ecg} and may reflect underlying physiological changes in the individual \cite{Liu2022}.
 
-\begin{figure}[htbp]
-    \centering
-    \begin{minipage}{0.45\textwidth}
-        \centering
-        \includegraphics[width=6.5cm]{ecg}
-        \caption{Section of the ECG signal of a participant.}
-        \label{fig:ecg}
-    \end{minipage}
-    \hfill
-    \begin{minipage}{0.45\textwidth}
-        \centering
-        \includegraphics[width=6.5cm]{normalized ecg}
-        \caption{Section of the standardized ECG signal of a participant.}
-        \label{fig:normalized_ecg}
-    \end{minipage}
-\end{figure}
-
-Once the signal was standardized, fluctuations were noticed in the time series.
-By removing high frequencies from the signal, by filtering for example, these would be alleviated.
-However, there could be information related to pain associated to those frequencies.
-A solution to these problems is to decompose the signal in wavelets. There are many wavelet families, but the selection should consider the characteristics of the signal and the decomposition we aim to achieve.
-
-To choose the best type of wavelet, two criteria were established: one's format should be similar to that of the ECG wave, complementing the remaining features in gathering whether the QRS complex is relevant to describe pain, and the other should have a higher frequency, to understand if there's important information associated with the fluctuations of the signal, while still maintaining its smoothness.
-Accordingly, Daubechies-4 ('db4') and Daubechies-9 ('db9') were chosen.
-Regarding the number of levels of decomposition, as can be seen in figure \ref{fig:wavelets2}, when there are two levels the R peak is noticeable in the first detail, which is not something this project means to highlight.
-Therefore, only one level of decomposition was applied.
+The \ac{ecg} signal can be segmented into successive waveforms that exhibit a consistent pattern and, therefore, it's possible to split those into specific components. The P wave surges as a result from the depolarization of the atrium. This electrical impulse spreads to the ventricule during the P-R segment and, as the ventricular muscle contracts, the QRS complex appears. Lastly, after the S-T segment, the T wave matches the repolarization of the ventricule \cite{hampton2024ecg}. These waves are shown in Figure \ref{fig:esquemaecg}, as well as other divisions, such as the P-R and S-T intervals. The onset of the P and T waves match the beginning of the P-R interval and the end of the S-T segment, while their offset corresponds to the start of the P-R segment and the end of the S-T interval, respectively. Similarly, the onset and offset of the R wave coincide with the start and end of the QRS complex \cite{Zhang2024}.
 
 \begin{figure}[h!]
     \centering
-    \includegraphics[width=0.8\textwidth]{wavelets 2.jpg}
-    \caption{Daubechies-4 Wavelet Decomposition - level 2.}
-    \label{fig:wavelets2}
-\end{figure}
-
-Entropy quantifies the order or disorder of information that a signal presents \cite{Ferreira2017}. Since this quantity might be affected in the ECG when someone feels pain, it was extracted from the resulting wavelets, functioning as a new feature. In order to keep consistency with the other features, a same sized window was used, that is, 10 seconds with 50\% overlap. Since the aim of the selected features is to 
-
-
-
-(Justificar tipo de entropia que escolhi? - approximation)
-
-
-
-
-
-
-\section{Data Analysis}
-To do the optimal processing of the features, fifteen participants were selected at random. After standardizing the features, so that they're comparable with each other, graphics of the time series of the features were plotted for each participant. An example can be seen in figure \ref{fig:featurestimeseries}, in which a clear change can be seen when the participant dips their hand in water, feeling pain. Since the timeseries of the mean and median of the S wave amplitude were so similar, it was decided that only the median would be analysed.
-
-
-\begin{figure}[htbp]
-    \centering
-    \begin{subfigure}{\linewidth}
-        \centering
-        \includegraphics[width=\textwidth]{orig_part5.jpg}
-    \end{subfigure}
-    
-    \vspace{0.3em} % adjust spacing between the two graphs
-    
-    \begin{subfigure}{\linewidth}
-        \centering
-        \includegraphics[width=\textwidth]{entropy_part5.jpg}
-    \end{subfigure}
-    
-    \caption{Standardized features' time series.}
-    \label{fig:featurestimeseries}
+    \includegraphics[width=0.7\textwidth]{esquema ECG.png}
+    \caption{\ac{ecg} Schematic (Adapted from \cite{Dogan2023})}
+    \label{fig:esquemaecg}
 \end{figure}
 
 
-Subsequently, a statistical analysis of the participants’ features was conducted using histograms, as illustrated in Figure \ref{fig:histogram}. The histograms revealed that the distributions of the features deviate from normality, justifying the use of the median and interquartile range (IQR) as measures of central tendency and dispersion, respectively.
-These values were computed for each feature and considered as derived features that will integrate the analysis.
+\subsection{Related Works}
 
-\begin{figure}[h!]
-    \centering
-    \includegraphics[width=\textwidth]{histogram.jpg}
-    \caption{Histograms of the features.}
-    \label{fig:histogram}
-\end{figure}
+%The most popular signal that is used to describe pain is \ac{eda}, which measures skin conductivity, reflecting sweat gland activity, since it is related to the Sympathetic Nervous System \cite{Rojas2023}. - falar de SCL e GSR
 
-The goal of this project is to select features that distinguish pain from no pain. To do this, it’s important to guarantee the synchronization between segments, so that they’re comparable. To accomplish this goal, spline interpolation was done in each step, conducing to equalize the number of points to a 60 seconds intervals. The result of this method is portrayed in figure \ref{fig:normalizedfeatures}. 
+In literature, the most common feature extracted from the \ac{ecg} is \ac{hrv}, which is related to time variations in R-R intervals \cite{Moscato2022}\cite{Pais2025}. 
 
-\begin{figure}[h!]
-    \centering
-    \includegraphics[width=\textwidth]{normalized features.jpg}
-    \caption{Features normalized in time after interpolation.}
-    \label{fig:normalizedfeatures}
-\end{figure}
+Pavlidou and Tsiknakis \cite{Pavlidou2025} used the BioVid Heat Pain dataset, in which heat pain was induced through a thermode, with the intent of obtaining significant features for pain classification. On that account, they extracted features from the \ac{ecg}, \ac{emg} and \ac{gsr} from 87 participants, where the first are HRV related. To detect pain, \acp{svm} and \ac{lstm} models were created while a \ac{loso} cross validation method was used to evaluate its intensity, distinguishing between a \ac{bl} and four levels of pain intensity (PA1, PA2, PA3 and PA4). The highest accuracy was obtained for multimodal approaches, with a maximum accuracy of 76.69\% for \ac{svm} and 77.21\% for \ac{lstm}. However, in unimodal approaches, \ac{gsr} led to the best results, when compared with the other signals. Finally, the \ac{loso} method achieved a maximum accuracy of 82.83\% in \ac{bl} versus PA4, in accordance with the remaining results, where the best classification matched the models between the highest and lowest level of pain or the \ac{bl}.
 
 
 
+ECG:
+- Ho et al combined the analysis of sleep quality using self report questionnaires with HRV and surgical pleth index (SPI) to evaluate post operative pain - poor sleep quality was still a statistically significant predictor of moderate-to severe pain (2024)
+- Bandeira et al - nao vamos falar pq é uma review de 2021 a menos q nao tenhamos mais cenas
+- Gkikas et al extracted features based on the R-R interval and classified using linear discriminant analysis and SVM to do multi-class pain classification, with a performance of 58.62\% when classifying more severe pain (2022)
+- Balasubramani et al analysed ECG by using Continuous Wavelet Transform images and processed them through a sophisticated quantum–classical hybrid architecture, obtaining 94.8\% in pain level assessment (2025)
+- Silva et al extracted ECG features and tested which machine learning algorithm was the best at distinguinshing pain, depending on emotions or not, getting only 10\% of incorrect predictions using AdaBoost and Random Florest (2023)
 
 
-
-
-
-
+Multimodal Approaches:
+- Cascella et al used a combination of EDA (continuous decomposition analysis and trough-to-peak to obtain the mean amplitude of GSRs) and ECG (HR and R-R intervals) for cancer pain (2024)
+- Zheng et al used a combination of EDA (GSR) and convolutional neural network model to analyse facial expressions and ECG (ECG is more accurate) (2022)
+- Othman et al analysed frontal facial RGB video, audio, ECG, EMG, and EDA using three types of experiment: (1) Uni-modality (data from single modalities) experiments, (2) Bi-modality (fusing data from two modalities) experiments, and (3) Multi-modality (fusing data from five modalities) experiments (2022)
+- Patil et al compared the performance of EMG, EDA and HRV (ECG) and the fusion of those, obtaining the best results for EDA (83.2\%) and fusion (82.36\%) (2024)
 
 

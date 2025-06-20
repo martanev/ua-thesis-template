@@ -48,8 +48,8 @@
       \strng{authornamehash}{f5ce85199d2955041c96ea906870ded2}
       \strng{authorfullhash}{7abd6ec898925569ebc2baee44629a5b}
       \strng{authorfullhashraw}{7abd6ec898925569ebc2baee44629a5b}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{18737528}
@@ -90,8 +90,8 @@
       \strng{authornamehash}{1fca099b72aabf1665fb3c1baddfa68c}
       \strng{authorfullhash}{1fca099b72aabf1665fb3c1baddfa68c}
       \strng{authorfullhashraw}{1fca099b72aabf1665fb3c1baddfa68c}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{15730964}
@@ -147,8 +147,8 @@
       \strng{authornamehash}{dd872f766df5edf8a7272063a9335be0}
       \strng{authorfullhash}{467baf0473089a0750ff559e2962b792}
       \strng{authorfullhashraw}{467baf0473089a0750ff559e2962b792}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{15264637}
@@ -194,8 +194,8 @@
       \strng{authornamehash}{3a8fa8ac1c2df18faaadefeedaadecf5}
       \strng{authorfullhash}{ddce7e7f04e8d4d9d648b7b53c2638d2}
       \strng{authorfullhashraw}{ddce7e7f04e8d4d9d648b7b53c2638d2}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{12036765}
@@ -223,8 +223,8 @@
       \strng{authornamehash}{e07648b5f03c057043c6f8af9354a0dc}
       \strng{authorfullhash}{e07648b5f03c057043c6f8af9354a0dc}
       \strng{authorfullhashraw}{e07648b5f03c057043c6f8af9354a0dc}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Entropy-Based Feature Extraction Method from Wavelet Coefficient for Pain Intensity Assessment Task}
@@ -272,8 +272,8 @@
       \strng{authornamehash}{2d84d4ada12559e84f88bba5c0508535}
       \strng{authorfullhash}{3915812969fc1018cccefe1a18e43c77}
       \strng{authorfullhashraw}{3915812969fc1018cccefe1a18e43c77}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{2817-1705}
@@ -329,8 +329,8 @@
       \strng{authornamehash}{03b0a7a213b006c15515106ccb199012}
       \strng{authorfullhash}{740f11ffde72277f6ba7dffb98cedc47}
       \strng{authorfullhashraw}{740f11ffde72277f6ba7dffb98cedc47}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1946-6234}
@@ -369,8 +369,8 @@
       \strng{authornamehash}{5e03616fa895d3106794706f9823a982}
       \strng{authorfullhash}{5e03616fa895d3106794706f9823a982}
       \strng{authorfullhashraw}{5e03616fa895d3106794706f9823a982}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1110-6611}
@@ -700,6 +700,371 @@
       \verb 10.1038/s41746-023-00810-1
       \endverb
     \endentry
+    \entry{Liu2022}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=d68967356e28be814680ca83a52bf19a}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jinlei},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b50bc94dda969f21b23f86ba19661019}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Yanrui},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=7052894681773c5d8b19f16850772b1d}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yunqing},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=35069ab0f2565b95f02723d645a36cbd}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhiyuan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=cc1390d052226e8974fd99d00a47ba6b}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Chengjin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5e41c5baeca4c6c9d7fc2b5a7d279daa}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xiaojun},
+           giveni={X\bibinitperiod}}}%
+        {{hash=6b0d582b6c56b7ac7ae15bab548335a9}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Liqun},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e0e484ecf625358a6f79d48d3d83a074}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Chengliang},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{34c220cfc5934ca44d22c2e17bd85524}
+      \strng{fullhash}{123fea07b9e1d5d77e7765e21b965cf0}
+      \strng{fullhashraw}{123fea07b9e1d5d77e7765e21b965cf0}
+      \strng{bibnamehash}{34c220cfc5934ca44d22c2e17bd85524}
+      \strng{authorbibnamehash}{34c220cfc5934ca44d22c2e17bd85524}
+      \strng{authornamehash}{34c220cfc5934ca44d22c2e17bd85524}
+      \strng{authorfullhash}{123fea07b9e1d5d77e7765e21b965cf0}
+      \strng{authorfullhashraw}{123fea07b9e1d5d77e7765e21b965cf0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00104825}
+      \field{journaltitle}{Computers in Biology and Medicine}
+      \field{month}{11}
+      \field{title}{A novel P-QRS-T wave localization method in ECG signals based on hybrid neural networks}
+      \field{volume}{150}
+      \field{year}{2022}
+      \field{pages}{106110}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.compbiomed.2022.106110
+      \endverb
+    \endentry
+    \entry{hampton2024ecg}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=ad129582f737c2277295db19b8554c47}{%
+           family={Hampton},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ad129582f737c2277295db19b8554c47}{%
+           family={Hampton},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=07b319f61b45525a096ca6502c2d0dc5}{%
+           family={Adlam},
+           familyi={A\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{07e272101e589cc038f4acb8c921d7f5}
+      \strng{fullhash}{dd347279a070a7ba954f7f3adb659759}
+      \strng{fullhashraw}{dd347279a070a7ba954f7f3adb659759}
+      \strng{bibnamehash}{dd347279a070a7ba954f7f3adb659759}
+      \strng{authorbibnamehash}{dd347279a070a7ba954f7f3adb659759}
+      \strng{authornamehash}{07e272101e589cc038f4acb8c921d7f5}
+      \strng{authorfullhash}{dd347279a070a7ba954f7f3adb659759}
+      \strng{authorfullhashraw}{dd347279a070a7ba954f7f3adb659759}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780323938105}
+      \field{series}{Made Easy}
+      \field{title}{The ECG Made Easy E-Book: The ECG Made Easy E-Book}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://books.google.pt/books?id=maALEQAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.pt/books?id=maALEQAAQBAJ
+      \endverb
+    \endentry
+    \entry{Zhang2024}{article}{}{}
+      \name{author}{13}{}{%
+        {{hash=b8238061b3c805be2a30dd55bb11fb21}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=00be511b13a83d3afba1b6cc5bbfc0fb}{%
+           family={Lai},
+           familyi={L\bibinitperiod},
+           given={Jiewei},
+           giveni={J\bibinitperiod}}}%
+        {{hash=68b8288d5d7b8fa9d88e873be8c87ae2}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Chenyu},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c41824455d1a941f38fff6eff64b6a6b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jinliang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d785cf82cbf8c1a23184d0e7c09ed7ca}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a921c7917808e511798fc1d34abd9af9}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Mingyang},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e7d4c03746725f19289a740e1211ec52}{%
+           family={Ji},
+           familyi={J\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=febec431d07cf7e676489756ac13c50a}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4e40658279bfe4de7b3580a0d988e848}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Baoshi},
+           giveni={B\bibinitperiod}}}%
+        {{hash=48ce652e459b3308e247530c777728a2}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Yajun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e12cbe2cd2e4719dfce47f475427c0d8}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yundai},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b32f61b294f8e4aa5306c6ea6859da26}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=3a2b22cd7484a59f64b4919853bd52ad}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Qianjin},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{f255e0a20f7125703df66a2712ec4d02}
+      \strng{fullhash}{a10ebc605d67d6f718c89e84baf7faa6}
+      \strng{fullhashraw}{a10ebc605d67d6f718c89e84baf7faa6}
+      \strng{bibnamehash}{f255e0a20f7125703df66a2712ec4d02}
+      \strng{authorbibnamehash}{f255e0a20f7125703df66a2712ec4d02}
+      \strng{authornamehash}{f255e0a20f7125703df66a2712ec4d02}
+      \strng{authorfullhash}{a10ebc605d67d6f718c89e84baf7faa6}
+      \strng{authorfullhashraw}{a10ebc605d67d6f718c89e84baf7faa6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09333657}
+      \field{journaltitle}{Artificial Intelligence in Medicine}
+      \field{month}{11}
+      \field{title}{Abnormal recognition-assisted and onset-offset aware network for pathological wearable ECG delineation}
+      \field{volume}{157}
+      \field{year}{2024}
+      \field{pages}{102992}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.artmed.2024.102992
+      \endverb
+    \endentry
+    \entry{Dogan2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=53c82bc3ddc395afb34fa0fe085f92f9}{%
+           family={Dogan},
+           familyi={D\bibinitperiod},
+           given={Hulya},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c0c8ba476c6ef00622929a4a79c01af0}{%
+           family={Dogan},
+           familyi={D\bibinitperiod},
+           given={Ramazan\bibnamedelima Ozgur},
+           giveni={R\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{9df187de91061bd8c74f07c2913172e0}
+      \strng{fullhash}{9df187de91061bd8c74f07c2913172e0}
+      \strng{fullhashraw}{9df187de91061bd8c74f07c2913172e0}
+      \strng{bibnamehash}{9df187de91061bd8c74f07c2913172e0}
+      \strng{authorbibnamehash}{9df187de91061bd8c74f07c2913172e0}
+      \strng{authornamehash}{9df187de91061bd8c74f07c2913172e0}
+      \strng{authorfullhash}{9df187de91061bd8c74f07c2913172e0}
+      \strng{authorfullhashraw}{9df187de91061bd8c74f07c2913172e0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1134-3060}
+      \field{issue}{6}
+      \field{journaltitle}{Archives of Computational Methods in Engineering}
+      \field{month}{7}
+      \field{title}{A Comprehensive Review of Computer-based Techniques for R-Peaks/QRS Complex Detection in ECG Signal}
+      \field{volume}{30}
+      \field{year}{2023}
+      \field{pages}{3703\bibrangedash 3721}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1007/s11831-023-09916-x
+      \endverb
+    \endentry
+    \entry{Moscato2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=0ec1be0822d12c4205cc66cbfe9adb2f}{%
+           family={Moscato},
+           familyi={M\bibinitperiod},
+           given={Serena},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0c78022d77ab9063ea0e2e5a4c1762c8}{%
+           family={Cortelli},
+           familyi={C\bibinitperiod},
+           given={Pietro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f4a839bb0c3d2a8bf572d51a7cecae34}{%
+           family={Chiari},
+           familyi={C\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{f55a75f55ec2a063cf7f27f3ef9c25e7}
+      \strng{fullhash}{75ff96312916fa06bc229ad1b85267f8}
+      \strng{fullhashraw}{75ff96312916fa06bc229ad1b85267f8}
+      \strng{bibnamehash}{75ff96312916fa06bc229ad1b85267f8}
+      \strng{authorbibnamehash}{75ff96312916fa06bc229ad1b85267f8}
+      \strng{authornamehash}{f55a75f55ec2a063cf7f27f3ef9c25e7}
+      \strng{authorfullhash}{75ff96312916fa06bc229ad1b85267f8}
+      \strng{authorfullhashraw}{75ff96312916fa06bc229ad1b85267f8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01692607}
+      \field{journaltitle}{Computer Methods and Programs in Biomedicine}
+      \field{month}{4}
+      \field{title}{Physiological responses to pain in cancer patients: A systematic review}
+      \field{volume}{217}
+      \field{year}{2022}
+      \field{pages}{106682}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.cmpb.2022.106682
+      \endverb
+    \endentry
+    \entry{Pais2025}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=e3a4075b290e6eddfdbe373c6c2f5c84}{%
+           family={Pais},
+           familyi={P\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod}}}%
+        {{hash=889707a8d59ad2c643dd2a9779b84f9f}{%
+           family={Brás},
+           familyi={B\bibinitperiod},
+           given={Susana},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f8d363c7661537c1cba7ac654e142abd}{%
+           family={Sebastião},
+           familyi={S\bibinitperiod},
+           given={Raquel},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{2549f86919d5195728a6eb4b361e3302}
+      \strng{fullhash}{57878437cd777c53eb5437da50bb43fa}
+      \strng{fullhashraw}{57878437cd777c53eb5437da50bb43fa}
+      \strng{bibnamehash}{57878437cd777c53eb5437da50bb43fa}
+      \strng{authorbibnamehash}{57878437cd777c53eb5437da50bb43fa}
+      \strng{authornamehash}{2549f86919d5195728a6eb4b361e3302}
+      \strng{authorfullhash}{57878437cd777c53eb5437da50bb43fa}
+      \strng{authorfullhashraw}{57878437cd777c53eb5437da50bb43fa}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0360-0300}
+      \field{issue}{1}
+      \field{journaltitle}{ACM Computing Surveys}
+      \field{month}{1}
+      \field{title}{A Review on the Use of Physiological Signals for Assessing Postoperative Pain}
+      \field{volume}{57}
+      \field{year}{2025}
+      \field{pages}{1\bibrangedash 39}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1145/3685674
+      \endverb
+    \endentry
+    \entry{Pavlidou2025}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=168719e81ce4fc8776d3e5b6a82c5fd8}{%
+           family={Pavlidou},
+           familyi={P\bibinitperiod},
+           given={Elisavet},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b23db64c58d2c165b4649bf2c88482e5}{%
+           family={Tsiknakis},
+           familyi={T\bibinitperiod},
+           given={Manolis},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {SCITEPRESS - Science}%
+        {Technology Publications}%
+      }
+      \strng{namehash}{cbb92299e298670fc215fe837e8002b8}
+      \strng{fullhash}{cbb92299e298670fc215fe837e8002b8}
+      \strng{fullhashraw}{cbb92299e298670fc215fe837e8002b8}
+      \strng{bibnamehash}{cbb92299e298670fc215fe837e8002b8}
+      \strng{authorbibnamehash}{cbb92299e298670fc215fe837e8002b8}
+      \strng{authornamehash}{cbb92299e298670fc215fe837e8002b8}
+      \strng{authorfullhash}{cbb92299e298670fc215fe837e8002b8}
+      \strng{authorfullhashraw}{cbb92299e298670fc215fe837e8002b8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 11th International Conference on Information and Communication Technologies for Ageing Well and e-Health}
+      \field{isbn}{978-989-758-743-6}
+      \field{title}{Multimodal Pain Assessment Based on Physiological Biosignals: The Impact of Demographic Factors on Perception and Sensitivity}
+      \field{year}{2025}
+      \field{pages}{320\bibrangedash 329}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.5220/0013426800003938
+      \endverb
+    \endentry
     \entry{Ferreira2017}{article}{}{}
       \name{author}{4}{}{%
         {{hash=850191e1fb9d27c9ad39161c9c1656a8}{%
@@ -734,8 +1099,8 @@
       \strng{authornamehash}{8d83099722e3a300d52e21a877960263}
       \strng{authorfullhash}{5271f9f4038a23ecae0f33a0cc793ea4}
       \strng{authorfullhashraw}{5271f9f4038a23ecae0f33a0cc793ea4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{14698986}
@@ -753,8 +1118,8 @@
       \keyw{Automatic classifier,Electrocardiogram,Entropy of noise,Physiology of emotions}
     \endentry
     \entry{Cluster}{misc}{}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{title}
       \field{title}{k-Means Clustering}
       \verb{urlraw}
