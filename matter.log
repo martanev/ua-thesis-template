@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  19 JUN 2025 12:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  20 JUN 2025 07:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2083,4 +2083,71 @@ Package pdftex.def Info: ./figs/wavelets 2.jpg  used on input line 95.
 
 \openout4 = `matter.mw'.
 
-[9
+[9{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc} <./figs/ecg.jpg> <./figs/normalized ecg.jpg>] (matter.mw)
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+<./figs/orig_part5.jpg, id=339, 1028.34187pt x 453.19313pt>
+File: ./figs/orig_part5.jpg Graphic file (type jpg)
+<use ./figs/orig_part5.jpg>
+Package pdftex.def Info: ./figs/orig_part5.jpg  used on input line 119.
+(pdftex.def)             Requested size: 441.0pt x 194.3506pt.
+<./figs/entropy_part5.jpg, id=340, 1028.34187pt x 447.92343pt>
+File: ./figs/entropy_part5.jpg Graphic file (type jpg)
+<use ./figs/entropy_part5.jpg>
+Package pdftex.def Info: ./figs/entropy_part5.jpg  used on input line 126.
+(pdftex.def)             Requested size: 441.0pt x 192.09071pt.
+<./figs/histogram.jpg, id=342, 1371.1225pt x 645.41125pt>
+File: ./figs/histogram.jpg Graphic file (type jpg)
+<use ./figs/histogram.jpg>
+Package pdftex.def Info: ./figs/histogram.jpg  used on input line 139.
+(pdftex.def)             Requested size: 441.0pt x 207.58957pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+\openout4 = `matter.mw'.
+
+[10 <./figs/wavelets 2.jpg>] (matter.mw)
+\openout4 = `matter.mw'.
+
+
+
+LaTeX Warning: Text page 11 contains only floats.
+
+
+
+\openout4 = `matter.mw'.
+
+[11 <./figs/orig_part5.jpg> <./figs/entropy_part5.jpg> <./figs/histogram.jpg>] (matter.mw)
+\openout4 = `matter.mw'.
+
+<./figs/normalized features.jpg, id=353, 1371.1225pt x 645.41125pt>
+File: ./figs/normalized features.jpg Graphic file (type jpg)
+<use ./figs/normalized features.jpg>
+Package pdftex.def Info: ./figs/normalized features.jpg  used on input line 148.
+(pdftex.def)             Requested size: 441.0pt x 207.58957pt.
+)
+
+\openout4 = `matter.mw'.
+
+[12 <./figs/normalized features.jpg>] (matter.mw)
+\openout4 = `matter.mw'.
+
+\openout2 = `chapters/chapter4.aux'.
+
+ (chapters/chapter4.tex
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+
+
+\openout4 = `matter.mw'.
+
+[13
