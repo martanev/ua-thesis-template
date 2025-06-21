@@ -288,6 +288,48 @@
       \verb 10.2196/53026
       \endverb
     \endentry
+    \entry{Moscato2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=0ec1be0822d12c4205cc66cbfe9adb2f}{%
+           family={Moscato},
+           familyi={M\bibinitperiod},
+           given={Serena},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0c78022d77ab9063ea0e2e5a4c1762c8}{%
+           family={Cortelli},
+           familyi={C\bibinitperiod},
+           given={Pietro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f4a839bb0c3d2a8bf572d51a7cecae34}{%
+           family={Chiari},
+           familyi={C\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{f55a75f55ec2a063cf7f27f3ef9c25e7}
+      \strng{fullhash}{75ff96312916fa06bc229ad1b85267f8}
+      \strng{fullhashraw}{75ff96312916fa06bc229ad1b85267f8}
+      \strng{bibnamehash}{75ff96312916fa06bc229ad1b85267f8}
+      \strng{authorbibnamehash}{75ff96312916fa06bc229ad1b85267f8}
+      \strng{authornamehash}{f55a75f55ec2a063cf7f27f3ef9c25e7}
+      \strng{authorfullhash}{75ff96312916fa06bc229ad1b85267f8}
+      \strng{authorfullhashraw}{75ff96312916fa06bc229ad1b85267f8}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01692607}
+      \field{journaltitle}{Computer Methods and Programs in Biomedicine}
+      \field{month}{4}
+      \field{title}{Physiological responses to pain in cancer patients: A systematic review}
+      \field{volume}{217}
+      \field{year}{2022}
+      \field{pages}{106682}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.cmpb.2022.106682
+      \endverb
+    \endentry
     \entry{Jayakar2021}{article}{}{}
       \name{author}{6}{}{%
         {{hash=adb0b00389ea577be04ca75b1ca050b8}{%
@@ -329,8 +371,8 @@
       \strng{authornamehash}{03b0a7a213b006c15515106ccb199012}
       \strng{authorfullhash}{740f11ffde72277f6ba7dffb98cedc47}
       \strng{authorfullhashraw}{740f11ffde72277f6ba7dffb98cedc47}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1946-6234}
@@ -751,8 +793,8 @@
       \strng{authornamehash}{34c220cfc5934ca44d22c2e17bd85524}
       \strng{authorfullhash}{123fea07b9e1d5d77e7765e21b965cf0}
       \strng{authorfullhashraw}{123fea07b9e1d5d77e7765e21b965cf0}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{00104825}
@@ -941,48 +983,6 @@
       \verb 10.1007/s11831-023-09916-x
       \endverb
     \endentry
-    \entry{Moscato2022}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=0ec1be0822d12c4205cc66cbfe9adb2f}{%
-           family={Moscato},
-           familyi={M\bibinitperiod},
-           given={Serena},
-           giveni={S\bibinitperiod}}}%
-        {{hash=0c78022d77ab9063ea0e2e5a4c1762c8}{%
-           family={Cortelli},
-           familyi={C\bibinitperiod},
-           given={Pietro},
-           giveni={P\bibinitperiod}}}%
-        {{hash=f4a839bb0c3d2a8bf572d51a7cecae34}{%
-           family={Chiari},
-           familyi={C\bibinitperiod},
-           given={Lorenzo},
-           giveni={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{f55a75f55ec2a063cf7f27f3ef9c25e7}
-      \strng{fullhash}{75ff96312916fa06bc229ad1b85267f8}
-      \strng{fullhashraw}{75ff96312916fa06bc229ad1b85267f8}
-      \strng{bibnamehash}{75ff96312916fa06bc229ad1b85267f8}
-      \strng{authorbibnamehash}{75ff96312916fa06bc229ad1b85267f8}
-      \strng{authornamehash}{f55a75f55ec2a063cf7f27f3ef9c25e7}
-      \strng{authorfullhash}{75ff96312916fa06bc229ad1b85267f8}
-      \strng{authorfullhashraw}{75ff96312916fa06bc229ad1b85267f8}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{01692607}
-      \field{journaltitle}{Computer Methods and Programs in Biomedicine}
-      \field{month}{4}
-      \field{title}{Physiological responses to pain in cancer patients: A systematic review}
-      \field{volume}{217}
-      \field{year}{2022}
-      \field{pages}{106682}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1016/j.cmpb.2022.106682
-      \endverb
-    \endentry
     \entry{Pais2025}{article}{}{}
       \name{author}{3}{}{%
         {{hash=e3a4075b290e6eddfdbe373c6c2f5c84}{%
@@ -1063,6 +1063,97 @@
       \range{pages}{10}
       \verb{doi}
       \verb 10.5220/0013426800003938
+      \endverb
+    \endentry
+    \entry{Silva2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=ba0000c792d68b28333938ba5825b86c}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f8d363c7661537c1cba7ac654e142abd}{%
+           family={Sebastião},
+           familyi={S\bibinitperiod},
+           given={Raquel},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{b36208ba563c36fe93f87f3d4d287019}
+      \strng{fullhash}{b36208ba563c36fe93f87f3d4d287019}
+      \strng{fullhashraw}{b36208ba563c36fe93f87f3d4d287019}
+      \strng{bibnamehash}{b36208ba563c36fe93f87f3d4d287019}
+      \strng{authorbibnamehash}{b36208ba563c36fe93f87f3d4d287019}
+      \strng{authornamehash}{b36208ba563c36fe93f87f3d4d287019}
+      \strng{authorfullhash}{b36208ba563c36fe93f87f3d4d287019}
+      \strng{authorfullhashraw}{b36208ba563c36fe93f87f3d4d287019}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{14248220}
+      \field{issue}{3}
+      \field{journaltitle}{Sensors}
+      \field{month}{2}
+      \field{title}{Using the Electrocardiogram for Pain Classification under Emotional Contexts}
+      \field{volume}{23}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.3390/s23031443
+      \endverb
+      \keyw{electrocardiogram,emotional contexts,machine learning,pain,physiological features}
+    \endentry
+    \entry{Balasubramani2025}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=40c641d89d95f1914b4f95b1810562ff}{%
+           family={Balasubramani},
+           familyi={B\bibinitperiod},
+           given={Madankumar},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ec6533cae4d4dc9a700428962f7533a5}{%
+           family={Srinivasan},
+           familyi={S\bibinitperiod},
+           given={Monisha},
+           giveni={M\bibinitperiod}}}%
+        {{hash=611ef68884c57de3f3c668d103bef5d6}{%
+           family={Jean},
+           familyi={J\bibinitperiod},
+           given={Wei-Horng},
+           giveni={W\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=3bc2b450c10eced7e6418aec2af1651d}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Shou-Zen},
+           giveni={S\bibinithyphendelim Z\bibinitperiod}}}%
+        {{hash=04c068a6aea7f6cec6be23b4d507c854}{%
+           family={Shieh},
+           familyi={S\bibinitperiod},
+           given={Jiann-Shing},
+           giveni={J\bibinithyphendelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e9d305054a375540073203f5802bfd9c}
+      \strng{fullhash}{0f1067cde36f60439f8dea032585c055}
+      \strng{fullhashraw}{0f1067cde36f60439f8dea032585c055}
+      \strng{bibnamehash}{0f1067cde36f60439f8dea032585c055}
+      \strng{authorbibnamehash}{0f1067cde36f60439f8dea032585c055}
+      \strng{authornamehash}{e9d305054a375540073203f5802bfd9c}
+      \strng{authorfullhash}{0f1067cde36f60439f8dea032585c055}
+      \strng{authorfullhashraw}{0f1067cde36f60439f8dea032585c055}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1424-8220}
+      \field{issue}{5}
+      \field{journaltitle}{Sensors (Basel, Switzerland)}
+      \field{month}{2}
+      \field{title}{A Novel Framework for Quantum-Enhanced Federated Learning with Edge Computing for Advanced Pain Assessment Using ECG Signals via Continuous Wavelet Transform Images.}
+      \field{volume}{25}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.3390/s25051436
       \endverb
     \endentry
     \entry{Ferreira2017}{article}{}{}

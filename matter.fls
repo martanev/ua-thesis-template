@@ -714,6 +714,9 @@ OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx10.tfm
 OUTPUT matter.mw
 INPUT matter.mw
@@ -730,6 +733,12 @@ INPUT .\figs\esquema ECG.png
 INPUT .\figs\esquema ECG.png
 INPUT .\figs\esquema ECG.png
 INPUT .\figs\esquema ECG.png
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw

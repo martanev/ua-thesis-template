@@ -19,5 +19,5 @@
 \contentsline {subsection}{\numberline {3.2.1}ECG Data Exploration}{9}{subsection.3.2.1}%
 \contentsline {section}{\numberline {3.3}Data Analysis}{10}{section.3.3}%
 \contentsline {chapter}{\chapternumberline {4}Results and Discussion}{13}{chapter.4}%
-\contentsline {chapter}{References}{15}{chapter*.23}%
+\contentsline {chapter}{References}{15}{chapter*.30}%
 \contentsline {appendix}{\chapternumberline {A}Additional content}{16}{appendix.A}%
