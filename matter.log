@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  20 JUN 2025 13:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  21 JUN 2025 12:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1423,7 +1423,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count555
 \@quotereset=\count556
-(matter.aux (glossary.aux) (chapters/chapter1.aux) (chapters/chapter2.aux) (chapters/chapter3.aux) (chapters/chapter4.aux) (chapters/appendix-more.aux))
+(matter.aux (glossary.aux) (chapters/chapter1.aux) (chapters/chapter2.aux) (chapters/chapter3.aux) (chapters/chapter4.aux))
 \openout1 = `matter.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 243.
@@ -1773,7 +1773,10 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-))
+)
+Package acronym Info: Label `acro:ecg' newly defined as it shall be overridden
+although it is yet undefined on input line 19.
+)
 
 \openout4 = `matter.mw'.
 
@@ -1783,10 +1786,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 {C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}] (matter.mw)
 \openout4 = `matter.mw'.
 
- (matter.lof
-Package acronym Info: Label `acro:ecg' newly defined as it shall be overridden
-although it is yet undefined on input line 6.
-)
+ (matter.lof)
 
 \openout4 = `matter.mw'.
 
@@ -1957,7 +1957,7 @@ although it is yet undefined on input line 8.
 
 \openout4 = `matter.mw'.
 
-<./figs/esquema ECG.png, id=293, 531.48563pt x 348.55219pt>
+<./figs/esquema ECG.png, id=312, 531.48563pt x 348.55219pt>
 File: ./figs/esquema ECG.png Graphic file (type png)
 <use ./figs/esquema ECG.png>
 Package pdftex.def Info: ./figs/esquema ECG.png  used on input line 38.
@@ -2042,7 +2042,7 @@ although it is yet undefined on input line 52.
 \openout2 = `chapters/chapter3.aux'.
 
  (chapters/chapter3.tex
-<./figs/image.png, id=356, 1257.69875pt x 799.98875pt>
+<./figs/image.png, id=375, 1257.69875pt x 799.98875pt>
 File: ./figs/image.png Graphic file (type png)
 <use ./figs/image.png>
 Package pdftex.def Info: ./figs/image.png  used on input line 8.
@@ -2066,7 +2066,7 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
  <./figs/image.png>] (matter.mw)
 \openout4 = `matter.mw'.
 
-<./figs/database.png, id=364, 383.9946pt x 88.1694pt>
+<./figs/database.png, id=387, 383.9946pt x 88.1694pt>
 File: ./figs/database.png Graphic file (type png)
 <use ./figs/database.png>
 Package pdftex.def Info: ./figs/database.png  used on input line 25.
@@ -2079,6 +2079,8 @@ Package pdftex.def Info: ./figs/database.png  used on input line 25.
 
 \openout4 = `matter.mw'.
 
+Package acronym Info: Label `acro:hr' newly defined as it shall be overridden
+although it is yet undefined on input line 31.
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
@@ -2090,21 +2092,31 @@ Package pdftex.def Info: ./figs/database.png  used on input line 25.
 [8{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./figs/database.png (PNG copy)>] (matter.mw)
 \openout4 = `matter.mw'.
 
-<./figs/ecg.jpg, id=376, 562.1pt x 421.575pt>
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ac' on input line 49.
+
+<./figs/ecg.jpg, id=411, 562.1pt x 421.575pt>
 File: ./figs/ecg.jpg Graphic file (type jpg)
 <use ./figs/ecg.jpg>
-Package pdftex.def Info: ./figs/ecg.jpg  used on input line 70.
+Package pdftex.def Info: ./figs/ecg.jpg  used on input line 69.
 (pdftex.def)             Requested size: 184.9429pt x 138.70204pt.
-<./figs/normalized ecg.jpg, id=377, 562.1pt x 421.575pt>
+<./figs/normalized ecg.jpg, id=414, 562.1pt x 421.575pt>
 File: ./figs/normalized ecg.jpg Graphic file (type jpg)
 <use ./figs/normalized ecg.jpg>
-Package pdftex.def Info: ./figs/normalized ecg.jpg  used on input line 77.
+Package pdftex.def Info: ./figs/normalized ecg.jpg  used on input line 76.
 (pdftex.def)             Requested size: 184.9429pt x 138.70204pt.
-<./figs/wavelets 2.jpg, id=379, 562.1pt x 421.575pt>
+Package acronym Info: Label `acro:dwt' newly defined as it shall be overridden
+although it is yet undefined on input line 85.
+<./figs/wavelets 2.jpg, id=421, 562.1pt x 421.575pt>
 File: ./figs/wavelets 2.jpg Graphic file (type jpg)
 <use ./figs/wavelets 2.jpg>
-Package pdftex.def Info: ./figs/wavelets 2.jpg  used on input line 95.
+Package pdftex.def Info: ./figs/wavelets 2.jpg  used on input line 94.
 (pdftex.def)             Requested size: 352.80135pt x 264.60301pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 
 \openout4 = `matter.mw'.
@@ -2116,17 +2128,40 @@ Package pdftex.def Info: ./figs/wavelets 2.jpg  used on input line 95.
 
 \openout4 = `matter.mw'.
 
-<./figs/orig_part5.jpg, id=390, 1028.34187pt x 453.19313pt>
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+Package acronym Info: Label `acro:tde' newly defined as it shall be overridden
+although it is yet undefined on input line 103.
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+
+
+\openout4 = `matter.mw'.
+
+[10{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc} <./figs/wavelets 2.jpg>] (matter.mw)
+\openout4 = `matter.mw'.
+
+<./figs/orig_part5.jpg, id=452, 1028.34187pt x 453.19313pt>
 File: ./figs/orig_part5.jpg Graphic file (type jpg)
 <use ./figs/orig_part5.jpg>
 Package pdftex.def Info: ./figs/orig_part5.jpg  used on input line 119.
 (pdftex.def)             Requested size: 441.0pt x 194.3506pt.
-<./figs/entropy_part5.jpg, id=391, 1028.34187pt x 447.92343pt>
+<./figs/entropy_part5.jpg, id=453, 1028.34187pt x 447.92343pt>
 File: ./figs/entropy_part5.jpg Graphic file (type jpg)
 <use ./figs/entropy_part5.jpg>
 Package pdftex.def Info: ./figs/entropy_part5.jpg  used on input line 126.
 (pdftex.def)             Requested size: 441.0pt x 192.09071pt.
-<./figs/histogram.jpg, id=393, 1371.1225pt x 645.41125pt>
+Package acronym Info: Label `acro:iqr' newly defined as it shall be overridden
+although it is yet undefined on input line 134.
+<./figs/histogram.jpg, id=456, 1371.1225pt x 645.41125pt>
 File: ./figs/histogram.jpg Graphic file (type jpg)
 <use ./figs/histogram.jpg>
 Package pdftex.def Info: ./figs/histogram.jpg  used on input line 139.
@@ -2139,21 +2174,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout4 = `matter.mw'.
 
-[10 <./figs/wavelets 2.jpg>] (matter.mw)
+[11 <./figs/orig_part5.jpg> <./figs/entropy_part5.jpg>] (matter.mw)
 \openout4 = `matter.mw'.
 
-
-
-LaTeX Warning: Text page 11 contains only floats.
-
-
-
-\openout4 = `matter.mw'.
-
-[11 <./figs/orig_part5.jpg> <./figs/entropy_part5.jpg> <./figs/histogram.jpg>] (matter.mw)
-\openout4 = `matter.mw'.
-
-<./figs/normalized features.jpg, id=404, 1371.1225pt x 645.41125pt>
+<./figs/normalized features.jpg, id=462, 1371.1225pt x 645.41125pt>
 File: ./figs/normalized features.jpg Graphic file (type jpg)
 <use ./figs/normalized features.jpg>
 Package pdftex.def Info: ./figs/normalized features.jpg  used on input line 148.
@@ -2162,7 +2186,7 @@ Package pdftex.def Info: ./figs/normalized features.jpg  used on input line 148.
 
 \openout4 = `matter.mw'.
 
-[12 <./figs/normalized features.jpg>] (matter.mw)
+[12 <./figs/histogram.jpg> <./figs/normalized features.jpg>] (matter.mw)
 \openout4 = `matter.mw'.
 
 \openout2 = `chapters/chapter4.aux'.
@@ -2223,26 +2247,6 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [16] (matter.mw)
 \openout4 = `matter.mw'.
 
-\openout2 = `chapters/appendix-more.aux'.
-
- (chapters/appendix-more.tex)
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.16}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.412 \include{chapters/appendix-more}
-                                      
-\openout4 = `matter.mw'.
-
- [16
-
-
-
-] (matter.mw)
-\openout4 = `matter.mw'.
-
-Package marginnote Info: Using workaround for absolute page number on input line 412.
 \tf@toc=\write134
 \openout4 = `matter.toc'.
 
@@ -2421,6 +2425,10 @@ Package marginnote Info: Using workaround for absolute page number on input line
 
 \openout4 = `matter.mw'.
 
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
 ) (chapters/chapter4.aux
 \openout4 = `matter.mw'.
 
@@ -2447,20 +2455,7 @@ Package marginnote Info: Using workaround for absolute page number on input line
 
 \openout4 = `matter.mw'.
 
- (chapters/appendix-more.aux
-\openout4 = `matter.mw'.
-
-\openout4 = `matter.mw'.
-
-\openout4 = `matter.mw'.
-
-\openout4 = `matter.mw'.
-
-\openout4 = `matter.mw'.
-
-\openout4 = `matter.mw'.
-
-))
+)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2020/03/25>
@@ -2671,7 +2666,6 @@ chapters/chapter3.tex
 ./figs/normalized features.jpg
 chapters/chapter4.tex
   t1lmtt.fd    2015/05/01 v1.6.1 Font defs for Latin Modern
-chapters/appendix-more.tex
  ***********
 
 \openout4 = `matter.mw'.
@@ -2695,17 +2689,17 @@ Package logreq Info: Writing requests to 'matter.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48787 strings out of 473897
- 985128 string characters out of 5726461
- 2126675 words of memory out of 5000000
- 70143 multiletter control sequences out of 15000+600000
- 639052 words of font info for 198 fonts, out of 8000000 for 9000
+ 48815 strings out of 473897
+ 984855 string characters out of 5726461
+ 2123822 words of memory out of 5000000
+ 70158 multiletter control sequences out of 15000+600000
+ 639644 words of font info for 203 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,17n,101p,1687b,2825s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on matter.pdf (28 pages, 1371603 bytes).
+ 99i,17n,101p,1704b,2824s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on matter.pdf (27 pages, 1409403 bytes).
 PDF statistics:
- 610 PDF objects out of 1000 (max. 8388607)
- 115 named destinations out of 1000 (max. 500000)
+ 683 PDF objects out of 1000 (max. 8388607)
+ 127 named destinations out of 1000 (max. 500000)
  43793 words of extra memory for PDF output out of 51595 (max. 10000000)
 

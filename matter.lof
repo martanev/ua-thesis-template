@@ -7,12 +7,11 @@
 \addvspace {10pt}
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Processing pipeline.}}{7}{figure.caption.23}%
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Scheme of the protocol applied to obtain the database. (Adapted from \blx@tocontentsinit {0}\cite {Alves2024})}}{8}{figure.caption.24}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Section of the ECG signal of a participant.}}{9}{figure.caption.25}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Section of the standardized ECG signal of a participant.}}{9}{figure.caption.25}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Daubechies-4 Wavelet Decomposition - level 2.}}{10}{figure.caption.26}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Standardized features' time series.}}{11}{figure.caption.27}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Histograms of the features.}}{11}{figure.caption.28}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Features normalized in time after interpolation.}}{12}{figure.caption.29}%
-\addvspace {10pt}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Section of the \ac {ecg} signal of a participant.}}{9}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Section of the standardized \ac {ecg} signal of a participant.}}{9}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Daubechies-4 Wavelet Decomposition - level 2.}}{10}{figure.caption.28}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Standardized features' time series.}}{11}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Histograms of the features.}}{12}{figure.caption.32}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Features normalized in time after interpolation.}}{12}{figure.caption.33}%
 \addvspace {10pt}
 \addvspace {10pt}

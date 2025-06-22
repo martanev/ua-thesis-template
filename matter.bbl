@@ -1156,6 +1156,165 @@
       \verb 10.3390/s25051436
       \endverb
     \endentry
+    \entry{Koh2022}{article}{}{}
+      \name{author}{9}{}{%
+        {{hash=e1ce3ebb6a6ca915dd35a8a626a5c4ef}{%
+           family={Koh},
+           familyi={K\bibinitperiod},
+           given={Joel.E.W.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ebb3e3cc8e48375166164d50482c4bed}{%
+           family={Ooi},
+           familyi={O\bibinitperiod},
+           given={Chui\bibnamedelima Ping},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=4b7ecf3b9985a68d42996b43ea2e776f}{%
+           family={Lim-Ashworth},
+           familyi={L\bibinithyphendelim A\bibinitperiod},
+           given={Nikki\bibnamedelima SJ.},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=8f0e4a43a79f6dbb16088f0a2b8742d8}{%
+           family={Vicnesh},
+           familyi={V\bibinitperiod},
+           given={Jahmunah},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c37b6b925e0642e51bf335cc17173864}{%
+           family={Tor},
+           familyi={T\bibinitperiod},
+           given={Hui\bibnamedelima Tian},
+           giveni={H\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=b64222a05c89de80812ce752c39de5aa}{%
+           family={Lih},
+           familyi={L\bibinitperiod},
+           given={Oh\bibnamedelima Shu},
+           giveni={O\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=27f266819e99d2afc5184338718a5a70}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Ru-San},
+           giveni={R\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=8656a591cea01cf0808ba7b2ce58786c}{%
+           family={Acharya},
+           familyi={A\bibinitperiod},
+           given={U.Rajendra},
+           giveni={U\bibinitperiod}}}%
+        {{hash=297ed81b49d82067d17bca65ddc0e160}{%
+           family={Fung},
+           familyi={F\bibinitperiod},
+           given={Daniel\bibnamedelimb Shuen\bibnamedelima Sheng},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3aa261a94230dfc44cb08216ed701144}
+      \strng{fullhash}{bea191e05799158b67622d5bf76b3cc3}
+      \strng{fullhashraw}{bea191e05799158b67622d5bf76b3cc3}
+      \strng{bibnamehash}{3aa261a94230dfc44cb08216ed701144}
+      \strng{authorbibnamehash}{3aa261a94230dfc44cb08216ed701144}
+      \strng{authornamehash}{3aa261a94230dfc44cb08216ed701144}
+      \strng{authorfullhash}{bea191e05799158b67622d5bf76b3cc3}
+      \strng{authorfullhashraw}{bea191e05799158b67622d5bf76b3cc3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00104825}
+      \field{journaltitle}{Computers in Biology and Medicine}
+      \field{month}{1}
+      \field{title}{Automated classification of attention deficit hyperactivity disorder and conduct disorder using entropy features with ECG signals}
+      \field{volume}{140}
+      \field{year}{2022}
+      \field{pages}{105120}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.compbiomed.2021.105120
+      \endverb
+    \endentry
+    \entry{Maity2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=27eba2bdb04cb52c5c329cba03909be1}{%
+           family={Maity},
+           familyi={M\bibinitperiod},
+           given={Seba},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{27eba2bdb04cb52c5c329cba03909be1}
+      \strng{fullhash}{27eba2bdb04cb52c5c329cba03909be1}
+      \strng{fullhashraw}{27eba2bdb04cb52c5c329cba03909be1}
+      \strng{bibnamehash}{27eba2bdb04cb52c5c329cba03909be1}
+      \strng{authorbibnamehash}{27eba2bdb04cb52c5c329cba03909be1}
+      \strng{authornamehash}{27eba2bdb04cb52c5c329cba03909be1}
+      \strng{authorfullhash}{27eba2bdb04cb52c5c329cba03909be1}
+      \strng{authorfullhashraw}{27eba2bdb04cb52c5c329cba03909be1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09738975}
+      \field{issue}{8}
+      \field{journaltitle}{JOURNAL OF MECHANICS OF CONTINUA AND MATHEMATICAL SCIENCES}
+      \field{month}{8}
+      \field{title}{ECG HEARTBEAT CLASSIFICATION USING WAVELET PACKET ENTROPY AND RANDOM FOREST}
+      \field{volume}{18}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.26782/jmcms.2023.08.00002
+      \endverb
+    \endentry
+    \entry{Adjei2017}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=afd1144c615ede26a4c95c17f1d983ec}{%
+           family={Adjei},
+           familyi={A\bibinitperiod},
+           given={Tricia},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8cc0b70a5124595205825423f98bca39}{%
+           family={Rosenberg},
+           familyi={R\bibinitperiod},
+           given={Wilhelm\bibnamedelima Von},
+           giveni={W\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=6d75143538c2e10bab98470eae25325b}{%
+           family={Goverdovsky},
+           familyi={G\bibinitperiod},
+           given={Valentin},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0970b5e206d5af70b0df7c54d2516886}{%
+           family={Powezka},
+           familyi={P\bibinitperiod},
+           given={Katarzyna},
+           giveni={K\bibinitperiod}}}%
+        {{hash=252125be1692ab59ae20609d2b02606d}{%
+           family={Jaffer},
+           familyi={J\bibinitperiod},
+           given={Usman},
+           giveni={U\bibinitperiod}}}%
+        {{hash=f65d461df3311f7d46f2831ecb66fabf}{%
+           family={Mandic},
+           familyi={M\bibinitperiod},
+           given={Danilo\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c6e369a06bd9a2efd20fa69c440e4a7e}
+      \strng{fullhash}{5b5970576ad713fc744afe90a4cc0651}
+      \strng{fullhashraw}{5b5970576ad713fc744afe90a4cc0651}
+      \strng{bibnamehash}{5b5970576ad713fc744afe90a4cc0651}
+      \strng{authorbibnamehash}{5b5970576ad713fc744afe90a4cc0651}
+      \strng{authornamehash}{c6e369a06bd9a2efd20fa69c440e4a7e}
+      \strng{authorfullhash}{5b5970576ad713fc744afe90a4cc0651}
+      \strng{authorfullhashraw}{5b5970576ad713fc744afe90a4cc0651}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2168-2372}
+      \field{journaltitle}{IEEE Journal of Translational Engineering in Health and Medicine}
+      \field{title}{Pain Prediction From ECG in Vascular Surgery}
+      \field{volume}{5}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/JTEHM.2017.2734647
+      \endverb
+    \endentry
     \entry{Ferreira2017}{article}{}{}
       \name{author}{4}{}{%
         {{hash=850191e1fb9d27c9ad39161c9c1656a8}{%
