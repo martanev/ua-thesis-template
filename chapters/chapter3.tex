@@ -150,10 +150,32 @@ The goal of this project is to select features that distinguish pain from no pai
     \label{fig:normalizedfeatures}
 \end{figure}
 
+\newpage
+
+The features that will be analysed in this project are shown in Table \ref{table:features}. These have been computed using the median and \ac{iqr} of the extracted features for each step of the protocol, as mentioned before. 
 
 
 
+\begin{table}[h]
+    \captionsetup{justification=raggedright, singlelinecheck=false}
+    \caption{Features for pain classification after data preparation procedures.}
+    \renewcommand{\arraystretch}{1.2}
 
+    \begingroup
+    \hyphenpenalty=10000
+    \exhyphenpenalty=10000
+    \sloppy
+    \begin{tabular}{@{}>{\RaggedRight\arraybackslash}p{4cm} >{\RaggedRight\arraybackslash}p{11cm}@{}}
+        \hline
+        \textbf{Feature Source} & \textbf{Features} \\
+        \midrule
+        ECG Peaks & [`Roffsetampmedian\_median', `Roffsetampmedian\_iqr', `Tonsetampmean\_median', `Tonsetampmean\_iqr', `Sampmedian\_median', `Sampmedian\_iqr'] \\
+        [1ex]
+        Wavelet Entropy & [`Entropydb4Approx\_median', `Entropydb4Approx\_iqr', `Entropydb4Detail\_median', `Entropydb4Detail\_iqr', `Entropydb9Approx\_median', `Entropydb9Approx\_iqr',  `Entropydb9Detail\_median', `Entropydb9Detail\_iqr'] \\
+    \end{tabular}
+    \endgroup
+    \label{table:features}
+\end{table}
 
 
 

@@ -1,8 +1,18 @@
 \chapter{Results and Discussion}
 
-To identify the most relevant features for describing pain, this project employs unsupervised learning, specifically clustering. By using data from the baseline (no pain) and pain phases, the most relevant features are those that form clusters effectively separating the points corresponding to each condition.
+\section{Identification of Significant Features}
+
+To identify the most relevant features for describing pain, this project employs unsupervised learning, specifically clustering. 
+
+\subsection{K-Means Clustering}
+
+
+
+By using data from the baseline (no pain) and pain phases, the most relevant features are those that form clusters effectively separating the points corresponding to each condition.
 
 In order to do this, there’s the need to plot scattering graphics for each two features, as can be seen in figure AAAAA. Each point in the scatterplot represents one of the 15 participants in the study. The blue circles correspond to data from baseline 2 while the red circles represent data from the pain phase. In this example, the distribution of points reflects the relationship between two features – the median of the medians of S peak amplitude (x-axis) and R offset amplitude (y-axis) – in the two conditions. It’s important to mention that this analysis was firstly done with baseline 1 but, comparing both options, the results were better using the second one, which may stem from the influence of the emotional stimuli in the pain felt by the participants.
+
+
 
 Once this was done, k-means clustering was applied to all the data from baseline 2 and pain, with no distinction between them. In this case, the function ‘kmeans’ partitions data into two mutually exclusive clusters and returns the index assigned to them. Essentially, the function finds a partition in which objects within each cluster are as close to each other as possible, and as far from objects in other clusters as possible \cite{Cluster}. In this project, ‘cityblock’ was chosen as the distance metric. This metric measures the sum of absolute differences between data point coordinates, and assigns points to clusters based on this distance. Besides this, centroids are calculated as the component-wise median of points in each cluster. This metric was chosen because of the way centroids are calculated, that is, using the median, which is the measure that’s been used during the course of this project. Moreover, this metric considers the absolute differences in each dimension separately, so it aligns well with datasets where feature relationships are independent, which is the case.
 The result of the clustering for the features in figure AAAAAAa is shown in figure AAAAAAb. Here, two clusters can be seen, one with blue circles and the other with yellow ones, as well as X’s in the position of the clusters’ centroids.
