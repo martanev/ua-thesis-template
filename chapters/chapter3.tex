@@ -66,14 +66,14 @@ Z = \frac{X-\mu}{\sigma}
     \centering
     \begin{minipage}{0.45\textwidth}
         \centering
-        \includegraphics[width=6.5cm]{ecg}
+        \includegraphics[width=6.8cm]{ecg}
         \caption{Section of the \ac{ecg} signal of a participant.}
         \label{fig:ecg}
     \end{minipage}
     \hfill
     \begin{minipage}{0.45\textwidth}
         \centering
-        \includegraphics[width=6.5cm]{normalized ecg}
+        \includegraphics[width=6.8cm]{normalized ecg}
         \caption{Section of the standardized \ac{ecg} signal of a participant.}
         \label{fig:normalized_ecg}
     \end{minipage}
@@ -82,10 +82,22 @@ Z = \frac{X-\mu}{\sigma}
 Once the signal was standardized, fluctuations were noticed in the time series.
 By removing high frequencies from the signal, by filtering for example, these would be alleviated.
 However, there could be information related to pain associated to those frequencies.
-A solution to these problems is to decompose the signal in wavelets, using \ac{dwt}. There are many wavelet families, but the selection should consider the characteristics of the signal and the decomposition that fits the goal of applying \ac{dwt}.
+A solution to these problems is to decompose the signal in wavelets, using \ac{dwt}. 
 
-To choose the best type of wavelet, two criteria were established: one's format should be similar to that of the \ac{ecg} wave, complementing the remaining features in gathering whether the QRS complex is relevant to describe pain, and the other should have a higher frequency, to understand if there's important information associated with the fluctuations of the signal, while still maintaining its smoothness.
-Accordingly, Daubechies-4 ('db4') and Daubechies-9 ('db9') were chosen.
+Wavelets are built upon basic functions that preserve properties of localization in both frequency and time domains, resembling short wave-like signals. The computation of a \ac{dwt} is primarily based on the employment of low-pass and high-pass filters with different cutoff frequencies to process signals in various frequency bands. This process leads to the decomposition of the signal into approximation and detail components. The approximation component represents the low-frequency content (signal energy), while the detail component captures the high-frequency content associated with short pulses, sudden changes, and noise. The amount of information is changed by filtering, and the scale is changed by decimation and interpolation. Decimation corresponds to lowering the sampling rate. 
+
+There are many wavelet families, that differ from each other in the format of the approximation wave, but the selection of one should consider the characteristics of the signal and the decomposition level must be chosen accordingly. For this project, two types of wavelet were chosen, according two specific criteria: one's format should be similar to that of the \ac{ecg} wave, complementing the remaining features in gathering whether the QRS complex is relevant to describe pain, and the other should have a higher frequency, to understand if there's important information associated with the fluctuations of the signal, while still maintaining its smoothness.
+Accordingly, Daubechies-4 ('db4') and Daubechies-9 ('db9') were chosen, which waveforms can be seen in Figure \ref{fig:waveform}. 
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.7\textwidth]{wavelet_db4_db9.png}
+    \caption{Daubechies-4 and Daubechies-9 Waveform.}
+    \label{fig:waveform}
+\end{figure}
+
+
+
 Regarding the number of levels of decomposition, as can be seen in Figure \ref{fig:wavelets2}, when there are two levels the R peak is noticeable in the first detail, which is not something this project means to highlight.
 Therefore, only one level of decomposition was applied.
 
@@ -98,13 +110,22 @@ Therefore, only one level of decomposition was applied.
 
 
 \subsection{Entropy Calculation}
-Entropy quantifies the disorder in time series data. Due to this, features associated with it have been used in the analysis of physiological signals \cite{Koh2022}. Since this quantity might be affected in the \ac{ecg} when someone experiences pain, it was calculated for the resulting wavelets. In order to keep consistency with the other features, a same sized window was used, that is, 10 seconds with 50\% overlap. %Since the aim of the selected features is to classify pain, which will be done by comparing the pain induction period with a baseline, 
+Entropy quantifies the disorder in time series data. Due to this, features associated with it have been used in the analysis of physiological signals \cite{Koh2022}. Since this quantity might be affected in the \ac{ecg} when someone experiences pain, it was calculated for the approximation and detail components of the resulting wavelets. In order to keep consistency with the other features, a same sized window was used, that is, 10 seconds with 50\% overlap. %Since the aim of the selected features is to classify pain, which will be done by comparing the pain induction period with a baseline, 
 
-There are various types of entropy. To select one, a research was executed on the tool Scopus using the key words entropy, ecg, signal, pain, and classification. Only four articles were found, but two of them weren't focused on pain description. Due to this, only the remaining two were analysed. Maity and Jana \cite{Maity2023} analysed four types of entropy applied to wavelets using a \ac{rf} model, while Adjei et al \cite{Adjei2017} calculated permutation entropy using Shannon entropy. These articles show that there isn't a lot of research that uses entropy for pain description, so the entropy was chosen based on the aim of the selected features, which is to evaluate if there are signal transitions in the presence of pain. Due to this, a \ac{tde} was implemented. The amplitude range of the signal was segmented into 100 non-overlapping and successive partitions. For each of these, the probability $P_i$ was determined by computing the ratio between the number of signal samples in that interval, and the total number of samples in the window. The entropy was then calculated using Equation \ref{eq:2}, where M equals the number of partitions \cite{Ferreira2017}.
+There are various types of entropy. To select one, a research was executed on the tool Scopus using the key words entropy, ecg, signal, pain, and classification. Only four articles were found, but two of them weren't focused on pain description. Due to this, only the remaining two were analysed. Maity and Jana \cite{Maity2023} analysed four types of entropy applied to wavelets using a \ac{rf} model, while Adjei et al \cite{Adjei2017} calculated permutation entropy using Shannon entropy. These articles show that there isn't a lot of research that uses entropy for pain description, so the type of entropy was chosen based on the aim of the selected features, which is to evaluate if there are signal transitions in the presence of pain. Due to this, a \ac{tde} was implemented. The amplitude range of the signal was segmented into 100 non-overlapping and successive partitions. For each of these, the probability $P_i$ was determined by computing the ratio between the number of signal samples in that interval, and the total number of samples in the window. The entropy was then calculated using Equation \ref{eq:2}, where M equals the number of partitions \cite{Ferreira2017}. 
 
 \begin{equation} \label{eq:2}
 \ac{tde}=-\sum_{i=1}^{M}P_ilog(P_i)
 \end{equation}
+
+Although this method of computing entropy uses fixed partitioning, an adaptative partitioning alternative was also calculated, where the amplitude range that was segmented was the window's, instead of the signal's. The results for both of these entropies is displayed in Figure \ref{fig:entropies}. However, these were very similar, so only the fixed partitioning method was used, since it displays broader changes in amplitude, as can be seen in Figure \ref{fig:entropies} (right). 
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1\textwidth]{entropy comparisons.jpg}
+    \caption{Graph of the entropy computed for the approximation and detail components of the wavelets, using adaptative (left) and fixed (right) partitioning.}
+    \label{fig:entropies}
+\end{figure}
 
 
 
@@ -119,7 +140,7 @@ To do the optimal processing of the features, fifteen participants were selected
         \includegraphics[width=\textwidth]{orig_part5.jpg}
     \end{subfigure}
     
-    \vspace{0.3em} % adjust spacing between the two graphs
+    \vspace{0.1em} % adjust spacing between the two graphs
     
     \begin{subfigure}{\linewidth}
         \centering
@@ -131,7 +152,7 @@ To do the optimal processing of the features, fifteen participants were selected
 \end{figure}
 
 
-Subsequently, a statistical analysis of the participants’ features was conducted using histograms, as illustrated in Figure \ref{fig:histogram}. The histograms revealed that the distributions of the features deviate from normality, justifying the use of the median and \ac{iqr} as measures of central tendency and dispersion, respectively.
+Subsequently, a statistical analysis of the participants' features was conducted using histograms, as illustrated in Figure \ref{fig:histogram}. The histograms revealed that the distributions of the features deviate from normality, justifying the use of the median and \ac{iqr} as measures of central tendency and dispersion, respectively.
 These values were computed for each feature and considered as derived features that will integrate the analysis.
 
 \begin{figure}[h!]
@@ -141,7 +162,9 @@ These values were computed for each feature and considered as derived features t
     \label{fig:histogram}
 \end{figure}
 
-The goal of this project is to select features that distinguish pain from no pain. To do this, it’s important to guarantee the synchronization between segments, so that they’re comparable. To accomplish this goal, spline interpolation was done in each step, conducing to equalize the number of points to a 60 seconds intervals. The result of this method is portrayed in Figure \ref{fig:normalizedfeatures}. 
+
+
+The goal of this project is to select features that distinguish pain from no pain. To do this, it's important to guarantee the synchronization between segments, so that they're comparable. To accomplish this goal, spline interpolation was done in each step, conducing to equalize the number of points to a 60 seconds intervals. The result of this method is portrayed in Figure \ref{fig:normalizedfeatures}. 
 
 \begin{figure}[h!]
     \centering
@@ -150,9 +173,9 @@ The goal of this project is to select features that distinguish pain from no pai
     \label{fig:normalizedfeatures}
 \end{figure}
 
-\newpage
-
 The features that will be analysed in this project are shown in Table \ref{table:features}. These have been computed using the median and \ac{iqr} of the extracted features for each step of the protocol, as mentioned before. 
+
+(Em vez disto, colocar tabela com descrição de features de um participante?)
 
 
 

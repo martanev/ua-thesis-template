@@ -822,18 +822,24 @@ INPUT .\figs\normalized ecg.jpg
 INPUT .\figs\normalized ecg.jpg
 INPUT .\figs\normalized ecg.jpg
 INPUT .\figs\normalized ecg.jpg
-INPUT .\figs\wavelets 2.jpg
-INPUT .\figs\wavelets 2.jpg
-INPUT .\figs\wavelets 2.jpg
-INPUT .\figs\wavelets 2.jpg
-INPUT .\figs\wavelets 2.jpg
-INPUT .\figs\wavelets 2.jpg
 OUTPUT matter.mw
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT matter.mw
 OUTPUT matter.mw
+INPUT .\figs\wavelet_db4_db9.png
+INPUT .\figs\wavelet_db4_db9.png
+INPUT .\figs\wavelet_db4_db9.png
+INPUT .\figs\wavelet_db4_db9.png
+INPUT .\figs\wavelet_db4_db9.png
+INPUT .\figs\wavelet_db4_db9.png
+INPUT .\figs\wavelets 2.jpg
+INPUT .\figs\wavelets 2.jpg
+INPUT .\figs\wavelets 2.jpg
+INPUT .\figs\wavelets 2.jpg
+INPUT .\figs\wavelets 2.jpg
+INPUT .\figs\wavelets 2.jpg
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
@@ -846,6 +852,15 @@ OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+INPUT .\figs\entropy comparisons.jpg
+INPUT .\figs\entropy comparisons.jpg
+INPUT .\figs\entropy comparisons.jpg
+INPUT .\figs\entropy comparisons.jpg
+INPUT .\figs\entropy comparisons.jpg
+INPUT .\figs\entropy comparisons.jpg
 OUTPUT matter.mw
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathex.enc
 INPUT matter.mw
@@ -892,6 +907,51 @@ INPUT chapters\chapter4.tex
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
+INPUT .\figs\cluster.jpg
+INPUT .\figs\cluster.jpg
+INPUT .\figs\cluster.jpg
+INPUT .\figs\cluster.jpg
+INPUT .\figs\cluster.jpg
+INPUT .\figs\cluster.jpg
+INPUT .\figs\map80.jpg
+INPUT .\figs\map80.jpg
+INPUT .\figs\map80.jpg
+INPUT .\figs\map80.jpg
+INPUT .\figs\map80.jpg
+INPUT .\figs\map80.jpg
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+INPUT .\figs\multcompareR.jpg
+INPUT .\figs\multcompareR.jpg
+INPUT .\figs\multcompareR.jpg
+INPUT .\figs\multcompareR.jpg
+INPUT .\figs\multcompareR.jpg
+INPUT .\figs\multcompareR.jpg
+INPUT .\figs\multcompareS.jpg
+INPUT .\figs\multcompareS.jpg
+INPUT .\figs\multcompareS.jpg
+INPUT .\figs\multcompareS.jpg
+INPUT .\figs\multcompareS.jpg
+INPUT .\figs\multcompareS.jpg
+INPUT .\figs\multcompare4approx.jpg
+INPUT .\figs\multcompare4approx.jpg
+INPUT .\figs\multcompare4approx.jpg
+INPUT .\figs\multcompare4approx.jpg
+INPUT .\figs\multcompare4approx.jpg
+INPUT .\figs\multcompare4approx.jpg
+INPUT .\figs\multcompare4detail.jpg
+INPUT .\figs\multcompare4detail.jpg
+INPUT .\figs\multcompare4detail.jpg
+INPUT .\figs\multcompare4detail.jpg
+INPUT .\figs\multcompare4detail.jpg
+INPUT .\figs\multcompare4detail.jpg
+INPUT .\figs\multcompare9detail.jpg
+INPUT .\figs\multcompare9detail.jpg
+INPUT .\figs\multcompare9detail.jpg
+INPUT .\figs\multcompare9detail.jpg
+INPUT .\figs\multcompare9detail.jpg
+INPUT .\figs\multcompare9detail.jpg
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
@@ -979,12 +1039,12 @@ OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
-INPUT .\chapters\chapter2.aux
-INPUT .\chapters\chapter2.aux
-INPUT chapters\chapter2.aux
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
+INPUT .\chapters\chapter2.aux
+INPUT .\chapters\chapter2.aux
+INPUT chapters\chapter2.aux
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
@@ -1063,9 +1123,21 @@ OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
 INPUT .\chapters\chapter4.aux
 INPUT .\chapters\chapter4.aux
 INPUT chapters\chapter4.aux
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw

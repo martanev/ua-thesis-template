@@ -2,21 +2,54 @@
 
 \section{Identification of Significant Features}
 
-To identify the most relevant features for describing pain, this project employs unsupervised learning, specifically clustering. 
+This project employs unsupervised learning, specifically a K-means clustering algorithm, to identify the most relevant features for describing pain. This is done by generating clusters, where K is the number defined by the user for the quantity of centroids \cite{Ikotun2023}. The clustering technique partitions data according to specific distance metrics, and `cityblock' was chosen because of the way centroids are computed, that is, as the component-wise median of points in each cluster. Besides this, this metric measures the sum of absolute differences between data point coordinates, and assigns points to clusters based on this distance. This clustering algorithm was applied to every possible pair of features, with the number of centroids set to $K=2$, using data from the second baseline and from the pain stimulation phase of the fifteen participants. It's important to mention that this analysis was firstly done with the first baseline but, comparing both options, the results were better using the second one, which may stem from the influence of the emotional stimuli in the pain felt by the participants.
 
-\subsection{K-Means Clustering}
+The result of clustering applied to two features -- the medians of the entropy of db4 detail (x-axis) and of db4 approximation (y-axis) -- is displayed in Figure \ref{fig:cluster} (right). In it, two clusters can be seen, as well as X's in the position of the clusters' centroids.
+For comparison, scattering graphics were plotted for each two features, as can be seen in Figure \ref{fig:cluster} (left). The incorrect matches made by the clustering algorithm are circled in black.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1.0\textwidth]{cluster.jpg}
+    \caption{Scattering plot with data from baseline 2 and pain (left), and with the result of K-means clustering (right), when comparing the medians of the entropy of db4 detail and db4 approximation.}
+    \label{fig:cluster}
+\end{figure}
+
+Only the pairs of features where clustering was done with over 80\% accuracy were considered valid. A network map illustrating these results was plotted in Figure \ref{fig:map80}. In this map, each circle corresponds to a feature, while the lines connecting them showcase the combinations that met the accuracy threshold. Additionally, the size of the circles is proportional to how many times that specific feature, paired with another, contributed to successful clustering. These results suggest that these five features, Roffsetampmedian\_median, Sampmedian\_median, Entropydb4Approx\_median, Entropydb4Detail\_median, and Entropydb9Detail\_median, when paired with each other, are the most effective in distinguishing pain from no pain. 
 
 
 
-By using data from the baseline (no pain) and pain phases, the most relevant features are those that form clusters effectively separating the points corresponding to each condition.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1.0\textwidth]{map80.jpg}
+    \caption{Network diagram of the pairs of features with more than 80\% accuracy of clustering.}
+    \label{fig:map80}
+\end{figure}
 
-In order to do this, there’s the need to plot scattering graphics for each two features, as can be seen in figure AAAAA. Each point in the scatterplot represents one of the 15 participants in the study. The blue circles correspond to data from baseline 2 while the red circles represent data from the pain phase. In this example, the distribution of points reflects the relationship between two features – the median of the medians of S peak amplitude (x-axis) and R offset amplitude (y-axis) – in the two conditions. It’s important to mention that this analysis was firstly done with baseline 1 but, comparing both options, the results were better using the second one, which may stem from the influence of the emotional stimuli in the pain felt by the participants.
+To determine whether these features can distinguish pain from the lack of it in spite of the situation, a multiple comparison test was applied to both the baselines and to the pain phase. To do this, a one-way \ac{anova} was applied to the three groups. This test evaluates whether there are statistically significant differences between the means of each group. Afterwards, Tukey-Kramer method, also known as the \ac{hsd} method, was performed as a post-hoc test.
+The result of this test is portrayed in Figure \ref{fig:five_images}.
 
 
 
-Once this was done, k-means clustering was applied to all the data from baseline 2 and pain, with no distinction between them. In this case, the function ‘kmeans’ partitions data into two mutually exclusive clusters and returns the index assigned to them. Essentially, the function finds a partition in which objects within each cluster are as close to each other as possible, and as far from objects in other clusters as possible \cite{Cluster}. In this project, ‘cityblock’ was chosen as the distance metric. This metric measures the sum of absolute differences between data point coordinates, and assigns points to clusters based on this distance. Besides this, centroids are calculated as the component-wise median of points in each cluster. This metric was chosen because of the way centroids are calculated, that is, using the median, which is the measure that’s been used during the course of this project. Moreover, this metric considers the absolute differences in each dimension separately, so it aligns well with datasets where feature relationships are independent, which is the case.
-The result of the clustering for the features in figure AAAAAAa is shown in figure AAAAAAb. Here, two clusters can be seen, one with blue circles and the other with yellow ones, as well as X’s in the position of the clusters’ centroids.
 
-To select the features that best distinguish pain from no pain, the success of the clusters was measured by calculating the percentage of points on the right that correctly correspond to the conditions on the left. In other words, it counts the number of blue circles on the right that are also blue on the left, and the number of yellow circles on the right that correspond to red circles on the left. Furthermore, only the graphics in which this percentage was over 80\% were selected as being the result of a successful clustering.
+\begin{figure}[htbp]
+    \centering
+    % First row of 2 images
+    \includegraphics[width=0.48\linewidth]{multcompareR.jpg}
+    \hfill
+    \includegraphics[width=0.48\linewidth]{multcompareS.jpg}
+    \vspace{0.5em}  % space between rows
+    % Second row of 2 images
+    \includegraphics[width=0.48\linewidth]{multcompare4approx.jpg}
+    \hfill
+    \includegraphics[width=0.48\linewidth]{multcompare4detail.jpg}
+    \vspace{0.5em}  % space between rows
+    % Third row with 1 centered image
+    \includegraphics[width=0.48\linewidth]{multcompare9detail.jpg}
+    \caption{Multiple comparison test applied to both the baselines and to the pain phase, for each of the selected features.}
+    \label{fig:five_images}
+\end{figure}
 
-This result is portrayed in the network map from figure BBBBB. This map was done with the help of Artificial Intelligence since it wasn’t part of the taught contents in the Curricular Unit this project was developed for. In the figure, each circle corresponds to a feature and the connections between circles showcase the combinations of features that resulted in successful clustering. Additionally, the size of the circles is proportional to the numbers displayed above, highlighting the ones that were selected the most, specifically the median of the medians of the R offset amplitude and of the S peak amplitude. These are also the features whose graphics are shown in figure AAAAAAA.
+
+
+
+

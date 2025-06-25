@@ -1367,16 +1367,56 @@
       \endverb
       \keyw{Automatic classifier,Electrocardiogram,Entropy of noise,Physiology of emotions}
     \endentry
-    \entry{Cluster}{misc}{}{}
+    \entry{Ikotun2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=247d707b99e9b0c2ddc1bce20c7519f0}{%
+           family={Ikotun},
+           familyi={I\bibinitperiod},
+           given={Abiodun\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7d0212acf93bc31f5ada23a3e50b1841}{%
+           family={Ezugwu},
+           familyi={E\bibinitperiod},
+           given={Absalom\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=61b325a50c18a490fd21f80291e071af}{%
+           family={Abualigah},
+           familyi={A\bibinitperiod},
+           given={Laith},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6a27e6a7427f242a04d48d3d6fde0b21}{%
+           family={Abuhaija},
+           familyi={A\bibinitperiod},
+           given={Belal},
+           giveni={B\bibinitperiod}}}%
+        {{hash=16445b00d8f656d7632971f7aaa1f798}{%
+           family={Heming},
+           familyi={H\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8e198047c237f31642e3cc5b9bb627b}
+      \strng{fullhash}{6a9322fd5119572ff1c68cdbba7e97ca}
+      \strng{fullhashraw}{6a9322fd5119572ff1c68cdbba7e97ca}
+      \strng{bibnamehash}{6a9322fd5119572ff1c68cdbba7e97ca}
+      \strng{authorbibnamehash}{6a9322fd5119572ff1c68cdbba7e97ca}
+      \strng{authornamehash}{a8e198047c237f31642e3cc5b9bb627b}
+      \strng{authorfullhash}{6a9322fd5119572ff1c68cdbba7e97ca}
+      \strng{authorfullhashraw}{6a9322fd5119572ff1c68cdbba7e97ca}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{k-Means Clustering}
-      \verb{urlraw}
-      \verb https://www.mathworks.com/help/stats/k-means-clustering.html
-      \endverb
-      \verb{url}
-      \verb https://www.mathworks.com/help/stats/k-means-clustering.html
+      \field{issn}{00200255}
+      \field{journaltitle}{Information Sciences}
+      \field{month}{4}
+      \field{title}{K-means clustering algorithms: A comprehensive review, variants analysis, and advances in the era of big data}
+      \field{volume}{622}
+      \field{year}{2023}
+      \field{pages}{178\bibrangedash 210}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.1016/j.ins.2022.11.139
       \endverb
     \endentry
   \enddatalist

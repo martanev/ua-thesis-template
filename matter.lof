@@ -9,9 +9,14 @@
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Scheme of the protocol applied to obtain the database. (Adapted from \blx@tocontentsinit {0}\cite {Alves2024})}}{8}{figure.caption.24}%
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Section of the \ac {ecg} signal of a participant.}}{9}{figure.caption.26}%
 \contentsline {figure}{\numberline {3.4}{\ignorespaces Section of the standardized \ac {ecg} signal of a participant.}}{9}{figure.caption.26}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Daubechies-4 Wavelet Decomposition - level 2.}}{10}{figure.caption.28}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Standardized features' time series.}}{11}{figure.caption.30}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Histograms of the features.}}{12}{figure.caption.32}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Features normalized in time after interpolation.}}{12}{figure.caption.33}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Daubechies-4 and Daubechies-9 Waveform.}}{10}{figure.caption.28}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Daubechies-4 Wavelet Decomposition - level 2.}}{10}{figure.caption.29}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Graph of the entropy computed for the approximation and detail components of the wavelets, using adaptative (left) and fixed (right) partitioning.}}{11}{figure.caption.31}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Standardized features' time series.}}{12}{figure.caption.32}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Histograms of the features.}}{13}{figure.caption.34}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Features normalized in time after interpolation.}}{13}{figure.caption.35}%
 \addvspace {10pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Scattering plot with data from baseline 2 and pain (left), and with the result of K-means clustering (right), when comparing the medians of the entropy of db4 detail and db4 approximation.}}{16}{figure.caption.37}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Network diagram of the pairs of features with more than 80\% accuracy of clustering.}}{16}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Multiple comparison test applied to both the baselines and to the pain phase, for each of the selected features.}}{17}{figure.caption.41}%
 \addvspace {10pt}
