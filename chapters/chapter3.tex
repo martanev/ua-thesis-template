@@ -36,8 +36,7 @@ For each window, a set of statistical metrics—namely the mean, median, and var
 
 
 \section{Feature Extraction}
-Four of all the extrated features revealed to be more related to pain assessment, by the use of a Random Forest classifier as the estimator and
-the median as the threshold \cite{Alves2024}. So, under the scope of this project, the median of the R wave offset amplitude, the median of the T wave onset amplitude, and the mean and median of the S wave peak amplitude were used as a base for subsequent analysis.
+Four of all the extracted features revealed to be more related to pain assessment, by the use of a gradient booster regressor with 200 estimators and learning rate of 0.1 \cite{Alves2024}. So, under the scope of this project, the median of the R wave offset amplitude, the median of the T wave onset amplitude, and the mean and median of the S wave peak amplitude were used as a base for subsequent analysis.
 Considering that the previously described features are examples of the state of the art features in \ac{ecg} analysis, and knowing that the pain quantification or identification is still an open area, this work wants to understand and find out other possible features that may describe the pain process. So, to accomplish such goal, an exploratory analysis to the collected \ac{ecg} was performed.
 
 % In the aforementioned article, the features of the ECG that can be used to best describe pain are defined.
@@ -46,9 +45,9 @@ Considering that the previously described features are examples of the state of 
 % To enhance this research, new features were sought out. For this reason, analysis of the ECG database itself was deemed necessary. 
 
 
-\subsection{\ac{ecg} Data Exploration}
+\subsection{ECG Data Exploration}
 When looking at the time series of the signal, in Figure \ref{fig:ecg}, it's noticeable that the range of amplitudes of the QRS complex is way bigger than that of the P and T waves.
-To tackle this, the \ac{ecg} signal was standardized according to equation \ref{eq:1}, where X is the original \ac{ecg}, $\mu$ is the mean, $\sigma$ is the standard deviation and Z is the standardized signal, which has mean zero and standard deviation one. 
+To tackle this, the \ac{ecg} signal was standardised according to equation \ref{eq:1}, where X is the original \ac{ecg}, $\mu$ is the mean, $\sigma$ is the standard deviation and Z is the standardised signal, which has mean zero and standard deviation one. 
 This means the range of values is the same for all participants, reducing the intervariability that is induced by the initial state of the participant, since it is an uncontrolled variable.
 
 \begin{equation} \label{eq:1}
@@ -67,26 +66,26 @@ Z = \frac{X-\mu}{\sigma}
     \begin{minipage}{0.45\textwidth}
         \centering
         \includegraphics[width=6.8cm]{ecg}
-        \caption{Section of the \ac{ecg} signal of a participant.}
+        \caption{Section of the ECG signal of a participant.}
         \label{fig:ecg}
     \end{minipage}
     \hfill
     \begin{minipage}{0.45\textwidth}
         \centering
         \includegraphics[width=6.8cm]{normalized ecg}
-        \caption{Section of the standardized \ac{ecg} signal of a participant.}
-        \label{fig:normalized_ecg}
+        \caption{Section of the standardised ECG signal of a participant.}
+        \label{fig:normalised_ecg}
     \end{minipage}
 \end{figure}
 
-Once the signal was standardized, fluctuations were noticed in the time series.
+Once the signal was standardised, fluctuations were noticed in the time series.
 By removing high frequencies from the signal, by filtering for example, these would be alleviated.
 However, there could be information related to pain associated to those frequencies.
 A solution to these problems is to decompose the signal in wavelets, using \ac{dwt}. 
 
-Wavelets are built upon basic functions that preserve properties of localization in both frequency and time domains, resembling short wave-like signals. The computation of a \ac{dwt} is primarily based on the employment of low-pass and high-pass filters with different cutoff frequencies to process signals in various frequency bands. This process leads to the decomposition of the signal into approximation and detail components. The approximation component represents the low-frequency content (signal energy), while the detail component captures the high-frequency content associated with short pulses, sudden changes, and noise. The amount of information is changed by filtering, and the scale is changed by decimation and interpolation. Decimation corresponds to lowering the sampling rate. 
+Wavelets are built upon basic functions that preserve properties of localization in both frequency and time domains, resembling short wave-like signals with specific formats. The computation of a \ac{dwt} is primarily based on the employment of low-pass and high-pass filters with different cutoff frequencies to process signals in various frequency bands. This process leads to the decomposition of the signal into approximation and detail components. The approximation component represents the low-frequency content (signal energy), while the detail component captures the high-frequency content associated with short pulses, sudden changes, and noise. The amount of information is changed by filtering, and the scale is changed by decimation and interpolation. Decimation corresponds to lowering the sampling rate, but this can be fixed when the the wavelets are reconstructed \cite{Osadchiy2021}. 
 
-There are many wavelet families, that differ from each other in the format of the approximation wave, but the selection of one should consider the characteristics of the signal and the decomposition level must be chosen accordingly. For this project, two types of wavelet were chosen, according two specific criteria: one's format should be similar to that of the \ac{ecg} wave, complementing the remaining features in gathering whether the QRS complex is relevant to describe pain, and the other should have a higher frequency, to understand if there's important information associated with the fluctuations of the signal, while still maintaining its smoothness.
+There are many wavelet families, that differ from each other in the format of the approximation wave, but the selection of one should consider the characteristics of the signal and the decomposition level must be chosen accordingly. For this project, two types of wavelet were chosen, according to two specific criteria: one's format should be similar to that of the \ac{ecg} wave, complementing the remaining features in gathering whether the QRS complex is relevant to describe pain, and the other should have a higher frequency, to understand if there's important information associated with the fluctuations of the signal, while still maintaining its smoothness.
 Accordingly, Daubechies-4 ('db4') and Daubechies-9 ('db9') were chosen, which waveforms can be seen in Figure \ref{fig:waveform}. 
 
 \begin{figure}[h!]
@@ -98,7 +97,7 @@ Accordingly, Daubechies-4 ('db4') and Daubechies-9 ('db9') were chosen, which wa
 
 
 
-Regarding the number of levels of decomposition, as can be seen in Figure \ref{fig:wavelets2}, when there are two levels the R peak is noticeable in the first detail, which is not something this project means to highlight.
+Regarding the number of levels of decomposition, as can be seen in Figure \ref{fig:wavelets2}, when there are two levels the R peak is noticeable in the first detail, which is not something this project means to highlight in the detail.
 Therefore, only one level of decomposition was applied.
 
 \begin{figure}[h!]
@@ -130,7 +129,7 @@ Although this method of computing entropy uses fixed partitioning, an adaptative
 
 
 \section{Data Analysis}
-To do the optimal processing of the features, fifteen participants were selected at random. After standardizing the features, so that they're comparable with each other, graphics of the time series of the features were plotted for each participant. An example can be seen in Figure \ref{fig:featurestimeseries}, in which a clear change can be seen when the participant dips their hand in water, feeling pain. Since the timeseries of the mean and median of the S wave amplitude were so similar, it was decided that only the median would be analysed.
+To do the optimal processing of the features, fifteen participants were selected at random. After standardising the features, so that they're comparable with each other, graphics of the time series of the features were plotted for each participant. An example can be seen in Figure \ref{fig:featurestimeseries}, in which a clear change can be seen when the participant dips their hand in water, feeling pain. Since the timeseries of the mean and median of the S wave amplitude were so similar, it was decided that only the median would be analysed.
 
 
 \begin{figure}[htbp]
@@ -147,7 +146,7 @@ To do the optimal processing of the features, fifteen participants were selected
         \includegraphics[width=\textwidth]{entropy_part5.jpg}
     \end{subfigure}
     
-    \caption{Standardized features' time series.}
+    \caption{Standardised features' time series.}
     \label{fig:featurestimeseries}
 \end{figure}
 
@@ -162,24 +161,25 @@ These values were computed for each feature and considered as derived features t
     \label{fig:histogram}
 \end{figure}
 
+\pagebreak
 
-
-The goal of this project is to select features that distinguish pain from no pain. To do this, it's important to guarantee the synchronization between segments, so that they're comparable. To accomplish this goal, spline interpolation was done in each step, conducing to equalize the number of points to a 60 seconds intervals. The result of this method is portrayed in Figure \ref{fig:normalizedfeatures}. 
+The goal of this project is to select features that distinguish pain from no pain. To do this, it's important to guarantee the synchronization between segments, so that they're comparable. To accomplish this goal, spline interpolation was done in each step, conducing to equalize the number of points to a 60 seconds intervals. The result of this method is portrayed in Figure \ref{fig:normalisedfeatures}. 
 
 \begin{figure}[h!]
     \centering
     \includegraphics[width=\textwidth]{normalized features.jpg}
-    \caption{Features normalized in time after interpolation.}
-    \label{fig:normalizedfeatures}
+    \caption{Features normalised in time after interpolation.}
+    \label{fig:normalisedfeatures}
 \end{figure}
+
 
 The features that will be analysed in this project are shown in Table \ref{table:features}. These have been computed using the median and \ac{iqr} of the extracted features for each step of the protocol, as mentioned before. 
 
-(Em vez disto, colocar tabela com descrição de features de um participante?)
 
 
 
 \begin{table}[h]
+    \centering
     \captionsetup{justification=raggedright, singlelinecheck=false}
     \caption{Features for pain classification after data preparation procedures.}
     \renewcommand{\arraystretch}{1.2}
@@ -188,7 +188,7 @@ The features that will be analysed in this project are shown in Table \ref{table
     \hyphenpenalty=10000
     \exhyphenpenalty=10000
     \sloppy
-    \begin{tabular}{@{}>{\RaggedRight\arraybackslash}p{4cm} >{\RaggedRight\arraybackslash}p{11cm}@{}}
+    \begin{tabular}{@{}>{\RaggedRight\arraybackslash}p{4cm} >{\RaggedRight\arraybackslash}p{10cm}@{}}
         \hline
         \textbf{Feature Source} & \textbf{Features} \\
         \midrule

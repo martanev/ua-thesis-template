@@ -3,20 +3,26 @@
 \addvspace {10pt}
 \addvspace {10pt}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {2.1}{\ignorespaces \ac {ecg} Schematic (Adapted from \blx@tocontentsinit {0}\cite {Dogan2023})}}{5}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces \ac {ecg} Schematic (Adapted from \blx@tocontentsinit {0}\cite {Dogan2023})}}{5}{figure.caption.13}%
 \addvspace {10pt}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Processing pipeline.}}{7}{figure.caption.23}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Scheme of the protocol applied to obtain the database. (Adapted from \blx@tocontentsinit {0}\cite {Alves2024})}}{8}{figure.caption.24}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Section of the \ac {ecg} signal of a participant.}}{9}{figure.caption.26}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Section of the standardized \ac {ecg} signal of a participant.}}{9}{figure.caption.26}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Daubechies-4 and Daubechies-9 Waveform.}}{10}{figure.caption.28}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Daubechies-4 Wavelet Decomposition - level 2.}}{10}{figure.caption.29}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Graph of the entropy computed for the approximation and detail components of the wavelets, using adaptative (left) and fixed (right) partitioning.}}{11}{figure.caption.31}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Standardized features' time series.}}{12}{figure.caption.32}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Histograms of the features.}}{13}{figure.caption.34}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Features normalized in time after interpolation.}}{13}{figure.caption.35}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Processing pipeline.}}{7}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Scheme of the protocol applied to obtain the database. (Adapted from \blx@tocontentsinit {0}\cite {Alves2024})}}{8}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Section of the ECG signal of a participant.}}{9}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Section of the standardised ECG signal of a participant.}}{9}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Daubechies-4 and Daubechies-9 Waveform.}}{10}{figure.caption.29}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Daubechies-4 Wavelet Decomposition - level 2.}}{10}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Graph of the entropy computed for the approximation and detail components of the wavelets, using adaptative (left) and fixed (right) partitioning.}}{12}{figure.caption.32}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Standardised features' time series.}}{13}{figure.caption.33}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Histograms of the features.}}{13}{figure.caption.35}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Features normalised in time after interpolation.}}{14}{figure.caption.36}%
 \addvspace {10pt}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Scattering plot with data from baseline 2 and pain (left), and with the result of K-means clustering (right), when comparing the medians of the entropy of db4 detail and db4 approximation.}}{16}{figure.caption.37}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Network diagram of the pairs of features with more than 80\% accuracy of clustering.}}{16}{figure.caption.38}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Multiple comparison test applied to both the baselines and to the pain phase, for each of the selected features.}}{17}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Scattering plot with data from baseline 2 and pain (left), and with the result of K-means clustering (right), when comparing the Roffsetampmedian\_median and Sampmedian\_median.}}{16}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Network diagram of the pairs of features with more than 80\% accuracy of clustering.}}{17}{figure.caption.39}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Multiple comparison test of the R offset amplitude for a participant's baselines and pain phase.}}{18}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Multiple comparison test of the S wave amplitude for a participant's baselines and pain phase.}}{18}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Multiple comparison test of the entropy of the db4 approximation for a participant's baselines and pain phase.}}{18}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Multiple comparison test of the entropy of the db9 approximation for a participant's baselines and pain phase.}}{18}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Multiple comparison test (\ac {anova} + HSD) applied to both the baselines and to the pain phase, for each of the selected features.}}{19}{figure.caption.43}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Confusion matrix for KNN model testing.}}{21}{figure.caption.49}%
+\addvspace {10pt}
 \addvspace {10pt}

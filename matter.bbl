@@ -1156,6 +1156,56 @@
       \verb 10.3390/s25051436
       \endverb
     \endentry
+    \entry{Osadchiy2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=5a19fdf465afe682dde2dede029d57ec}{%
+           family={Osadchiy},
+           familyi={O\bibinitperiod},
+           given={Andrey},
+           giveni={A\bibinitperiod}}}%
+        {{hash=aae41c85ef7975280147178316e25577}{%
+           family={Kamenev},
+           familyi={K\bibinitperiod},
+           given={Aleksandr},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7efa7045ea06e2002950a6fc27a35d1f}{%
+           family={Saharov},
+           familyi={S\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+        {{hash=f81c5ac8f5cd79cfd6ead889dfa259a0}{%
+           family={Chernyi},
+           familyi={C\bibinitperiod},
+           given={Sergei},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{da50020b6e5d1bda635fdb96f7e5c1f0}
+      \strng{fullhash}{839b1ef28cd26a8e148d3f3a840fa562}
+      \strng{fullhashraw}{839b1ef28cd26a8e148d3f3a840fa562}
+      \strng{bibnamehash}{839b1ef28cd26a8e148d3f3a840fa562}
+      \strng{authorbibnamehash}{839b1ef28cd26a8e148d3f3a840fa562}
+      \strng{authornamehash}{da50020b6e5d1bda635fdb96f7e5c1f0}
+      \strng{authorfullhash}{839b1ef28cd26a8e148d3f3a840fa562}
+      \strng{authorfullhashraw}{839b1ef28cd26a8e148d3f3a840fa562}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{24119660}
+      \field{issue}{3}
+      \field{journaltitle}{Designs}
+      \field{month}{9}
+      \field{title}{Signal processing algorithm based on discrete wavelet transform}
+      \field{volume}{5}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.3390/designs5030041
+      \endverb
+      \keyw{Algorithm,Cubic spline,Daubechies wavelet,Electrocardiogram,Implantation,Pacemaker,Signal reconstruction levels,Wavelet decomposition coefficients,Wavelet transform}
+    \endentry
     \entry{Koh2022}{article}{}{}
       \name{author}{9}{}{%
         {{hash=e1ce3ebb6a6ca915dd35a8a626a5c4ef}{%
@@ -1417,6 +1467,219 @@
       \range{pages}{33}
       \verb{doi}
       \verb 10.1016/j.ins.2022.11.139
+      \endverb
+    \endentry
+    \entry{Ricken2023}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=4db4b1558908aa42c9d8bcb249e28890}{%
+           family={Ricken},
+           familyi={R\bibinitperiod},
+           given={Tobias\bibnamedelima Benjamin},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=e7a6166069e8f7bda25043897bcbefb5}{%
+           family={Bellmann},
+           familyi={B\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6d0a6cd423bdd91c1be15cf9b47a3ae4}{%
+           family={Walter},
+           familyi={W\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3e680f73e719a14e933cd7335948b156}{%
+           family={Schwenker},
+           familyi={S\bibinitperiod},
+           given={Friedhelm},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{bcd2e4e4275c578b8a121779e37efe3f}
+      \strng{fullhash}{bb8203add1a40d949e33409c03f1fc6b}
+      \strng{fullhashraw}{bb8203add1a40d949e33409c03f1fc6b}
+      \strng{bibnamehash}{bb8203add1a40d949e33409c03f1fc6b}
+      \strng{authorbibnamehash}{bb8203add1a40d949e33409c03f1fc6b}
+      \strng{authornamehash}{bcd2e4e4275c578b8a121779e37efe3f}
+      \strng{authorfullhash}{bb8203add1a40d949e33409c03f1fc6b}
+      \strng{authorfullhashraw}{bb8203add1a40d949e33409c03f1fc6b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2073-431X}
+      \field{issue}{4}
+      \field{journaltitle}{Computers}
+      \field{month}{3}
+      \field{title}{Pain Detection in Biophysiological Signals: Knowledge Transfer from Short-Term to Long-Term Stimuli Based on Distance-Specific Segment Selection}
+      \field{volume}{12}
+      \field{year}{2023}
+      \field{pages}{71}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/computers12040071
+      \endverb
+    \endentry
+    \entry{Nanda2021}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=d2bca5e07eb7875f812a8746a517cb4a}{%
+           family={Nanda},
+           familyi={N\bibinitperiod},
+           given={Anita},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d6242f31dde4d4885ecb4228e397bd1f}{%
+           family={Mohapatra},
+           familyi={M\bibinitperiod},
+           given={Dr.\bibnamedelimi Bibhuti\bibnamedelima Bhusan},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=9ec2815d788d5a2801a27a560ac6fd98}{%
+           family={Mahapatra},
+           familyi={M\bibinitperiod},
+           given={Abikesh\bibnamedelimb Prasada\bibnamedelima Kumar},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=84e6a16c8d1b02008d94fb192cd96133}{%
+           family={Mahapatra},
+           familyi={M\bibinitperiod},
+           given={Abiresh\bibnamedelimb Prasad\bibnamedelima Kumar},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=75bc7658e7e126a63cc5690bcefcdb2d}{%
+           family={Mahapatra},
+           familyi={M\bibinitperiod},
+           given={Abinash\bibnamedelimb Prasad\bibnamedelima Kumar},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{15d88ec8fe6f0db63253018d63e8e12e}
+      \strng{fullhash}{ccb039495314a2f8380333a7b3353680}
+      \strng{fullhashraw}{ccb039495314a2f8380333a7b3353680}
+      \strng{bibnamehash}{ccb039495314a2f8380333a7b3353680}
+      \strng{authorbibnamehash}{ccb039495314a2f8380333a7b3353680}
+      \strng{authornamehash}{15d88ec8fe6f0db63253018d63e8e12e}
+      \strng{authorfullhash}{ccb039495314a2f8380333a7b3353680}
+      \strng{authorfullhashraw}{ccb039495314a2f8380333a7b3353680}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{24561452}
+      \field{issue}{1}
+      \field{journaltitle}{International Journal of Statistics and Applied Mathematics}
+      \field{month}{1}
+      \field{title}{Multiple comparison test by Tukey’s honestly significant difference (HSD): Do the confident level control type I error}
+      \field{volume}{6}
+      \field{year}{2021}
+      \field{pages}{59\bibrangedash 65}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.22271/maths.2021.v6.i1a.636
+      \endverb
+    \endentry
+    \entry{Cunningham2022}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a5322941b8332d56c20676583a7faa35}{%
+           family={Cunningham},
+           familyi={C\bibinitperiod},
+           given={Pádraig},
+           giveni={P\bibinitperiod}}}%
+        {{hash=acd23d68440c8f218c06e751ece47eda}{%
+           family={Delany},
+           familyi={D\bibinitperiod},
+           given={Sarah\bibnamedelima Jane},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{fullhash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{fullhashraw}{34a6508f6a7dffaa575a26154965e986}
+      \strng{bibnamehash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{authorbibnamehash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{authornamehash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{authorfullhash}{34a6508f6a7dffaa575a26154965e986}
+      \strng{authorfullhashraw}{34a6508f6a7dffaa575a26154965e986}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0360-0300}
+      \field{issue}{6}
+      \field{journaltitle}{ACM Computing Surveys}
+      \field{month}{7}
+      \field{title}{k-Nearest Neighbour Classifiers - A Tutorial}
+      \field{volume}{54}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 25}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1145/3459665
+      \endverb
+    \endentry
+    \entry{Papanikolaou2021}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=403baeacceeea08ac8169a5cdd37fc1c}{%
+           family={Papanikolaou},
+           familyi={P\bibinitperiod},
+           given={Merkourios},
+           giveni={M\bibinitperiod}}}%
+        {{hash=86a24736f4ba6917e39f8b88bb920aa2}{%
+           family={Evangelidis},
+           familyi={E\bibinitperiod},
+           given={Georgios},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1c553a981401f81ca1fae77938538f10}{%
+           family={Ougiaroglou},
+           familyi={O\bibinitperiod},
+           given={Stefanos},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{55a52287c2cdce0d82e987dd732afdc6}
+      \strng{fullhash}{aec95e43bd389178f51f18502f90a754}
+      \strng{fullhashraw}{aec95e43bd389178f51f18502f90a754}
+      \strng{bibnamehash}{aec95e43bd389178f51f18502f90a754}
+      \strng{authorbibnamehash}{aec95e43bd389178f51f18502f90a754}
+      \strng{authornamehash}{55a52287c2cdce0d82e987dd732afdc6}
+      \strng{authorfullhash}{aec95e43bd389178f51f18502f90a754}
+      \strng{authorfullhashraw}{aec95e43bd389178f51f18502f90a754}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 12th International Conference on Information, Intelligence, Systems and Applications (IISA)}
+      \field{isbn}{978-1-6654-0032-9}
+      \field{month}{7}
+      \field{title}{Dynamic k determination in k-NN classifier: A literature review}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/IISA52424.2021.9555525
+      \endverb
+    \endentry
+    \entry{Vujovic2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=2cd0e1cede44b29d9d60bca0bc3820ca}{%
+           family={Vujovic},
+           familyi={V\bibinitperiod},
+           given={Željko\bibnamedelima Ð.},
+           giveni={Ž\bibinitperiod\bibinitdelim Ð\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cd0e1cede44b29d9d60bca0bc3820ca}
+      \strng{fullhash}{2cd0e1cede44b29d9d60bca0bc3820ca}
+      \strng{fullhashraw}{2cd0e1cede44b29d9d60bca0bc3820ca}
+      \strng{bibnamehash}{2cd0e1cede44b29d9d60bca0bc3820ca}
+      \strng{authorbibnamehash}{2cd0e1cede44b29d9d60bca0bc3820ca}
+      \strng{authornamehash}{2cd0e1cede44b29d9d60bca0bc3820ca}
+      \strng{authorfullhash}{2cd0e1cede44b29d9d60bca0bc3820ca}
+      \strng{authorfullhashraw}{2cd0e1cede44b29d9d60bca0bc3820ca}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{21565570}
+      \field{issue}{6}
+      \field{journaltitle}{International Journal of Advanced Computer Science and Applications}
+      \field{title}{Classification Model Evaluation Metrics}
+      \field{volume}{12}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.14569/IJACSA.2021.0120670
       \endverb
     \endentry
   \enddatalist

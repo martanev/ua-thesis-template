@@ -2,9 +2,9 @@
 \babel@toc {portuguese}{}\relax
 \babel@toc {english}{}\relax
 \contentsline {chapter}{Contents}{i}{section*.1}%
-\contentsline {chapter}{List of Figures}{ii}{section*.3}%
-\contentsline {chapter}{List of Tables}{iii}{section*.4}%
-\contentsline {chapter}{Glossary}{iv}{chapter*.5}%
+\contentsline {chapter}{List of Figures}{iii}{section*.2}%
+\contentsline {chapter}{List of Tables}{iv}{section*.5}%
+\contentsline {chapter}{Glossary}{v}{chapter*.6}%
 \contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Work Objectives}{2}{section.1.2}%
@@ -17,9 +17,12 @@
 \contentsline {chapter}{\chapternumberline {3}Methods and Procedure}{7}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Database Acquisition}{7}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Feature Extraction}{8}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}\ac {ecg} Data Exploration}{9}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Entropy Calculation}{10}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.1}ECG Data Exploration}{9}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Entropy Calculation}{11}{subsection.3.2.2}%
 \contentsline {section}{\numberline {3.3}Data Analysis}{12}{section.3.3}%
 \contentsline {chapter}{\chapternumberline {4}Results and Discussion}{15}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Identification of Significant Features}{15}{section.4.1}%
-\contentsline {chapter}{References}{18}{chapter*.42}%
+\contentsline {subsection}{\numberline {4.1.1}Multiple Comparison Test}{17}{subsection.4.1.1}%
+\contentsline {section}{\numberline {4.2}K-Nearest Neighbours}{19}{section.4.2}%
+\contentsline {chapter}{\chapternumberline {5}Conclusion}{22}{chapter.5}%
+\contentsline {chapter}{References}{23}{chapter*.51}%

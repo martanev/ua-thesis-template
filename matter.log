@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  24 JUN 2025 19:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  26 JUN 2025 07:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1456,7 +1456,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count558
 \@quotereset=\count559
-(matter.aux (glossary.aux) (chapters/chapter1.aux) (chapters/chapter2.aux) (chapters/chapter3.aux) (chapters/chapter4.aux))
+(matter.aux (glossary.aux) (chapters/chapter1.aux) (chapters/chapter2.aux) (chapters/chapter3.aux) (chapters/chapter4.aux) (chapters/chapter5.aux))
 \openout1 = `matter.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 248.
@@ -1842,9 +1842,6 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-Package acronym Info: Label `acro:ecg' newly defined as it shall be overridden
-although it is yet undefined on input line 20.
-)
 
 \openout4 = `matter.mw'.
 
@@ -1854,11 +1851,23 @@ although it is yet undefined on input line 20.
 {C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}] (matter.mw)
 \openout4 = `matter.mw'.
 
- (matter.lof)
+)
 
 \openout4 = `matter.mw'.
 
-[2
+[2] (matter.mw)
+\openout4 = `matter.mw'.
+
+ (matter.lof
+Package acronym Info: Label `acro:ecg' newly defined as it shall be overridden
+although it is yet undefined on input line 6.
+Package acronym Info: Label `acro:anova' newly defined as it shall be overridden
+although it is yet undefined on input line 25.
+)
+
+\openout4 = `matter.mw'.
+
+[3
 
 ] (matter.mw)
 \openout4 = `matter.mw'.
@@ -1867,7 +1876,7 @@ although it is yet undefined on input line 20.
 
 \openout4 = `matter.mw'.
 
-[3
+[4
 
 ] (matter.mw)
 \openout4 = `matter.mw'.
@@ -1878,7 +1887,7 @@ although it is yet undefined on input line 20.
 
 \openout4 = `matter.mw'.
 
-[4
+[5
 
 
 
@@ -1945,6 +1954,7 @@ although it is yet undefined on input line 16.
 ] (matter.mw)
 \openout4 = `matter.mw'.
 
+Package marginnote Info: Using workaround for absolute page number on input line 17.
 )
 
 \openout4 = `matter.mw'.
@@ -2029,7 +2039,7 @@ although it is yet undefined on input line 8.
 
 \openout4 = `matter.mw'.
 
-<./figs/esquema ECG.png, id=343, 531.48563pt x 348.55219pt>
+<./figs/esquema ECG.png, id=382, 531.48563pt x 348.55219pt>
 File: ./figs/esquema ECG.png Graphic file (type png)
 <use ./figs/esquema ECG.png>
 Package pdftex.def Info: ./figs/esquema ECG.png  used on input line 38.
@@ -2110,7 +2120,7 @@ although it is yet undefined on input line 52.
 \openout2 = `chapters/chapter3.aux'.
 
  (chapters/chapter3.tex
-<./figs/image.png, id=406, 1257.69875pt x 799.98875pt>
+<./figs/image.png, id=445, 1257.69875pt x 799.98875pt>
 File: ./figs/image.png Graphic file (type png)
 <use ./figs/image.png>
 Package pdftex.def Info: ./figs/image.png  used on input line 8.
@@ -2134,7 +2144,7 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
  <./figs/image.png>] (matter.mw)
 \openout4 = `matter.mw'.
 
-<./figs/database.png, id=418, 383.9946pt x 88.1694pt>
+<./figs/database.png, id=458, 383.9946pt x 88.1694pt>
 File: ./figs/database.png Graphic file (type png)
 <use ./figs/database.png>
 Package pdftex.def Info: ./figs/database.png  used on input line 25.
@@ -2160,23 +2170,22 @@ although it is yet undefined on input line 31.
 [8{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./figs/database.png (PNG copy)>] (matter.mw)
 \openout4 = `matter.mw'.
 
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ac' on input line 49.
-
-<./figs/ecg.jpg, id=442, 562.1pt x 421.575pt>
+<./figs/ecg.jpg, id=480, 562.1pt x 421.575pt>
 File: ./figs/ecg.jpg Graphic file (type jpg)
 <use ./figs/ecg.jpg>
-Package pdftex.def Info: ./figs/ecg.jpg  used on input line 69.
+Package pdftex.def Info: ./figs/ecg.jpg  used on input line 68.
 (pdftex.def)             Requested size: 193.47882pt x 145.10902pt.
-<./figs/normalized ecg.jpg, id=445, 562.1pt x 421.575pt>
+<./figs/normalized ecg.jpg, id=481, 562.1pt x 421.575pt>
 File: ./figs/normalized ecg.jpg Graphic file (type jpg)
 <use ./figs/normalized ecg.jpg>
-Package pdftex.def Info: ./figs/normalized ecg.jpg  used on input line 76.
+Package pdftex.def Info: ./figs/normalized ecg.jpg  used on input line 75.
 (pdftex.def)             Requested size: 193.47882pt x 145.10902pt.
 Package acronym Info: Label `acro:dwt' newly defined as it shall be overridden
-although it is yet undefined on input line 85.
+although it is yet undefined on input line 84.
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
 
 
 \openout4 = `matter.mw'.
@@ -2184,15 +2193,15 @@ although it is yet undefined on input line 85.
 [9{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc} <./figs/ecg.jpg> <./figs/normalized ecg.jpg>] (matter.mw)
 \openout4 = `matter.mw'.
 
-<./figs/wavelet_db4_db9.png, id=460, 424.7067pt x 173.2071pt>
+<./figs/wavelet_db4_db9.png, id=496, 424.7067pt x 173.2071pt>
 File: ./figs/wavelet_db4_db9.png Graphic file (type png)
 <use ./figs/wavelet_db4_db9.png>
-Package pdftex.def Info: ./figs/wavelet_db4_db9.png  used on input line 94.
+Package pdftex.def Info: ./figs/wavelet_db4_db9.png  used on input line 93.
 (pdftex.def)             Requested size: 308.69865pt x 125.90097pt.
-<./figs/wavelets 2.jpg, id=462, 562.1pt x 421.575pt>
+<./figs/wavelets 2.jpg, id=498, 562.1pt x 421.575pt>
 File: ./figs/wavelets 2.jpg Graphic file (type jpg)
 <use ./figs/wavelets 2.jpg>
-Package pdftex.def Info: ./figs/wavelets 2.jpg  used on input line 106.
+Package pdftex.def Info: ./figs/wavelets 2.jpg  used on input line 105.
 (pdftex.def)             Requested size: 352.80135pt x 264.60301pt.
 \openout4 = `matter.mw'.
 
@@ -2214,39 +2223,15 @@ Package pdftex.def Info: ./figs/wavelets 2.jpg  used on input line 106.
 \openout4 = `matter.mw'.
 
 Package acronym Info: Label `acro:tde' newly defined as it shall be overridden
-although it is yet undefined on input line 115.
+although it is yet undefined on input line 114.
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
 
-<./figs/entropy comparisons.jpg, id=479, 1371.1225pt x 645.41125pt>
+<./figs/entropy comparisons.jpg, id=514, 1371.1225pt x 645.41125pt>
 File: ./figs/entropy comparisons.jpg Graphic file (type jpg)
 <use ./figs/entropy comparisons.jpg>
-Package pdftex.def Info: ./figs/entropy comparisons.jpg  used on input line 125.
-(pdftex.def)             Requested size: 441.0pt x 207.58957pt.
-
-
-\openout4 = `matter.mw'.
-
-[11{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc} <./figs/entropy comparisons.jpg>] (matter.mw)
-\openout4 = `matter.mw'.
-
-<./figs/orig_part5.jpg, id=492, 1028.34187pt x 453.19313pt>
-File: ./figs/orig_part5.jpg Graphic file (type jpg)
-<use ./figs/orig_part5.jpg>
-Package pdftex.def Info: ./figs/orig_part5.jpg  used on input line 140.
-(pdftex.def)             Requested size: 441.0pt x 194.3506pt.
-<./figs/entropy_part5.jpg, id=493, 1028.34187pt x 453.19313pt>
-File: ./figs/entropy_part5.jpg Graphic file (type jpg)
-<use ./figs/entropy_part5.jpg>
-Package pdftex.def Info: ./figs/entropy_part5.jpg  used on input line 147.
-(pdftex.def)             Requested size: 441.0pt x 194.3506pt.
-Package acronym Info: Label `acro:iqr' newly defined as it shall be overridden
-although it is yet undefined on input line 155.
-<./figs/histogram.jpg, id=496, 1371.1225pt x 645.41125pt>
-File: ./figs/histogram.jpg Graphic file (type jpg)
-<use ./figs/histogram.jpg>
-Package pdftex.def Info: ./figs/histogram.jpg  used on input line 160.
+Package pdftex.def Info: ./figs/entropy comparisons.jpg  used on input line 124.
 (pdftex.def)             Requested size: 441.0pt x 207.58957pt.
 
 
@@ -2256,34 +2241,58 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout4 = `matter.mw'.
 
-[12 <./figs/orig_part5.jpg> <./figs/entropy_part5.jpg>] (matter.mw)
+[11{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}] (matter.mw)
 \openout4 = `matter.mw'.
 
-<./figs/normalized features.jpg, id=502, 1371.1225pt x 645.41125pt>
-File: ./figs/normalized features.jpg Graphic file (type jpg)
-<use ./figs/normalized features.jpg>
-Package pdftex.def Info: ./figs/normalized features.jpg  used on input line 171.
+<./figs/orig_part5.jpg, id=528, 1028.34187pt x 453.19313pt>
+File: ./figs/orig_part5.jpg Graphic file (type jpg)
+<use ./figs/orig_part5.jpg>
+Package pdftex.def Info: ./figs/orig_part5.jpg  used on input line 139.
+(pdftex.def)             Requested size: 441.0pt x 194.3506pt.
+<./figs/entropy_part5.jpg, id=529, 1028.34187pt x 453.19313pt>
+File: ./figs/entropy_part5.jpg Graphic file (type jpg)
+<use ./figs/entropy_part5.jpg>
+Package pdftex.def Info: ./figs/entropy_part5.jpg  used on input line 146.
+(pdftex.def)             Requested size: 441.0pt x 194.3506pt.
+Package acronym Info: Label `acro:iqr' newly defined as it shall be overridden
+although it is yet undefined on input line 154.
+<./figs/histogram.jpg, id=532, 1371.1225pt x 645.41125pt>
+File: ./figs/histogram.jpg Graphic file (type jpg)
+<use ./figs/histogram.jpg>
+Package pdftex.def Info: ./figs/histogram.jpg  used on input line 159.
 (pdftex.def)             Requested size: 441.0pt x 207.58957pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--201
-[][]
- []
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
 
+\openout4 = `matter.mw'.
+
+[12 <./figs/entropy comparisons.jpg>] (matter.mw)
+\openout4 = `matter.mw'.
+
+
+
+LaTeX Warning: Text page 13 contains only floats.
+
+
+
+\openout4 = `matter.mw'.
+
+[13 <./figs/orig_part5.jpg> <./figs/entropy_part5.jpg> <./figs/histogram.jpg>] (matter.mw)
+\openout4 = `matter.mw'.
+
+<./figs/normalized features.jpg, id=543, 1371.1225pt x 645.41125pt>
+File: ./figs/normalized features.jpg Graphic file (type jpg)
+<use ./figs/normalized features.jpg>
+Package pdftex.def Info: ./figs/normalized features.jpg  used on input line 170.
+(pdftex.def)             Requested size: 441.0pt x 207.58957pt.
 )
 
 \openout4 = `matter.mw'.
 
-[13 <./figs/histogram.jpg> <./figs/normalized features.jpg>] (matter.mw)
-\openout4 = `matter.mw'.
-
-
-
-\openout4 = `matter.mw'.
-
-[14] (matter.mw)
+[14 <./figs/normalized features.jpg>] (matter.mw)
 \openout4 = `matter.mw'.
 
 \openout2 = `chapters/chapter4.aux'.
@@ -2293,27 +2302,19 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 \openout4 = `matter.mw'.
 
-<./figs/cluster.jpg, id=517, 842.39719pt x 484.05844pt>
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+<./figs/cluster.jpg, id=555, 867.24pt x 484.05844pt>
 File: ./figs/cluster.jpg Graphic file (type jpg)
 <use ./figs/cluster.jpg>
-Package pdftex.def Info: ./figs/cluster.jpg  used on input line 12.
-(pdftex.def)             Requested size: 441.0pt x 253.41064pt.
+Package pdftex.def Info: ./figs/cluster.jpg  used on input line 18.
+(pdftex.def)             Requested size: 441.0pt x 246.15007pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figs/map80.jpg, id=519, 809.27344pt x 409.53pt>
-File: ./figs/map80.jpg Graphic file (type jpg)
-<use ./figs/map80.jpg>
-Package pdftex.def Info: ./figs/map80.jpg  used on input line 23.
-(pdftex.def)             Requested size: 441.0pt x 223.16754pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-Package acronym Info: Label `acro:anova' newly defined as it shall be overridden
-although it is yet undefined on input line 28.
-Package acronym Info: Label `acro:hsd' newly defined as it shall be overridden
-although it is yet undefined on input line 28.
 
 
 \openout4 = `matter.mw'.
@@ -2326,49 +2327,150 @@ although it is yet undefined on input line 28.
 ] (matter.mw)
 \openout4 = `matter.mw'.
 
-<./figs/multcompareR.jpg, id=528, 562.1pt x 421.575pt>
-File: ./figs/multcompareR.jpg Graphic file (type jpg)
-<use ./figs/multcompareR.jpg>
-Package pdftex.def Info: ./figs/multcompareR.jpg  used on input line 37.
-(pdftex.def)             Requested size: 211.67812pt x 158.75923pt.
-<./figs/multcompareS.jpg, id=529, 562.1pt x 421.575pt>
-File: ./figs/multcompareS.jpg Graphic file (type jpg)
-<use ./figs/multcompareS.jpg>
-Package pdftex.def Info: ./figs/multcompareS.jpg  used on input line 39.
-(pdftex.def)             Requested size: 211.67812pt x 158.75923pt.
-<./figs/multcompare4approx.jpg, id=530, 562.1pt x 421.575pt>
-File: ./figs/multcompare4approx.jpg Graphic file (type jpg)
-<use ./figs/multcompare4approx.jpg>
-Package pdftex.def Info: ./figs/multcompare4approx.jpg  used on input line 42.
-(pdftex.def)             Requested size: 211.67812pt x 158.75923pt.
-<./figs/multcompare4detail.jpg, id=531, 562.1pt x 421.575pt>
-File: ./figs/multcompare4detail.jpg Graphic file (type jpg)
-<use ./figs/multcompare4detail.jpg>
-Package pdftex.def Info: ./figs/multcompare4detail.jpg  used on input line 44.
-(pdftex.def)             Requested size: 211.67812pt x 158.75923pt.
-<./figs/multcompare9detail.jpg, id=532, 562.1pt x 421.575pt>
-File: ./figs/multcompare9detail.jpg Graphic file (type jpg)
-<use ./figs/multcompare9detail.jpg>
-Package pdftex.def Info: ./figs/multcompare9detail.jpg  used on input line 47.
-(pdftex.def)             Requested size: 211.67812pt x 158.75923pt.
+<./figs/map80.jpg, id=565, 811.53188pt x 406.51875pt>
+File: ./figs/map80.jpg Graphic file (type jpg)
+<use ./figs/map80.jpg>
+Package pdftex.def Info: ./figs/map80.jpg  used on input line 30.
+(pdftex.def)             Requested size: 441.0pt x 220.91252pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 
 \openout4 = `matter.mw'.
 
-[16 <./figs/cluster.jpg> <./figs/map80.jpg>] (matter.mw)
+[16 <./figs/cluster.jpg>] (matter.mw)
+\openout4 = `matter.mw'.
+
+Package acronym Info: Label `acro:hsd' newly defined as it shall be overridden
+although it is yet undefined on input line 39.
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+<./figs/ROffset Amp median_part2.jpg, id=577, 878.28125pt x 658.46pt>
+File: ./figs/ROffset Amp median_part2.jpg Graphic file (type jpg)
+<use ./figs/ROffset Amp median_part2.jpg>
+Package pdftex.def Info: ./figs/ROffset Amp median_part2.jpg  used on input line 50.
+(pdftex.def)             Requested size: 193.47882pt x 145.05254pt.
+<./figs/S Amp median_part2.jpg, id=578, 878.28125pt x 658.46pt>
+File: ./figs/S Amp median_part2.jpg Graphic file (type jpg)
+<use ./figs/S Amp median_part2.jpg>
+Package pdftex.def Info: ./figs/S Amp median_part2.jpg  used on input line 57.
+(pdftex.def)             Requested size: 193.47882pt x 145.05254pt.
+<./figs/Entropy db4 Approx_part2.jpg, id=579, 878.28125pt x 658.46pt>
+File: ./figs/Entropy db4 Approx_part2.jpg Graphic file (type jpg)
+<use ./figs/Entropy db4 Approx_part2.jpg>
+Package pdftex.def Info: ./figs/Entropy db4 Approx_part2.jpg  used on input line 69.
+(pdftex.def)             Requested size: 193.47882pt x 145.05254pt.
+<./figs/Entropy db9 Approx_part34.jpg, id=580, 878.28125pt x 658.46pt>
+File: ./figs/Entropy db9 Approx_part34.jpg Graphic file (type jpg)
+<use ./figs/Entropy db9 Approx_part34.jpg>
+Package pdftex.def Info: ./figs/Entropy db9 Approx_part34.jpg  used on input line 76.
+(pdftex.def)             Requested size: 193.47882pt x 145.05254pt.
+
+
+\openout4 = `matter.mw'.
+
+[17 <./figs/map80.jpg>] (matter.mw)
+\openout4 = `matter.mw'.
+
+<./figs/multcompareR.jpg, id=587, 562.1pt x 421.575pt>
+File: ./figs/multcompareR.jpg Graphic file (type jpg)
+<use ./figs/multcompareR.jpg>
+Package pdftex.def Info: ./figs/multcompareR.jpg  used on input line 93.
+(pdftex.def)             Requested size: 216.09242pt x 162.06564pt.
+<./figs/multcompareS.jpg, id=588, 562.1pt x 421.575pt>
+File: ./figs/multcompareS.jpg Graphic file (type jpg)
+<use ./figs/multcompareS.jpg>
+Package pdftex.def Info: ./figs/multcompareS.jpg  used on input line 95.
+(pdftex.def)             Requested size: 216.09242pt x 162.06564pt.
+<./figs/multcompare4approx.jpg, id=589, 562.1pt x 421.575pt>
+File: ./figs/multcompare4approx.jpg Graphic file (type jpg)
+<use ./figs/multcompare4approx.jpg>
+Package pdftex.def Info: ./figs/multcompare4approx.jpg  used on input line 98.
+(pdftex.def)             Requested size: 216.09242pt x 162.06564pt.
+<./figs/multcompare9approx.jpg, id=590, 562.1pt x 421.575pt>
+File: ./figs/multcompare9approx.jpg Graphic file (type jpg)
+<use ./figs/multcompare9approx.jpg>
+Package pdftex.def Info: ./figs/multcompare9approx.jpg  used on input line 100.
+(pdftex.def)             Requested size: 216.09242pt x 162.06564pt.
+
+
+\openout4 = `matter.mw'.
+
+[18 <./figs/ROffset Amp median_part2.jpg> <./figs/S Amp median_part2.jpg> <./figs/Entropy db4 Approx_part2.jpg> <./figs/Entropy db9 Approx_part34.jpg>] (matter.mw)
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+
+
+\openout4 = `matter.mw'.
+
+[19 <./figs/multcompareR.jpg> <./figs/multcompareS.jpg> <./figs/multcompare4approx.jpg> <./figs/multcompare9approx.jpg>] (matter.mw)
+\openout4 = `matter.mw'.
+
+Package acronym Info: Label `acro:tp' newly defined as it shall be overridden
+although it is yet undefined on input line 154.
+Package acronym Info: Label `acro:fp' newly defined as it shall be overridden
+although it is yet undefined on input line 155.
+Package acronym Info: Label `acro:tn' newly defined as it shall be overridden
+although it is yet undefined on input line 156.
+Package acronym Info: Label `acro:fn' newly defined as it shall be overridden
+although it is yet undefined on input line 157.
+<./figs/confusion test.jpg, id=618, 562.1pt x 421.575pt>
+File: ./figs/confusion test.jpg Graphic file (type jpg)
+<use ./figs/confusion test.jpg>
+Package pdftex.def Info: ./figs/confusion test.jpg  used on input line 162.
+(pdftex.def)             Requested size: 308.69865pt x 231.51959pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+
+
+\openout4 = `matter.mw'.
+
+[20] (matter.mw)
 \openout4 = `matter.mw'.
 
 )
 
 \openout4 = `matter.mw'.
 
-[17 <./figs/multcompareR.jpg> <./figs/multcompareS.jpg> <./figs/multcompare4approx.jpg> <./figs/multcompare4detail.jpg> <./figs/multcompare9detail.jpg>] (matter.mw)
+[21 <./figs/confusion test.jpg>] (matter.mw)
+\openout4 = `matter.mw'.
+
+\openout2 = `chapters/chapter5.aux'.
+
+ (chapters/chapter5.tex)
+
+\openout4 = `matter.mw'.
+
+[22
+
+
+
+
+] (matter.mw)
 \openout4 = `matter.mw'.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/9'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 406.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 407.
  (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -2377,12 +2479,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 406.
+(Font)              <9> on input line 407.
 
 
 \openout4 = `matter.mw'.
 
-[18
+[23
 
 
 
@@ -2394,7 +2496,14 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 \openout4 = `matter.mw'.
 
-[19] (matter.mw)
+[24] (matter.mw)
+\openout4 = `matter.mw'.
+
+
+
+\openout4 = `matter.mw'.
+
+[25] (matter.mw)
 \openout4 = `matter.mw'.
 
 \tf@toc=\write134
@@ -2612,6 +2721,55 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 \openout4 = `matter.mw'.
 
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+) (chapters/chapter5.aux
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
@@ -2855,11 +3013,16 @@ chapters/chapter3.tex
 chapters/chapter4.tex
 ./figs/cluster.jpg
 ./figs/map80.jpg
+./figs/ROffset Amp median_part2.jpg
+./figs/S Amp median_part2.jpg
+./figs/Entropy db4 Approx_part2.jpg
+./figs/Entropy db9 Approx_part34.jpg
 ./figs/multcompareR.jpg
 ./figs/multcompareS.jpg
 ./figs/multcompare4approx.jpg
-./figs/multcompare4detail.jpg
-./figs/multcompare9detail.jpg
+./figs/multcompare9approx.jpg
+./figs/confusion test.jpg
+chapters/chapter5.tex
   t1lmtt.fd    2015/05/01 v1.6.1 Font defs for Latin Modern
  ***********
 
@@ -2884,17 +3047,17 @@ Package logreq Info: Writing requests to 'matter.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49571 strings out of 473897
- 998396 string characters out of 5726461
- 2137983 words of memory out of 5000000
- 70841 multiletter control sequences out of 15000+600000
- 640029 words of font info for 207 fonts, out of 8000000 for 9000
+ 49853 strings out of 473897
+ 1004341 string characters out of 5726461
+ 2146974 words of memory out of 5000000
+ 70970 multiletter control sequences out of 15000+600000
+ 641167 words of font info for 219 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,17n,101p,1704b,2824s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,17n,101p,1704b,2834s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt9.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on matter.pdf (30 pages, 1973000 bytes).
+Output written on matter.pdf (37 pages, 2158634 bytes).
 PDF statistics:
- 753 PDF objects out of 1000 (max. 8388607)
- 142 named destinations out of 1000 (max. 500000)
- 43854 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 886 PDF objects out of 1000 (max. 8388607)
+ 174 named destinations out of 1000 (max. 500000)
+ 43898 words of extra memory for PDF output out of 51595 (max. 10000000)
 

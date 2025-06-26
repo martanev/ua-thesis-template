@@ -444,6 +444,9 @@ INPUT chapters\chapter3.aux
 INPUT .\chapters\chapter4.aux
 INPUT .\chapters\chapter4.aux
 INPUT chapters\chapter4.aux
+INPUT .\chapters\chapter5.aux
+INPUT .\chapters\chapter5.aux
+INPUT chapters\chapter5.aux
 OUTPUT matter.aux
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -608,6 +611,9 @@ INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\sym
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
 OUTPUT matter.mw
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
 INPUT .\matter.lof
@@ -823,6 +829,9 @@ INPUT .\figs\normalized ecg.jpg
 INPUT .\figs\normalized ecg.jpg
 INPUT .\figs\normalized ecg.jpg
 OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
@@ -886,15 +895,15 @@ INPUT .\figs\histogram.jpg
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
-INPUT .\figs\normalized features.jpg
-INPUT .\figs\normalized features.jpg
-INPUT .\figs\normalized features.jpg
-INPUT .\figs\normalized features.jpg
-INPUT .\figs\normalized features.jpg
-INPUT .\figs\normalized features.jpg
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
+INPUT .\figs\normalized features.jpg
+INPUT .\figs\normalized features.jpg
+INPUT .\figs\normalized features.jpg
+INPUT .\figs\normalized features.jpg
+INPUT .\figs\normalized features.jpg
+INPUT .\figs\normalized features.jpg
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
@@ -907,18 +916,54 @@ INPUT chapters\chapter4.tex
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
 INPUT .\figs\cluster.jpg
 INPUT .\figs\cluster.jpg
 INPUT .\figs\cluster.jpg
 INPUT .\figs\cluster.jpg
 INPUT .\figs\cluster.jpg
 INPUT .\figs\cluster.jpg
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
 INPUT .\figs\map80.jpg
 INPUT .\figs\map80.jpg
 INPUT .\figs\map80.jpg
 INPUT .\figs\map80.jpg
 INPUT .\figs\map80.jpg
 INPUT .\figs\map80.jpg
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+INPUT .\figs\ROffset Amp median_part2.jpg
+INPUT .\figs\ROffset Amp median_part2.jpg
+INPUT .\figs\ROffset Amp median_part2.jpg
+INPUT .\figs\ROffset Amp median_part2.jpg
+INPUT .\figs\ROffset Amp median_part2.jpg
+INPUT .\figs\ROffset Amp median_part2.jpg
+INPUT .\figs\S Amp median_part2.jpg
+INPUT .\figs\S Amp median_part2.jpg
+INPUT .\figs\S Amp median_part2.jpg
+INPUT .\figs\S Amp median_part2.jpg
+INPUT .\figs\S Amp median_part2.jpg
+INPUT .\figs\S Amp median_part2.jpg
+INPUT .\figs\Entropy db4 Approx_part2.jpg
+INPUT .\figs\Entropy db4 Approx_part2.jpg
+INPUT .\figs\Entropy db4 Approx_part2.jpg
+INPUT .\figs\Entropy db4 Approx_part2.jpg
+INPUT .\figs\Entropy db4 Approx_part2.jpg
+INPUT .\figs\Entropy db4 Approx_part2.jpg
+INPUT .\figs\Entropy db9 Approx_part34.jpg
+INPUT .\figs\Entropy db9 Approx_part34.jpg
+INPUT .\figs\Entropy db9 Approx_part34.jpg
+INPUT .\figs\Entropy db9 Approx_part34.jpg
+INPUT .\figs\Entropy db9 Approx_part34.jpg
+INPUT .\figs\Entropy db9 Approx_part34.jpg
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
@@ -940,21 +985,45 @@ INPUT .\figs\multcompare4approx.jpg
 INPUT .\figs\multcompare4approx.jpg
 INPUT .\figs\multcompare4approx.jpg
 INPUT .\figs\multcompare4approx.jpg
-INPUT .\figs\multcompare4detail.jpg
-INPUT .\figs\multcompare4detail.jpg
-INPUT .\figs\multcompare4detail.jpg
-INPUT .\figs\multcompare4detail.jpg
-INPUT .\figs\multcompare4detail.jpg
-INPUT .\figs\multcompare4detail.jpg
-INPUT .\figs\multcompare9detail.jpg
-INPUT .\figs\multcompare9detail.jpg
-INPUT .\figs\multcompare9detail.jpg
-INPUT .\figs\multcompare9detail.jpg
-INPUT .\figs\multcompare9detail.jpg
-INPUT .\figs\multcompare9detail.jpg
+INPUT .\figs\multcompare9approx.jpg
+INPUT .\figs\multcompare9approx.jpg
+INPUT .\figs\multcompare9approx.jpg
+INPUT .\figs\multcompare9approx.jpg
+INPUT .\figs\multcompare9approx.jpg
+INPUT .\figs\multcompare9approx.jpg
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+INPUT .\figs\confusion test.jpg
+INPUT .\figs\confusion test.jpg
+INPUT .\figs\confusion test.jpg
+INPUT .\figs\confusion test.jpg
+INPUT .\figs\confusion test.jpg
+INPUT .\figs\confusion test.jpg
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+INPUT .\chapters\chapter5.tex
+INPUT .\chapters\chapter5.tex
+OUTPUT chapters\chapter5.aux
+INPUT .\chapters\chapter5.tex
+INPUT .\chapters\chapter5.tex
+INPUT chapters\chapter5.tex
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
@@ -969,6 +1038,9 @@ INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi9.tfm
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy9.tfm
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
@@ -1144,6 +1216,45 @@ OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+OUTPUT matter.mw
+INPUT matter.mw
+OUTPUT matter.mw
+INPUT .\chapters\chapter5.aux
+INPUT .\chapters\chapter5.aux
+INPUT chapters\chapter5.aux
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
