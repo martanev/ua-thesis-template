@@ -10,7 +10,7 @@ d(x,y)=\sum_{i=1}^{n}\left| x_i-y_i \right|
 
 This clustering algorithm was applied to every possible pair of features, with the number of centroids set to $K=2$, using data from the second baseline and from the pain stimulation phase of the fifteen participants. It's important to mention that this analysis was firstly done with the first baseline but, comparing both options, the results were better using the second one, which may stem from the influence of the emotional stimuli in the pain felt by the participants.
 
-The result of clustering applied to two features -- the medians of the median of the S peak amplitude (x-axis) and of the median of the R offset amplitude (y-axis) -- is displayed in Figure \ref{fig:cluster} (right). In it, two clusters can be seen, as well as X's in the position of the clusters' centroids.
+The result of clustering applied to two features -- the medians of the median of the S peak amplitude (x-axis) and of the median of the R offset amplitude (y-axis) -- is displayed in Figure \ref{fig:cluster} (right). In it, the two clusters defined by the algorithm can be seen, as well as X's in the position of the clusters' centroids.
 For comparison, scattering graphics were plotted for each two features, as can be seen in Figure \ref{fig:cluster} (left). The incorrect matches made by the clustering algorithm are circled in black.
 
 \begin{figure}[h!]
@@ -30,7 +30,7 @@ Only the pairs of features where more than 80\% of the observations were correct
 \begin{figure}[h!]
     \centering
     \includegraphics[width=1.0\textwidth]{map80.jpg}
-    \caption{Network diagram of the pairs of features with more than 80\% accuracy of clustering.}
+    \caption{Network diagram of the pairs of features with more than 80\% correctly predicted observations.}
     \label{fig:map80}
 \end{figure}
 

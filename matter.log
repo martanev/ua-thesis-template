@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  26 JUN 2025 15:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  26 JUN 2025 15:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1480,7 +1480,19 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count562
 \@quotereset=\count563
-(matter.aux (glossary.aux) (chapters/chapter1.aux) (chapters/chapter2.aux) (chapters/chapter3.aux) (chapters/chapter4.aux) (chapters/chapter5.aux))
+(matter.aux (glossary.aux) (chapters/chapter1.aux) (chapters/chapter2.aux))
+Runaway argument?
+{5C3337365C3337375C303030505C303030615C303030695C3030306E5C3030305C30\ETC.
+c:/Users/Geral/Documents/GitHub/ua-thesis-template/matter.tex:249: File ended while scanning use of \BKM@entry.
+<inserted text> 
+                \par 
+l.249 \begin{document}
+                      
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
 \openout1 = `matter.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 249.
@@ -1501,7 +1513,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 249.
 LaTeX Font Info:    ... okay on input line 249.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 249.
 LaTeX Font Info:    ... okay on input line 249.
- (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+(C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count564
 \scratchdimen=\dimen358
@@ -1905,13 +1917,22 @@ Package microtype Info: Character `029' is missing
 
 \openout4 = `matter.mw'.
 
-\openout4 = `matter.mw'.
+
+LaTeX Warning: Citation 'Dirk2021' on page 1 undefined on input line 10.
 
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
 
+
+LaTeX Warning: Citation 'Coninx2021' on page 1 undefined on input line 10.
+
 \openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'Nugent2021' on page 1 undefined on input line 12.
 
 Package acronym Info: Label `acro:nps' newly defined as it shall be overridden
 although it is yet undefined on input line 12.
@@ -1921,9 +1942,15 @@ although it is yet undefined on input line 12.
 
 \openout4 = `matter.mw'.
 
+
+LaTeX Warning: Citation 'Bielewicz2022' on page 1 undefined on input line 12.
+
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'Qin2022' on page 1 undefined on input line 12.
 
 Package acronym Info: Label `acro:ans' newly defined as it shall be overridden
 although it is yet undefined on input line 16.
@@ -1959,39 +1986,67 @@ Package marginnote Info: Using workaround for absolute page number on input line
 
 \openout4 = `matter.mw'.
 
+
+
+LaTeX Warning: Citation 'Fang2025' on page 3 undefined on input line 8.
+
 Package acronym Info: Label `acro:cns' newly defined as it shall be overridden
 although it is yet undefined on input line 8.
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
 
-\openout4 = `matter.mw'.
+
+LaTeX Warning: Citation 'Moscato2022' on page 3 undefined on input line 8.
 
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
 
-\openout4 = `matter.mw'.
+
+LaTeX Warning: Citation 'Jayakar2021' on page 3 undefined on input line 10.
 
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
 
-\openout4 = `matter.mw'.
+
+LaTeX Warning: Citation 'Raman2022' on page 3 undefined on input line 10.
 
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
 
-\openout4 = `matter.mw'.
+
+LaTeX Warning: Citation 'Fitzcharles2021' on page 3 undefined on input line 10.
 
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
 
+
+LaTeX Warning: Citation 'Nugent2021' on page 3 undefined on input line 12.
+
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'Adeboye2021' on page 3 undefined on input line 12.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'Bielewicz2022' on page 3 undefined on input line 14.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'Alves2024' on page 3 undefined on input line 14.
 
 
 
@@ -2009,27 +2064,46 @@ although it is yet undefined on input line 8.
 
 \openout4 = `matter.mw'.
 
-\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'Adeboye2021' on page 4 undefined on input line 16.
 
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
 
-\openout4 = `matter.mw'.
+
+LaTeX Warning: Citation 'Robinson2024' on page 4 undefined on input line 16.
 
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
 
-\openout4 = `matter.mw'.
+
+LaTeX Warning: Citation 'Rojas2023' on page 4 undefined on input line 21.
 
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
 
+
+LaTeX Warning: Citation 'Liu2022' on page 4 undefined on input line 32.
+
 \openout4 = `matter.mw'.
 
-<./figs/esquema ECG.png, id=380, 531.48563pt x 348.55219pt>
+\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'hampton2024ecg' on page 4 undefined on input line 34.
+
+\openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'Zhang2024' on page 4 undefined on input line 34.
+
+<./figs/esquema ECG.png, id=309, 531.48563pt x 348.55219pt>
 File: ./figs/esquema ECG.png Graphic file (type png)
 <use ./figs/esquema ECG.png>
 Package pdftex.def Info: ./figs/esquema ECG.png  used on input line 38.
@@ -2038,10 +2112,15 @@ Package pdftex.def Info: ./figs/esquema ECG.png  used on input line 38.
 
 \openout4 = `matter.mw'.
 
-\openout4 = `matter.mw'.
+
+LaTeX Warning: Citation 'Dogan2023' on page 4 undefined on input line 39.
 
 \openout4 = `matter.mw'.
 
+\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'Dogan2023' on page 4 undefined on input line 39.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -2063,13 +2142,23 @@ although it is yet undefined on input line 48.
 
 \openout4 = `matter.mw'.
 
-\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'Moscato2022' on page 5 undefined on input line 48.
 
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
 
+
+LaTeX Warning: Citation 'Pais2025' on page 5 undefined on input line 48.
+
 \openout4 = `matter.mw'.
+
+\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'Pavlidou2025' on page 5 undefined on input line 50.
 
 Package acronym Info: Label `acro:gsr' newly defined as it shall be overridden
 although it is yet undefined on input line 50.
@@ -2082,6 +2171,9 @@ although it is yet undefined on input line 50.
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'Silva2023' on page 5 undefined on input line 52.
 
 Package acronym Info: Label `acro:cpt' newly defined as it shall be overridden
 although it is yet undefined on input line 52.
@@ -2100,6 +2192,10 @@ although it is yet undefined on input line 52.
 
 \openout4 = `matter.mw'.
 
+
+
+LaTeX Warning: Citation 'Balasubramani2025' on page 6 undefined on input line 54.
+
 )
 
 \openout4 = `matter.mw'.
@@ -2110,7 +2206,10 @@ although it is yet undefined on input line 52.
 \openout2 = `chapters/chapter3.aux'.
 
  (chapters/chapter3.tex
-<./figs/image.png, id=443, 1257.69875pt x 799.98875pt>
+
+LaTeX Warning: Reference `fig:image' on page 7 undefined on input line 4.
+
+<./figs/image.png, id=355, 1257.69875pt x 799.98875pt>
 File: ./figs/image.png Graphic file (type png)
 <use ./figs/image.png>
 Package pdftex.def Info: ./figs/image.png  used on input line 8.
@@ -2119,10 +2218,17 @@ Package pdftex.def Info: ./figs/image.png  used on input line 8.
 
 \openout4 = `matter.mw'.
 
+
+LaTeX Warning: Citation 'Alves2024' on page 7 undefined on input line 14.
+
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 18.
- (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+(C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
+
+LaTeX Warning: Reference `fig:database' on page 7 undefined on input line 20.
+
+
 
 \openout4 = `matter.mw'.
 
@@ -2134,7 +2240,7 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
  <./figs/image.png>] (matter.mw)
 \openout4 = `matter.mw'.
 
-<./figs/database.png, id=456, 383.9946pt x 88.1694pt>
+<./figs/database.png, id=366, 383.9946pt x 88.1694pt>
 File: ./figs/database.png Graphic file (type png)
 <use ./figs/database.png>
 Package pdftex.def Info: ./figs/database.png  used on input line 25.
@@ -2143,9 +2249,16 @@ Package pdftex.def Info: ./figs/database.png  used on input line 25.
 
 \openout4 = `matter.mw'.
 
+
+
+LaTeX Warning: Citation 'Alves2024' on page 8 undefined on input line 26.
+
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'Alves2024' on page 8 undefined on input line 26.
 
 Package acronym Info: Label `acro:hr' newly defined as it shall be overridden
 although it is yet undefined on input line 31.
@@ -2154,18 +2267,28 @@ although it is yet undefined on input line 31.
 \openout4 = `matter.mw'.
 
 
+LaTeX Warning: Citation 'Alves2024' on page 8 undefined on input line 39.
+
+
 
 \openout4 = `matter.mw'.
 
 [8{C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./figs/database.png (PNG copy)>] (matter.mw)
 \openout4 = `matter.mw'.
 
-<./figs/ecg.jpg, id=478, 562.1pt x 421.575pt>
+
+
+LaTeX Warning: Reference `fig:ecg' on page 9 undefined on input line 49.
+
+
+LaTeX Warning: Reference `eq:1' on page 9 undefined on input line 50.
+
+<./figs/ecg.jpg, id=385, 562.1pt x 421.575pt>
 File: ./figs/ecg.jpg Graphic file (type jpg)
 <use ./figs/ecg.jpg>
 Package pdftex.def Info: ./figs/ecg.jpg  used on input line 68.
 (pdftex.def)             Requested size: 193.47882pt x 145.10902pt.
-<./figs/normalized ecg.jpg, id=479, 562.1pt x 421.575pt>
+<./figs/normalized ecg.jpg, id=386, 562.1pt x 421.575pt>
 File: ./figs/normalized ecg.jpg Graphic file (type jpg)
 <use ./figs/normalized ecg.jpg>
 Package pdftex.def Info: ./figs/normalized ecg.jpg  used on input line 75.
@@ -2176,9 +2299,11 @@ although it is yet undefined on input line 84.
 
 \openout4 = `matter.mw'.
 
+
+LaTeX Warning: Citation 'Osadchiy2021' on page 9 undefined on input line 86.
+
 Package acronym Info: Label `acro:{ecg}' newly defined as it shall be overridden
 although it is yet undefined on input line 88.
-
 
 Package acronym Warning: Acronym `{ecg}' is not defined on input line 88.
 
@@ -5729,16 +5854,31 @@ my insertion and my current dilemma will both disappear.
 
 \openout4 = `matter.mw'.
 
-\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'Ikotun2023' on page 11 undefined on input line 5.
+
+
+LaTeX Warning: Reference `eq:3' on page 11 undefined on input line 5.
 
 \openout4 = `matter.mw'.
 
-<./figs/cluster.jpg, id=514, 867.24pt x 484.05844pt>
+\openout4 = `matter.mw'.
+
+
+LaTeX Warning: Citation 'Ricken2023' on page 11 undefined on input line 5.
+
+
+LaTeX Warning: Reference `fig:cluster' on page 11 undefined on input line 13.
+
+
+LaTeX Warning: Reference `fig:cluster' on page 11 undefined on input line 14.
+
+<./figs/cluster.jpg, id=403, 867.24pt x 484.05844pt>
 File: ./figs/cluster.jpg Graphic file (type jpg)
 <use ./figs/cluster.jpg>
 Package pdftex.def Info: ./figs/cluster.jpg  used on input line 18.
 (pdftex.def)             Requested size: 441.0pt x 246.15007pt.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -5754,6 +5894,9 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 {C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}] (matter.mw)
 \openout4 = `matter.mw'.
 
+
+
+LaTeX Warning: Reference `fig:map80' on page 12 undefined on input line 24.
 
 
 Package acronym Warning: Acronym `{ecg}' is not defined on input line 24.
@@ -6457,19 +6600,19 @@ two letters. (See Chapter 27 of The TeXbook.)
 
 \openout4 = `matter.mw'.
 
-chapters/chapter4.tex:50: Missing number, treated as zero.
+chapters/chapter4.tex:51: Missing number, treated as zero.
 <to be read again> 
                    }
-l.50     \begin{minipage}{0.49\textwidth}
+l.51     \begin{minipage}{0.49\textwidth}
                                          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-chapters/chapter4.tex:50: Illegal unit of measure (pt inserted).
+chapters/chapter4.tex:51: Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.50     \begin{minipage}{0.49\textwidth}
+l.51     \begin{minipage}{0.49\textwidth}
                                          
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -6478,10 +6621,10 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-chapters/chapter4.tex:52: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:53: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6492,19 +6635,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@sepdefault \filename@ext }
-chapters/chapter4.tex:52: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:53: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:52: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:53: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6515,19 +6658,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:52: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:53: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:52: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:53: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6538,19 +6681,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:52: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:53: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:52: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:53: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6561,19 +6704,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:52: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:53: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:52: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:53: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6584,19 +6727,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:52: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:53: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:52: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:53: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6607,19 +6750,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:52: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:53: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:52: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:53: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6630,19 +6773,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:52: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:53: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:52: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:53: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6653,19 +6796,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:52: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:53: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:52: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:53: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6676,19 +6819,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:52: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:53: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:52: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:53: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6699,19 +6842,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:52: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:53: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:52: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:53: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6722,19 +6865,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:52: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:53: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:52: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:53: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6745,19 +6888,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:52: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:53: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:52: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:53: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6768,19 +6911,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:52: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:53: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:52: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:53: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6791,19 +6934,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:52: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:53: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:52: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:53: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6814,27 +6957,27 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:52: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:53: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:52: Missing $ inserted.
+chapters/chapter4.tex:53: Missing $ inserted.
 <inserted text> 
                 $
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-chapters/chapter4.tex:52: Extra }, or forgotten $.
+chapters/chapter4.tex:53: Extra }, or forgotten $.
 \@warning ...@spaces \@spaces }{LaTeX Warning: #1}
                                                   
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6842,19 +6985,19 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-chapters/chapter4.tex:52: Missing number, treated as zero.
+chapters/chapter4.tex:53: Missing number, treated as zero.
 <to be read again> 
                    {
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-chapters/chapter4.tex:52: Illegal unit of measure (pt inserted).
+chapters/chapter4.tex:53: Illegal unit of measure (pt inserted).
 <to be read again> 
                    {
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -6863,10 +7006,10 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-chapters/chapter4.tex:52: Missing $ inserted.
+chapters/chapter4.tex:53: Missing $ inserted.
 <inserted text> 
                 $
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -6874,10 +7017,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-chapters/chapter4.tex:52: Missing } inserted.
+chapters/chapter4.tex:53: Missing } inserted.
 <inserted text> 
                 }
-l.52 ...width=6.8cm]{ROffset Amp median_part2.jpg}
+l.53 ...width=6.8cm]{ROffset Amp median_part2.jpg}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -6885,19 +7028,19 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-chapters/chapter4.tex:57: Missing number, treated as zero.
+chapters/chapter4.tex:58: Missing number, treated as zero.
 <to be read again> 
                    }
-l.57     \begin{minipage}{0.49\textwidth}
+l.58     \begin{minipage}{0.49\textwidth}
                                          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-chapters/chapter4.tex:57: Illegal unit of measure (pt inserted).
+chapters/chapter4.tex:58: Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.57     \begin{minipage}{0.49\textwidth}
+l.58     \begin{minipage}{0.49\textwidth}
                                          
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -6906,10 +7049,10 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-chapters/chapter4.tex:59: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:60: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6920,19 +7063,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@sepdefault \filename@ext }
-chapters/chapter4.tex:59: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:60: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:59: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:60: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6943,19 +7086,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:59: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:60: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:59: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:60: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6966,19 +7109,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:59: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:60: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:59: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:60: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -6989,19 +7132,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:59: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:60: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:59: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:60: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7012,19 +7155,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:59: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:60: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:59: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:60: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7035,19 +7178,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:59: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:60: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:59: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:60: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7058,19 +7201,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:59: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:60: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:59: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:60: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7081,19 +7224,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:59: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:60: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:59: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:60: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7104,19 +7247,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:59: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:60: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:59: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:60: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7127,19 +7270,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:59: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:60: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:59: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:60: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7150,19 +7293,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:59: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:60: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:59: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:60: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7173,19 +7316,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:59: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:60: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:59: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:60: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7196,19 +7339,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:59: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:60: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:59: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:60: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7219,19 +7362,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:59: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:60: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:59: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:60: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7242,27 +7385,27 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:59: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:60: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:59: Missing $ inserted.
+chapters/chapter4.tex:60: Missing $ inserted.
 <inserted text> 
                 $
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-chapters/chapter4.tex:59: Extra }, or forgotten $.
+chapters/chapter4.tex:60: Extra }, or forgotten $.
 \@warning ...@spaces \@spaces }{LaTeX Warning: #1}
                                                   
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -7270,19 +7413,19 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-chapters/chapter4.tex:59: Missing number, treated as zero.
+chapters/chapter4.tex:60: Missing number, treated as zero.
 <to be read again> 
                    {
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-chapters/chapter4.tex:59: Illegal unit of measure (pt inserted).
+chapters/chapter4.tex:60: Illegal unit of measure (pt inserted).
 <to be read again> 
                    {
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -7291,10 +7434,10 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-chapters/chapter4.tex:59: Missing $ inserted.
+chapters/chapter4.tex:60: Missing $ inserted.
 <inserted text> 
                 $
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -7302,10 +7445,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-chapters/chapter4.tex:59: Missing } inserted.
+chapters/chapter4.tex:60: Missing } inserted.
 <inserted text> 
                 }
-l.59 ...phics[width=6.8cm]{S Amp median_part2.jpg}
+l.60 ...phics[width=6.8cm]{S Amp median_part2.jpg}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -7313,19 +7456,19 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-chapters/chapter4.tex:69: Missing number, treated as zero.
+chapters/chapter4.tex:70: Missing number, treated as zero.
 <to be read again> 
                    }
-l.69     \begin{minipage}{0.49\textwidth}
+l.70     \begin{minipage}{0.49\textwidth}
                                          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-chapters/chapter4.tex:69: Illegal unit of measure (pt inserted).
+chapters/chapter4.tex:70: Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.69     \begin{minipage}{0.49\textwidth}
+l.70     \begin{minipage}{0.49\textwidth}
                                          
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -7334,10 +7477,10 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-chapters/chapter4.tex:71: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:72: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7348,19 +7491,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@sepdefault \filename@ext }
-chapters/chapter4.tex:71: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:72: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:71: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:72: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7371,19 +7514,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:71: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:72: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:71: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:72: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7394,19 +7537,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:71: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:72: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:71: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:72: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7417,19 +7560,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:71: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:72: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:71: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:72: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7440,19 +7583,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:71: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:72: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:71: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:72: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7463,19 +7606,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:71: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:72: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:71: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:72: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7486,19 +7629,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:71: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:72: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:71: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:72: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7509,19 +7652,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:71: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:72: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:71: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:72: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7532,19 +7675,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:71: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:72: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:71: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:72: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7555,19 +7698,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:71: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:72: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:71: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:72: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7578,19 +7721,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:71: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:72: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:71: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:72: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7601,19 +7744,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:71: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:72: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:71: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:72: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7624,19 +7767,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:71: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:72: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:71: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:72: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7647,19 +7790,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:71: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:72: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:71: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:72: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7670,27 +7813,27 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:71: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:72: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:71: Missing $ inserted.
+chapters/chapter4.tex:72: Missing $ inserted.
 <inserted text> 
                 $
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-chapters/chapter4.tex:71: Extra }, or forgotten $.
+chapters/chapter4.tex:72: Extra }, or forgotten $.
 \@warning ...@spaces \@spaces }{LaTeX Warning: #1}
                                                   
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -7698,19 +7841,19 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-chapters/chapter4.tex:71: Missing number, treated as zero.
+chapters/chapter4.tex:72: Missing number, treated as zero.
 <to be read again> 
                    {
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-chapters/chapter4.tex:71: Illegal unit of measure (pt inserted).
+chapters/chapter4.tex:72: Illegal unit of measure (pt inserted).
 <to be read again> 
                    {
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -7719,10 +7862,10 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-chapters/chapter4.tex:71: Missing $ inserted.
+chapters/chapter4.tex:72: Missing $ inserted.
 <inserted text> 
                 $
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -7730,10 +7873,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-chapters/chapter4.tex:71: Missing } inserted.
+chapters/chapter4.tex:72: Missing } inserted.
 <inserted text> 
                 }
-l.71 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
+l.72 ...width=6.8cm]{Entropy db4 Approx_part2.jpg}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -7741,19 +7884,19 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-chapters/chapter4.tex:76: Missing number, treated as zero.
+chapters/chapter4.tex:77: Missing number, treated as zero.
 <to be read again> 
                    }
-l.76     \begin{minipage}{0.49\textwidth}
+l.77     \begin{minipage}{0.49\textwidth}
                                          
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-chapters/chapter4.tex:76: Illegal unit of measure (pt inserted).
+chapters/chapter4.tex:77: Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.76     \begin{minipage}{0.49\textwidth}
+l.77     \begin{minipage}{0.49\textwidth}
                                          
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -7762,10 +7905,10 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-chapters/chapter4.tex:78: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:79: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7776,19 +7919,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@sepdefault \filename@ext }
-chapters/chapter4.tex:78: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:79: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:78: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:79: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7799,19 +7942,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:78: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:79: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:78: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:79: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7822,19 +7965,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:78: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:79: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:78: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:79: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7845,19 +7988,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:78: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:79: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:78: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:79: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7868,19 +8011,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:78: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:79: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:78: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:79: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7891,19 +8034,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:78: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:79: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:78: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:79: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7914,19 +8057,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:78: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:79: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:78: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:79: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7937,19 +8080,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:78: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:79: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:78: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:79: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7960,19 +8103,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:78: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:79: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:78: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:79: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -7983,19 +8126,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:78: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:79: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:78: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:79: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -8006,19 +8149,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:78: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:79: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:78: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:79: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -8029,19 +8172,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:78: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:79: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:78: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:79: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -8052,19 +8195,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:78: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:79: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:78: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:79: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -8075,19 +8218,19 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:78: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:79: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:78: Argument of \@tempa has an extra }.
+chapters/chapter4.tex:79: Argument of \@tempa has an extra }.
 <inserted text> 
                 \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -8098,13 +8241,24 @@ your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
 chapters/chapter4.tex \edef \Gin@ext {\Gin@temp }
-chapters/chapter4.tex:78: Paragraph ended before \@tempa was complete.
+chapters/chapter4.tex:79: Paragraph ended before \@tempa was complete.
 <to be read again> 
                    \par 
-l.78 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-chapters/chapter4.tex:78: Missing $ in
+chapters/chapter4.tex:79: Missing $ inserted.
+<inserted text> 
+                $
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+chapters/chapter4.tex:79: Extra }, or forgotten $.
+\@warning ...@spaces \@spaces }{LaTeX Warning: #1}
+                                                  
+l.79 ...idth=6.8cm]{Entropy db9 Approx_
