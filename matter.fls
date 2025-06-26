@@ -1111,9 +1111,6 @@ OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
-OUTPUT matter.mw
-INPUT matter.mw
-OUTPUT matter.mw
 INPUT .\chapters\chapter2.aux
 INPUT .\chapters\chapter2.aux
 INPUT chapters\chapter2.aux

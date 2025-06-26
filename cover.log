@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  24 JUN 2025 12:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  26 JUN 2025 14:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -97,13 +97,33 @@ Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 ) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+\c@blindtext=\count274
+\c@Blindtext=\count275
+\c@blind@countparstart=\count276
+\blind@countxx=\count277
+\blindtext@numBlindtext=\count278
+\blind@countyy=\count279
+\c@blindlist=\count280
+\c@blindlistlevel=\count281
+\c@blindlist@level=\count282
+\blind@listitem=\count283
+\c@blind@listcount=\count284
+\c@blind@levelcount=\count285
+\blind@mathformula=\count286
+\blind@Mathformula=\count287
+\c@blind@randomcount=\count288
+\c@blind@randommax=\count289
+\c@blind@pangramcount=\count290
+\c@blind@pangrammax=\count291
 )
 LaTeX Font Info:    Trying to load font information for T1+phv on input line 238.
  (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 ) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count274
+\l__color_backend_stack_int=\count292
 \l__pdf_internal_box=\box52
 ) (cover.aux)
 \openout1 = `cover.aux'.
@@ -124,16 +144,16 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 238.
 LaTeX Font Info:    ... okay on input line 238.
  (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count275
+\scratchcounter=\count293
 \scratchdimen=\dimen145
 \scratchbox=\box53
-\nofMPsegments=\count276
-\nofMParguments=\count277
+\nofMPsegments=\count294
+\nofMParguments=\count295
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count278
+\MPscratchCnt=\count296
 \MPscratchDim=\dimen146
-\MPnumerator=\count279
-\makeMPintoPDFobject=\count280
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
 \everyMPtoPDFconversion=\toks21
 ) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -189,10 +209,10 @@ L3 programming layer <2024-10-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3425 strings out of 473897
- 57317 string characters out of 5726461
- 456619 words of memory out of 5000000
- 26266 multiletter control sequences out of 15000+600000
+ 3587 strings out of 473897
+ 60092 string characters out of 5726461
+ 468057 words of memory out of 5000000
+ 26424 multiletter control sequences out of 15000+600000
  584562 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,7n,79p,833b,398s stack positions out of 10000i,1000n,20000p,200000b,200000s
