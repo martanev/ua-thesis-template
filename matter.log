@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  26 JUN 2025 15:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  26 JUN 2025 16:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1482,7 +1482,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 \@quotereset=\count563
 (matter.aux (glossary.aux) (chapters/chapter1.aux) (chapters/chapter2.aux))
 Runaway argument?
-{5C3337365C3337375C303030505C303030615C303030695C3030306E5C3030305C30\ETC.
+{5C3337365C3337375C 
 c:/Users/Geral/Documents/GitHub/ua-thesis-template/matter.tex:249: File ended while scanning use of \BKM@entry.
 <inserted text> 
                 \par 
@@ -1821,46 +1821,9 @@ No file matter.toc.
 {C:/Users/Geral/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}] (matter.mw)
 \openout4 = `matter.mw'.
 
- (matter.lof
-Package acronym Info: Label `acro:ecg' newly defined as it shall be overridden
-although it is yet undefined on input line 6.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6.
- (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 6.
- (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 6.
- (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 6.
- (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 6.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 6.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 6.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
- (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
- (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-Package acronym Info: Label `acro:anova' newly defined as it shall be overridden
-although it is yet undefined on input line 25.
-)
+
+No file matter.lof.
+
 
 \openout4 = `matter.mw'.
 
@@ -1896,13 +1859,40 @@ No file matter.lot.
 \openout2 = `chapters/chapter1.aux'.
 
  (chapters/chapter1.tex
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 6.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 6.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 6.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 6.
-
+LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
+ (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
 Overfull \hbox (17.0pt too wide) in paragraph at lines 4--6
 []$[]$ 
  []
@@ -2078,6 +2068,8 @@ LaTeX Warning: Citation 'Robinson2024' on page 4 undefined on input line 16.
 
 LaTeX Warning: Citation 'Rojas2023' on page 4 undefined on input line 21.
 
+Package acronym Info: Label `acro:ecg' newly defined as it shall be overridden
+although it is yet undefined on input line 30.
 \openout4 = `matter.mw'.
 
 \openout4 = `matter.mw'.
@@ -2099,7 +2091,7 @@ LaTeX Warning: Citation 'hampton2024ecg' on page 4 undefined on input line 34.
 
 LaTeX Warning: Citation 'Zhang2024' on page 4 undefined on input line 34.
 
-<./figs/esquema ECG.png, id=260, 531.48563pt x 348.55219pt>
+<./figs/esquema ECG.png, id=212, 531.48563pt x 348.55219pt>
 File: ./figs/esquema ECG.png Graphic file (type png)
 <use ./figs/esquema ECG.png>
 Package pdftex.def Info: ./figs/esquema ECG.png  used on input line 38.
@@ -2205,7 +2197,7 @@ LaTeX Warning: Citation 'Balasubramani2025' on page 6 undefined on input line 54
 
 LaTeX Warning: Reference `fig:image' on page 7 undefined on input line 4.
 
-<./figs/image.png, id=309, 1257.69875pt x 799.98875pt>
+<./figs/image.png, id=262, 1257.69875pt x 799.98875pt>
 File: ./figs/image.png Graphic file (type png)
 <use ./figs/image.png>
 Package pdftex.def Info: ./figs/image.png  used on input line 8.
@@ -2236,7 +2228,7 @@ LaTeX Warning: Reference `fig:database' on page 7 undefined on input line 20.
  <./figs/image.png>] (matter.mw)
 \openout4 = `matter.mw'.
 
-<./figs/database.png, id=321, 383.9946pt x 88.1694pt>
+<./figs/database.png, id=275, 383.9946pt x 88.1694pt>
 File: ./figs/database.png Graphic file (type png)
 <use ./figs/database.png>
 Package pdftex.def Info: ./figs/database.png  used on input line 25.
@@ -2279,12 +2271,12 @@ LaTeX Warning: Reference `fig:ecg' on page 9 undefined on input line 49.
 
 LaTeX Warning: Reference `eq:1' on page 9 undefined on input line 50.
 
-<./figs/ecg.jpg, id=342, 562.1pt x 421.575pt>
+<./figs/ecg.jpg, id=297, 562.1pt x 421.575pt>
 File: ./figs/ecg.jpg Graphic file (type jpg)
 <use ./figs/ecg.jpg>
 Package pdftex.def Info: ./figs/ecg.jpg  used on input line 68.
 (pdftex.def)             Requested size: 193.47882pt x 145.10902pt.
-<./figs/normalized ecg.jpg, id=343, 562.1pt x 421.575pt>
+<./figs/normalized ecg.jpg, id=298, 562.1pt x 421.575pt>
 File: ./figs/normalized ecg.jpg Graphic file (type jpg)
 <use ./figs/normalized ecg.jpg>
 Package pdftex.def Info: ./figs/normalized ecg.jpg  used on input line 75.
@@ -5870,7 +5862,7 @@ LaTeX Warning: Reference `fig:cluster' on page 11 undefined on input line 13.
 
 LaTeX Warning: Reference `fig:cluster' on page 11 undefined on input line 14.
 
-<./figs/cluster.jpg, id=361, 867.24pt x 484.05844pt>
+<./figs/cluster.jpg, id=317, 867.24pt x 484.05844pt>
 File: ./figs/cluster.jpg Graphic file (type jpg)
 <use ./figs/cluster.jpg>
 Package pdftex.def Info: ./figs/cluster.jpg  used on input line 18.
@@ -8260,4 +8252,15 @@ chapters/chapter4.tex:79: Extra }, or forgotten $.
 l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 I've deleted a group-closing symbol because it seems to be
-spuriou
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+chapters/chapter4.tex:79: Missing number, treated as zero.
+<to be read again> 
+                   {
+l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can'

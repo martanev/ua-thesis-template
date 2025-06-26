@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber matter"] 1750949404.71091 "matter.bcf" "matter.bbl" "matter" 1750950099.35994 2
-  "matter.bcf" 1750949664 0 d41d8cd98f00b204e9800998ecf8427e ""
+["biber matter"] 0 "matter.bcf" "matter.bbl" "matter" 0 -1
+  "matter.bcf" 0 -1 0 ""
   (generated)
   "matter.bbl"
   "matter.blg"
   (rewritten before read)
-["makeindex lines.idx"] 1750900807.05566 "lines.idx" "lines.ind" "lines" 1750950099.40361 0
-  "lines.idx" 1750949664 0 d41d8cd98f00b204e9800998ecf8427e ""
+["makeindex lines.idx"] 0 "lines.idx" "lines.ind" "lines" 0 -1
+  "lines.idx" 0 -1 0 ""
   (generated)
   "lines.ilg"
   "lines.ind"
   (rewritten before read)
-["pdflatex"] 1750949423.06011 "c:/Users/Geral/Documents/GitHub/ua-thesis-template/matter.tex" "matter.pdf" "matter" 1750950099.36117 2
+["pdflatex"] 1750950501.73924 "c:/Users/Geral/Documents/GitHub/ua-thesis-template/matter.tex" "matter.pdf" "matter" 1750950586.53828 2
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1729407284 143218 a1f6830fd32485e0d151ed0d1d8a438e ""
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/en/babel-english.tex" 1729407286 336 ed676b5e7dfd862bc78d634f6a973f37 ""
@@ -236,10 +236,10 @@
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1695383086 20785 f7d1133a287929598a897c93f8f4c44b ""
   "C:/Users/Geral/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-savepos.sty" 1695383086 3611 780ba3c0645b9c6ffca0e5cd73ef2bfd ""
-  "c:/Users/Geral/Documents/GitHub/ua-thesis-template/matter.tex" 1750949658 11578 d5354bde7ea87d0a7091aac9ad76a9af ""
-  "chapters/chapter1.aux" 1750949666 6416 2d868aa5c6571be01cdb9836f9c84bf7 "pdflatex"
+  "c:/Users/Geral/Documents/GitHub/ua-thesis-template/matter.tex" 1750950499 11578 d5354bde7ea87d0a7091aac9ad76a9af ""
+  "chapters/chapter1.aux" 1750950507 6414 b15e966b91b4116d154bd3a33e7f490c "pdflatex"
   "chapters/chapter1.tex" 1750943358 2844 b9a89acc1ad78fafb234c88d72374b18 ""
-  "chapters/chapter2.aux" 1750949666 8126 7980a9762d1aa36bc8e26c71e7b47308 "pdflatex"
+  "chapters/chapter2.aux" 1750950508 8219 39f4cd3608a819896c51b1299a663476 "pdflatex"
   "chapters/chapter2.tex" 1750841412 9365 ffb8ea57594e819773f03a9c8d3dee65 ""
   "chapters/chapter3.tex" 1750945656 14960 ca2b351181fe0bd4afb06232db82bab6 ""
   "chapters/chapter4.tex" 1750947940 14429 97327c5932a6aa26ff730dba9159c48a ""
@@ -250,15 +250,15 @@
   "figs/esquema ECG.png" 1750227445 95744 d6fbbef14ac29505f0add44804afacd6 ""
   "figs/image.png" 1747412592 75973 d3983bc1a78622de5708e1dc46b34d72 ""
   "figs/normalized ecg.jpg" 1748364447 39137 4a2ce3d4d1fbc8aa5bffcb94d5bfeabf ""
-  "glossary.aux" 1750949665 7245 83a29ce8b33a7f8212308eaa983f7a4b "pdflatex"
+  "glossary.aux" 1750950506 7245 7481bb8beba43f396c6ec7887b65aa42 "pdflatex"
   "glossary.tex" 1750911684 1220 6140c7c1b7c69501d949f7f43eb83ca3 ""
-  "lines.ind" 1750900807 0 d41d8cd98f00b204e9800998ecf8427e "makeindex lines.idx"
-  "matter.aux" 1750949666 4096 56e60508d7ba10f65bf787f45552cbab "pdflatex"
+  "lines.ind" 0 -1 0 "makeindex lines.idx"
+  "matter.aux" 1750950507 4096 c2c6939f3edd4553d93d62f7926153ba "pdflatex"
   "matter.bbl" 0 -1 0 "biber matter"
-  "matter.lof" 1750943378 3227 c4b0de9abd6554f1214448a820f841c6 ""
+  "matter.lof" 0 -1 0 ""
   "matter.lot" 0 -1 0 ""
-  "matter.mw" 1750949667 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "matter.tex" 1750949658 11578 d5354bde7ea87d0a7091aac9ad76a9af ""
+  "matter.mw" 1750950509 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "matter.tex" 1750950499 11578 d5354bde7ea87d0a7091aac9ad76a9af ""
   "matter.toc" 0 -1 0 ""
   (generated)
   "chapters/chapter1.aux"
