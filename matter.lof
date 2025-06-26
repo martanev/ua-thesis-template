@@ -16,13 +16,12 @@
 \contentsline {figure}{\numberline {3.9}{\ignorespaces Histograms of the features.}}{13}{figure.caption.35}%
 \contentsline {figure}{\numberline {3.10}{\ignorespaces Features normalised in time after interpolation.}}{14}{figure.caption.36}%
 \addvspace {10pt}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Scattering plot with data from baseline 2 and pain (left), and with the result of K-means clustering (right), when comparing the Roffsetampmedian\_median and Sampmedian\_median.}}{16}{figure.caption.38}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Network diagram of the pairs of features with more than 80\% correctly predicted observations.}}{17}{figure.caption.39}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Multiple comparison test of the R offset amplitude for a participant's baselines and pain phase.}}{18}{figure.caption.41}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Multiple comparison test of the S wave amplitude for a participant's baselines and pain phase.}}{18}{figure.caption.41}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Multiple comparison test of the entropy of the db4 approximation for a participant's baselines and pain phase.}}{18}{figure.caption.42}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Multiple comparison test of the entropy of the db9 approximation for a participant's baselines and pain phase.}}{18}{figure.caption.42}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Multiple comparison test (\ac {anova} + HSD) applied to both the baselines and to the pain phase, for each of the selected features.}}{19}{figure.caption.43}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Confusion matrix for KNN model testing.}}{21}{figure.caption.49}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Network diagram of the pairs of features with more than 80\% correctly predicted observations.}}{16}{figure.caption.38}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Multiple comparison test of the R offset amplitude for a participant's baselines and pain phase.}}{17}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Multiple comparison test of the S wave amplitude for a participant's baselines and pain phase.}}{17}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Multiple comparison test of the entropy of the db4 approximation for a participant's baselines and pain phase.}}{17}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Multiple comparison test of the entropy of the db9 approximation for a participant's baselines and pain phase.}}{17}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Multiple comparison test (\ac {anova} + HSD) applied to both the baselines and to the pain phase, for each of the selected features.}}{18}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Confusion matrix for KNN model testing.}}{20}{figure.caption.48}%
 \addvspace {10pt}
 \addvspace {10pt}

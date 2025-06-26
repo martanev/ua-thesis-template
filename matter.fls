@@ -917,12 +917,6 @@ OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
-INPUT .\figs\cluster.jpg
-INPUT .\figs\cluster.jpg
-INPUT .\figs\cluster.jpg
-INPUT .\figs\cluster.jpg
-INPUT .\figs\cluster.jpg
-INPUT .\figs\cluster.jpg
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw
@@ -1199,9 +1193,6 @@ OUTPUT matter.mw
 INPUT .\chapters\chapter4.aux
 INPUT .\chapters\chapter4.aux
 INPUT chapters\chapter4.aux
-OUTPUT matter.mw
-INPUT matter.mw
-OUTPUT matter.mw
 OUTPUT matter.mw
 INPUT matter.mw
 OUTPUT matter.mw

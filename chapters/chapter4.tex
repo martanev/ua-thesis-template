@@ -13,12 +13,12 @@ This clustering algorithm was applied to every possible pair of features, with t
 The result of clustering applied to two features -- the medians of the median of the S peak amplitude (x-axis) and of the median of the R offset amplitude (y-axis) -- is displayed in Figure \ref{fig:cluster} (right). In it, the two clusters defined by the algorithm can be seen, as well as X's in the position of the clusters' centroids.
 For comparison, scattering graphics were plotted for each two features, as can be seen in Figure \ref{fig:cluster} (left). The incorrect matches made by the clustering algorithm are circled in black.
 
-\begin{figure}[h!]
-    \centering
-    \includegraphics[width=1.0\textwidth]{cluster.jpg}
-    \caption{Scattering plot with data from baseline 2 and pain (left), and with the result of K-means clustering (right), when comparing the Roffsetampmedian\_median and Sampmedian\_median.}
-    \label{fig:cluster}
-\end{figure}
+%\begin{figure}[h!]
+    %\centering
+    %\includegraphics[width=1.0\textwidth]{cluster.jpg}
+    %\caption{Scattering plot with data from baseline 2 and pain (left), and with the result of K-means clustering (right), when comparing the Roffsetampmedian\_median and Sampmedian\_median.}
+    %\label{fig:cluster}
+%\end{figure}
 
 \pagebreak
 Only the pairs of features where more than 80\% of the observations were correctly predicted were considered valid. A network map illustrating these pairs was plotted in Figure \ref{fig:map80}. In this map, each circle corresponds to a feature, while the lines connecting them showcase the combinations that met the accuracy threshold. Additionally, the size of the circles is proportional to how many times that specific feature, paired with another, contributed to successful clustering. These results suggest that these five features, Roffsetampmedian\_median, Sampmedian\_median, Entropydb4Approx\_median, and Entropydb9Approx\_median, when paired with each other, are the most effective in distinguishing pain from no pain. A possible takeaway from this result is that pain affects the intensity of ventricular polarization, since the S wave and R offset are related to it. Regarding the entropy, pain affects it the most in the low frequencies of the \ac{ecg} signal, for both the db4 and db9 wavelets. This might entail that the QRS complex, as concluded before, and the fluctuations of the signal also affect pain.
