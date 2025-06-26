@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  26 JUN 2025 16:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.29)  26 JUN 2025 16:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1590,11 +1590,11 @@ Package biblatex Info: Automatic encoding selection.
 \openout4 = `matter.mw'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'matter.bbl' not found.
-
-No file matter.bbl.
+Package biblatex Info: ... file 'matter.bbl' found.
+ (matter.bbl)
 Package biblatex Info: Reference section=0 on input line 249.
 Package biblatex Info: Reference segment=0 on input line 249.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -8263,4 +8263,4 @@ chapters/chapter4.tex:79: Missing number, treated as zero.
 l.79 ...idth=6.8cm]{Entropy db9 Approx_part34.jpg}
                                                   
 A number should have been here; I inserted `0'.
-(If you can'
+(If you can't figure o
