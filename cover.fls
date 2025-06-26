@@ -63,8 +63,6 @@ INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\b
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-en.ini
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex\latex\tools\xspace.sty
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex\latex\tools\xspace.sty
-INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex\latex\blindtext\blindtext.sty
-INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex\latex\blindtext\blindtext.sty
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1phv.fd
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1phv.fd
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1phv.fd
@@ -93,14 +91,10 @@ INPUT .\figs\uaLogoNew.pdf
 INPUT .\figs\uaLogoNew.pdf
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
-INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
-INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8t.tfm
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8t.vf
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
 INPUT C:\Users\Geral\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
-INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8t.vf
-INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\helvetic\phvb8t.vf
 INPUT C:\Users\Geral\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\helvetic\phvb8r.tfm
 INPUT .\figs\uaLogoNew.pdf
